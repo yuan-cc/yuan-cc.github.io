@@ -1,3 +1,6 @@
+I am working on various aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport and radiation processes of high-energy particles originated from compact binary pairs (super massive/stellar mass black holes), supernovae, gamma-ray bursts, active galactic nuclei and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding on the physical nature of high-energy astrophysical phenomena.
+
+
 ## About 
 
 You can use the [editor on GitHub](https://github.com/yuan-cc/yuan-cc.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
