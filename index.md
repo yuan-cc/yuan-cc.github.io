@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About 
 
 You can use the [editor on GitHub](https://github.com/yuan-cc/yuan-cc.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
