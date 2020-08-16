@@ -14,7 +14,7 @@
     <![endif]-->
   </head>
   <body>
-  <div class="column left" style="background-color:#aaa;">
+  <div class="column left">
       <header>
         <img src="https://yuan-cc.github.io/files/profile.jpg" alt="profile" width="270" height="245">
         <h1>Chengchao Yuan</h1>
@@ -30,11 +30,13 @@
       </header>
     </div>
 
+    <div class="column right">
       <section>
 
       {{ content }}
 
       </section>
+      </div>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
