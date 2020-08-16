@@ -20,3 +20,5 @@ Advisor: Prof. Xiangyu Wang and Fayin Wang
 * Yuan, C., Murase, K. & Mészáros, P. (2019) [“Secondary Radio and X-ray Emissions from Galaxy Mergers”](https://iopscience.iop.org/article/10.3847/1538-4357/ab1f06), ApJ, 878:76. 
 * Yuan,C.,Mészáros,P.,MuraseK.&Jeong,D.(2018) [“CumulativeNeutrinoandGamma- Ray Backgrounds from Halo and Galaxy Mergers”](https://iopscience.iop.org/article/10.3847/1538-4357/aab774), ApJ, 857:50
 * Yuan, C. & Wang, F. (2015) [“Cosmological Test Using Strong Gravitational Lensing Systems”](https://academic.oup.com/mnras/article/452/3/2423/1080095), MNRAS, 452:3
+
+
