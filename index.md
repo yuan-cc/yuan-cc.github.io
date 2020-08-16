@@ -7,3 +7,5 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 ### Quick links
 * [ADS](https://ui.adsabs.harvard.edu) / [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) / [google-scholar](https://scholar.google.com)
 * [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)
+* [NED](http://nedwww.ipac.caltech.edu) / [simbad](http://simbad.cfa.harvard.edu/simbad/)
+* [astro-particle conference](http://www.nu.to.infn.it/conf/) / [AAS jobregister](https://jobregister.aas.org)
