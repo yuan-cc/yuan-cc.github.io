@@ -4,6 +4,49 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  <style>
+      button.accordion {
+      font:20px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.3s;
+      background-color: #f8f8f8;
+      }
+      button.accordion.active, button.accordion:hover {
+      background-color: #f8f8f8;
+      }
+      button.accordion:after {
+      content: " [+] ";
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
+
+      button.accordion.active:after {
+      content: " [\2212] ";
+      }
+      div.panel {
+      padding: 0 20px;
+      margin-top: 5px;
+      display: none;
+      background-color: white;
+      font-size: 100%;
+      }
+      div.panel.show {
+      display: block !important;
+      }
+      .social-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+    </style>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -15,14 +58,14 @@
     <div class="wrapper">
       <header>
         <h1>Chengchao Yuan</h1>
-        <p>Assistant Professor of Economics<br>University of Oklahoma</p>
-        <p>Research Affiliate<br><a href="http://legacy.iza.org/en/webcontent/personnel/photos/index_html?key=24155">Institute for the Study of Labor (IZA)</a></p>
-    <h3><a href="https://tyleransom.github.io/">Home</a></h3>
-        <h3><a href="https://tyleransom.github.io/research.html">Research</a></h3>
-    <h3><a href="https://tyleransom.github.io/research/CV.pdf">CV</a></h3>  
-        <h3><a href="https://tyleransom.github.io/code.html">Code</a></h3> 
-        <h3><a href="https://tyleransom.github.io/teaching.html">Teaching</a></h3> 
-        <h3><a href="https://tyleransom.github.io/personal.html">Personal</a></h3>
+        <p style="color:#FF8000">Ph.D. candidate of Physics<br>Pennsylvania State University</p>
+    <h3><a href="https://yuan-cc.github.io/">Home</a></h3>
+        <h3><a href="https://yuan-cc.github.io/research.html">Research</a></h3>
+    <h3><a href="https://yuan-cc.github.io/research/CV.html">CV</a></h3>  
+        <h3><a href="https://yuan-cc.github.io/contact.html",class="btn">Contact</a></h3>
+        <br>
+         <p style="color:magenta">Research Affiliate<br><a href="https://science.psu.edu/astro">Dept. of Astronomy & Astrophysics</a><br><a href="http://cpa.igc.psu.edu">Center for Multimessenger Astrophysics</a><br><a href="http://www.gravity.psu.edu">Institute for Gravitation and the Cosmos</a></p>
+
       </header>
       <section>
 
