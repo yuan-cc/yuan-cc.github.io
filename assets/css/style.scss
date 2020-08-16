@@ -62,9 +62,10 @@ a:hover small {
 }
 
 .wrapper {
-  width:1060px;
+  width:860px;
   margin:0 auto;
 }
+
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -115,6 +116,14 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
 }
 
 ul.downloads {
