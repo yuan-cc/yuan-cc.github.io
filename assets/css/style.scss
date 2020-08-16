@@ -224,7 +224,7 @@ footer {
   }
 
   header {
-    padding-right:520px;
+    padding-right:800px;
   }
 
   section {
@@ -245,7 +245,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1400px) {
   body {
     word-wrap:break-word;
   }
@@ -256,14 +256,14 @@ footer {
 
   header ul, header p.view {
     position:static;
-  }
+  }0
 
   pre, code {
     word-wrap:normal;
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 1400px) {
   body {
     padding:15px;
   }
