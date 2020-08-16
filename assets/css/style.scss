@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 body {
+  margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
   background-color: #fff;
   padding:50px;
   font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -180,6 +184,9 @@ strong {
 section {
   width:550px;
   float:right;
+  border-top: 5px;
+	padding-left:15px; padding-right:20px; padding-top:13px; padding-bottom:13px;
+	margin-left:28px; margin-top:0px;
   padding-bottom:50px;
 }
 
