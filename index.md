@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome to my personal site!
 
 I am starting my fifth year (as of Aug 2020) towards a Ph.D. of Physics at Penn State. With the emphasis in high-energy astrophysics, I'm working with Prof. Péter Mészáros and Prof. Kohta Murase. Prior to begining my Ph.D. career in 2016, I obtained my B.Sc. degree of Astronomy from Nanjing University in China. 
 
