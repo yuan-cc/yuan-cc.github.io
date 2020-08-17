@@ -15,3 +15,15 @@ as well as the Fermi-LAT detection efficiency, we estimate contributions from bl
 Fermi-LAT as well as the unresolved counterpart. The figure below shows the fraction of *Fermi*-LAT-resolved blazars in the
 cumulative neutrino flux as a function of the index *&gamma;*. Combining this ratio with the existing limits of stacking analyses, we obtain the constraints on the blazar overall contributions (detected blazars + undetected blazars).
 <img align="right" src="figs/compl1.png" alt="drawing" width="500"/>
+
+
+
+we present another type of constraints on the
+origins of IceCube diffuse neutrinos, using the negative
+results from the clustering test of neutrino-induced muon
+track events. These high-energy track events are generally detected by IceCube with the angular resolution
+∼ 0.5 deg, which enables us to determine the incoming
+directions and perform clustering analysis on their time
+and spatial distributions. So far, all the clustering tests
+based on high-energy muon neutrinos have found no statistically significant evidence of clustering in the arrival
+distribution of neutrinos. 
