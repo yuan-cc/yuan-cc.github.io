@@ -39,4 +39,4 @@ detected by IceCube. The blue dashed, red dash-dotted and thick black lines illu
 Lacs and all blazars whereas the corresponding areas show the uncertainties. The thin black line is the m ≥ 3 multiplet constraint for all
 blazars. Right panel: the energy-dependent upper limits from the stacking analysis for the all-blazar contributions, assuming a neutrino
 spectral index *s = 2.5*.
-<img align="right" src="figs/compl2.png" alt="drawing" width="500"/>
+<img align="right" src="figs/compl2.png" alt="drawing" />
