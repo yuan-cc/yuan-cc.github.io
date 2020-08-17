@@ -18,7 +18,7 @@ cumulative neutrino flux as a function of the index *&gamma;*. Combining this ra
 
 
 
-we present another type of constraints on the
+In addition, we present another type of constraints on the
 origins of IceCube diffuse neutrinos, using the negative
 results from the clustering test of neutrino-induced muon
 track events. These high-energy track events are generally detected by IceCube with the angular resolution
