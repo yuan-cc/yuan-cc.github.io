@@ -25,6 +25,9 @@ background. The main reason is that a larger fraction of the CR luminosity densi
 <img align="right" src="figs/gal_mergers3.png" alt="drawing" width="360"/>
 <br>
 <br>
+<br>
 *Fig 3 (left) and Fig. 5 (right) from Yuan et al. (2017)*
 <br>
-
+<br>
+On the other hand, the secondary electron-positron pairs produced from *pp* collision will radiate observable emissions through
+synchrotron radiation and inverse Compton scattering while propagating in the galactic magnetic field.
