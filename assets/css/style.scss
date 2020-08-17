@@ -16,7 +16,6 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family:Palatino;
   color:#222;
   margin:0 0 20px;
 }
@@ -250,6 +249,51 @@ footer {
   }
 
   
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+}
 
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding:15px;
+  }
+
+  .downloads {
+    width:99%;
+  }
+
+  .downloads li, .downloads li + li + li {
+    width:33%;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
 
 
