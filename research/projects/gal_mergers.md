@@ -22,7 +22,7 @@ several PeV. We also show that our model can somewhat alleviate tensions with th
 background. The main reason is that a larger fraction of the CR luminosity density comes from high redshifts. In this case the accompanying γ-rays are more strongly suppressed through γγ annihilations with the cosmic microwave background and the extragalactic background light.
 
 <img align="left" src="figs/gal_mergers2.png" alt="drawing" width="350"/>
-<img align="right" src="figs/gal_mergers2.png" alt="drawing" width="350"/>
+<img align="right" src="figs/gal_mergers3.png" alt="drawing" width="350"/>
 
 <br>
 
