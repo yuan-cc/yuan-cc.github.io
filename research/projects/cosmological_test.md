@@ -13,4 +13,4 @@ One of the most intriguing predictions from Einstein's general relativity is tha
 
 In this work, instead of treating the time delay and velocity disperson as independent probes, we find that the combined quantity 
 (time delay)/(velocity disperson)^2 is more sensitive for different cosmological models, as illustrated in the figure below.
-![Alt text](../figs/cosmological_test1.eps?raw=true "Title")
+![Alt text](figs/cosmological_test1.png?raw=true "Title")
