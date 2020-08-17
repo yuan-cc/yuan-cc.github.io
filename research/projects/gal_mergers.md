@@ -60,10 +60,10 @@ synchrotron radiation and inverse Compton scattering while propagating in the ga
 <br>
 
 
-Since the galaxy mergers typically lead to the merger of SMBHs, we expect the stochastic GW emission from galaxy mergers may be detected by the next generation GW detector, LISA. We estimated the stochastic GW power spectra for different mass scenarios:
+Since the galaxy mergers typically lead to the merger of SMBHs, we expect the stochastic GW emission from galaxy mergers may be detected by the next generation GW detector, LISA. We estimated the stochastic GW power spectra for three scenarios:
 * 1E6-1E6: all SMBHs are identical and the mass is 10^6 solar mass.
-* EM: a mass distribution of SMBHs are used, however the mass ratio is fix to be 1:1.
-* DM: a mass distribution of SMBHs are used and the masses of the two black holes are independent.
+* EM: a mass distribution of SMBHs is used, however the mass ratio is fix to be 1:1.
+* DM: a mass distribution of SMBHs is used and the masses of the two black holes are independent.
 
 The spectral intensity for these scenarios are shown below
 <img align="right" src="figs/gal_mergers6.png" alt="drawing" width="500"/>
