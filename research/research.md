@@ -5,7 +5,7 @@
 * [High-energy neutrino and EM emissions subquent to GW radiation from SMBH mergers](https://yuan-cc.github.io/research/projects/smbh_mergers.html)
 * [Complementarity of stacking and multiplet constraints on blazar neutrinos](https://yuan-cc.github.io/research/projects/complementarity.html)
 * [A multimessenger picture of galaxy and halo mergers](https://yuan-cc.github.io/research/projects/gal_mergers.html)
-* [Monte Carlo simulation of electron-photon interactions with pair formation](https://yuan-cc.github.io/research/projects/e_gamma_interactions.html)
+* [Monte Carlo Electron-Photon Interactions with Pair Formation](https://yuan-cc.github.io/research/projects/e_gamma_interactions.html)
 * [Cosmological test using strong gravitational lensing systems](https://yuan-cc.github.io/research/projects/cosmological_test.html)
 
 ### Scientific Write-ups
