@@ -39,7 +39,7 @@ within a decade.
 
 We also evaluated the contribution of SMBH mergers to the diffuse neutrino background. 
 <img align="right" src="figs/smbh_mergers5.png" alt="drawing" />
-The right figure illustrates the redshift-integrated all-flavor diffuse neutrino flux expected from relativistic jets in SMBH mergers. Our results demonstrate that 
+The left panel shows the differential neutrino intensities as a function of redshift, in comparison with the SFG case, whereas the right figure illustrates the redshift-integrated all-flavor diffuse neutrino flux expected from relativistic jets in SMBH mergers. Our results demonstrate that 
 a significant fraction of the observed very high-energy (*Eν > 1 PeV*) IceCube neutrinos could originate from them in the optimistic cases. Since SMBH mergers are promising emitters of ultrahigh-energy neutrinos, these sources will become important candidates for future neutrino detectors and in this case our model can be tested and constrained. 
 
 
