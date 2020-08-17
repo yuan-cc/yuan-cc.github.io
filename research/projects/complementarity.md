@@ -27,3 +27,16 @@ directions and perform clustering analysis on their time
 and spatial distributions. So far, all the clustering tests
 based on high-energy muon neutrinos have found no statistically significant evidence of clustering in the arrival
 distribution of neutrinos. 
+
+The right figure illustrates the upper limits for the all-blazar
+neutrino flux from Fermi-LAT 2LAC and Fermi-LAT
+3LAC analysis. We show all-flavor neutrino fluxes for all
+curves and data points in this figure. The left panel shows the stacking constraints on the contributions
+of all blazars to the cumulative neutrino flux and high-energy neutrino multiplet constraints on the blazar
+contributions in the neutrino sky for an *&epsilon;^-2* neutrino spectrum. The magenta and green areas correspond to the all-blazar upper limit from
+Fermi-LAT-2LAC and Fermi−3LAC equal weighting analysis, respectively. The cyan horizontal area shows the cumulative neutrino flux
+detected by IceCube. The blue dashed, red dash-dotted and thick black lines illustrate the *m ≥ 2* multiplet constraints for FSRQs, BL
+Lacs and all blazars whereas the corresponding areas show the uncertainties. The thin black line is the m ≥ 3 multiplet constraint for all
+blazars. Right panel: the energy-dependent upper limits from the stacking analysis for the all-blazar contributions, assuming a neutrino
+spectral index *s = 2.5*.
+<img align="right" src="figs/compl2.png" alt="drawing" width="500"/>
