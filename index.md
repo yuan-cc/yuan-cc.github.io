@@ -24,9 +24,6 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 <br>
 
-<br>
-
-<br>
 <p style="text-align:right;">
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
