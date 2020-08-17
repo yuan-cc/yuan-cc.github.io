@@ -6,16 +6,16 @@ Full CV in [PDF](https://yuan-cc.github.io/files/CV2__Copy.pdf) [Last updated: A
 2016 - 2021 (expected) <br />
 Advisor: Prof. Peter Meszaros and Kohta Murase
 
-**B.Sc. of Astronomy**, Nanjing University, China<br />
+**B.Sc. of Astronomy**, Nanjing University (NJU), China<br />
 2012 - 2016  <br />
 Advisor: Prof. Xiangyu Wang and Fayin Wang
 
 ### Honors and Awards
 * David C. Duncan Graduate Fellowship, Penn State (2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
-* School of Astronomy and Space Science Dean’s Scholarship, Nanjing University (2016)
-* Outstanding Thesis Award, Nanjing University (2016)
-* REU Intern Travel Grant (host institution: Penn State), Nanjing University (2015)
+* School of Astronomy and Space Science Dean’s Scholarship, NJU (2016)
+* Outstanding Thesis Award, NJU (2016)
+* REU Intern Travel Grant (host institution: Penn State), NJU (2015)
 
 ### Selected Publications
 * Yuan, C., Murase, K., Kimura, S. & Mészáros, P. (2020) [“High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers”](https://arxiv.org/abs/2008.05616), arXiv: 2008.05616, submitted to Phys. Rev. D
