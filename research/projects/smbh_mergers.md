@@ -15,4 +15,4 @@ inside the premerger disk wind material, and then they subsequently get collimat
 formation of internal shocks, collimation shocks, forward shocks and reverse shocks. Cosmic rays can
 be accelerated in these sites and neutrinos are expected via the photomeson production process. We
 formulate the jet structures and relevant interactions therein, and then evaluate neutrino emission
-from each shock site. 
+from each shock site. The schematic picture below shows the structure of the jet-cocoon system.
