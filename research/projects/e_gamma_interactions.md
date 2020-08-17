@@ -1,4 +1,5 @@
 ## Research project
+<[previous](https://yuan-cc.github.io/research/projects/gal_mergers.html) | [next](https://yuan-cc.github.io/research/projects/cosmological_test.html)>
 <hr>
 
 ### Monte Carlo Electron-Photon Interactions with Pair Formation
