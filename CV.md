@@ -14,7 +14,7 @@ Advisor: Prof. Xiangyu Wang and Fayin Wang
 * David C. Duncan Graduate Fellowship, Penn State (2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
 * Outstanding Thesis Award, Nanjing University (2016)
-* REU Intern Travel Grant, Nanjing University, host institution: Penn State (2015)
+* REU Intern Travel Grant (host institution: Penn State), Nanjing University (2015)
 
 ### Selected Publications
 * Yuan, C., Murase, K., Kimura, S. & Mészáros, P. (2020) [“High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers”](https://arxiv.org/abs/2008.05616), arXiv: 2008.05616, submitted to Phys. Rev. D
