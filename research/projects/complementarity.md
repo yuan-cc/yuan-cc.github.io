@@ -1,4 +1,5 @@
-## Research project<pre><[previous](https://yuan-cc.github.io/research/projects/complementarity.html) | [next](https://yuan-cc.github.io/research/projects/gal_mergers.html)> </pre>
+## Research project
+<[previous](https://yuan-cc.github.io/research/projects/smbh_mergers.html) | [next](https://yuan-cc.github.io/research/projects/gal_mergers.html)>
 <hr>
 
 ### Complementarity of stacking and multiplet constraints on blazar neutrinos
