@@ -21,7 +21,7 @@ resulting neutrino spectra could explain a large part of the observed diffuse ne
 several PeV. We also show that our model can somewhat alleviate tensions with the extragalactic gamma-ray
 background. The main reason is that a larger fraction of the CR luminosity density comes from high redshifts. In this case the accompanying γ-rays are more strongly suppressed through γγ annihilations with the cosmic microwave background and the extragalactic background light. The left and right panels below respectively show the redshift evolution of CR intensities and the cumulative neutrino/gamma-ray spectra.
 
-<img align="left" src="figs/gal_mergers2.png" alt="drawing" width="600"/>
+<img align="left" src="figs/gal_mergers2.png" alt="drawing" width="360"/>
 <img align="right" src="figs/gal_mergers3.png" alt="drawing" width="360"/>
 <br>
 <br>
