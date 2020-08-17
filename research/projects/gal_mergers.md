@@ -44,12 +44,6 @@ synchrotron radiation and inverse Compton scattering while propagating in the ga
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <br>
 
