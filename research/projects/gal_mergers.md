@@ -30,4 +30,4 @@ background. The main reason is that a larger fraction of the CR luminosity densi
 <br>
 <br>
 On the other hand, the secondary electron-positron pairs produced from *pp* collision will radiate observable emissions through
-synchrotron radiation and inverse Compton scattering while propagating in the galactic magnetic field. In the second part of this project, we calculated the EM emissions from the secondary particles and use this model to explain the observed radio and X-ray data points. We selected two merging galaxies NGC 660 and NGC 3256. The figures elow shows the constraints on the gas mass and the shock velocity for NGC 660 
+synchrotron radiation and inverse Compton scattering while propagating in the galactic magnetic field. In the second part of this project, we calculated the EM emissions from the secondary particles and use this model to explain the observed radio and X-ray data points. We selected two merging galaxies NGC 660 and NGC 3256. The figures below show the constraints on the gas mass and the shock velocity for NGC 660 as well as the fitting to the spectral energy distribution.
