@@ -16,3 +16,5 @@ formation of internal shocks, collimation shocks, forward shocks and reverse sho
 be accelerated in these sites and neutrinos are expected via the photomeson production process. We
 formulate the jet structures and relevant interactions therein, and then evaluate neutrino emission
 from each shock site. The schematic picture below shows the structure of the jet-cocoon system.
+
+<img align="right" src="figs/smbh_mergers1.png" alt="drawing" width="500"/>
