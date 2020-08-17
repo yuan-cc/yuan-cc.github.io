@@ -45,8 +45,7 @@ In conclusion, we
 found that the multiplet constraints are the most important at lower values of *γ*, e.g. *γ ∼
 < 1.0*, whereas
 all-blazar constraints derived from the existing stacking
-upper limits are more stringent for a stronger luminosity correlation, e.g., *γ ∼
-> 1.5*. The joint consideration
+upper limits are more stringent for a stronger luminosity correlation, e.g., *γ ∼> 1.5*. The joint consideration
 of these two kinds of limits supports the extended argument that all blazars, including Fermi−unresolved ones,
 are unlikely to dominate the cumulative neutrino background for a generic correlation between the neutrino
 and gamma-ray luminosities, *Lν ∝ (Lph)^γ* , with the index *0 ∼< γ ∼< 2.5*. 
