@@ -9,8 +9,8 @@
 * [Cosmological test using strong gravitational lensing systems](https://yuan-cc.github.io/research/projects/cosmological_test.html)
 
 ### Scientific Write-ups
-* Neutrino oscillations in matter and mass hierarchy [[pdf]](https://yuan-cc.github.io/research/files/neutrino_matter.pdf)
-* An overview of gravitational wave sources [[pdf]](https://yuan-cc.github.io/research/files/GW_sources.pdf)
+* Neutrino Oscillations in Matter and Mass Hierarchy [[pdf]](https://yuan-cc.github.io/research/files/neutrino_matter.pdf)
+* An Overview of Gravitational Wave Sources [[pdf]](https://yuan-cc.github.io/research/files/GW_sources.pdf)
 * Gravitational Turbulence Stimulated by a Fast-Moving Mass [[pdf]](https://yuan-cc.github.io/research/files/gt.pdf)
 * The Physics of Massive Compact Halo Objects (MACHOs) [[pdf]](https://yuan-cc.github.io/research/files/machos.pdf)
 * The Limits of Quintessence [[pdf]](https://yuan-cc.github.io/research/files/quin.pdf)
