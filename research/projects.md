@@ -13,7 +13,7 @@
 * The Physics of Massive Compact Halo Objects (MACHOs) [[pdf]](https://yuan-cc.github.io/research/files/machos.pdf)
 * The Limits of Quintessence [[pdf]](https://yuan-cc.github.io/research/files/quin.pdf)
 * Speed and Lifetime of Cosmic-Ray Muons [[pdf]](https://yuan-cc.github.io/research/files/muon_speed.pdf)
-* The Applicability of High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
+* High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
 * Mercury’s Perihelion Advance from the Solar Quadrupole Moment [[pdf]](https://yuan-cc.github.io/research/files/mercury.pdf)
 
 ### Notes
