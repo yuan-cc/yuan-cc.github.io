@@ -1,4 +1,5 @@
 ## Research
+<hr>
 
 ### Projects
 * [High-energy neutrino and EM emissions subquent to GW radiation from SMBH mergers](https://yuan-cc.github.io/research/smbh_mergers.html)
