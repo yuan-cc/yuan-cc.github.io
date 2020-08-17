@@ -15,4 +15,7 @@ In this work, instead of treating the time delay and velocity disperson as indep
 (time delay)/(velocity disperson)^2 is more sensitive for different cosmological models, as illustrated in the figure below, where *z_l* is the redshift of lens galaxy.
 ![Alt text](figs/cosmological_test1.png?raw=true "Title")
 *Fig 1 from Yuan & Wang (2015): sensitivity of three methods in constraining the cosmological parameters in &Lambda;CDM universe.*
-Moreover, we use Monte Carlo simulations to make one-on-one comparisons between &Lambda;CDM universe and Rh = ct universe. We find that our new probe can be more efficient for model selections. In particlar, less lensing systems are required to exclude another model with 3&sigma; significance if one model is assumed as the background. 
+
+Moreover, we use Monte Carlo simulations to make one-on-one comparisons between &Lambda;CDM universe and Rh = ct universe. We find that our new probe can be more efficient for model selections. In particlar, less lensing systems are required to exclude another model with 3&sigma; significance if one model is assumed as the background. In addition, the joint consideration of our new probe and the time delay information will lead to a more stringent constraint on the Hubble constant and &Omega;m simultaneously (See the figure below).
+![Alt text](figs/cosmological_test2.png?raw=true "Title")
+*Fig 6 from Yuan & Wang (2015): the 68.3 percent and 95.4 percent confidence regions for ambda;CDM model on the m–H0 planefor both τ and τ /σ2 methods*
