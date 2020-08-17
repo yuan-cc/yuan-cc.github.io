@@ -13,6 +13,7 @@ Advisor: Prof. Xiangyu Wang and Fayin Wang
 ### Honors and Awards
 * David C. Duncan Graduate Fellowship, Penn State (2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
+* School of Astronomy and Space Science Dean’s Scholarship, Nanjing University (2016)
 * Outstanding Thesis Award, Nanjing University (2016)
 * REU Intern Travel Grant (host institution: Penn State), Nanjing University (2015)
 
