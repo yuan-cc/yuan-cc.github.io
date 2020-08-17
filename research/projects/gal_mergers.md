@@ -65,5 +65,5 @@ Since the galaxy mergers typically lead to the merger of SMBHs, we expect the st
 * EM: a mass distribution of SMBHs is used, however the mass ratio is fix to be 1:1.
 * DM: a mass distribution of SMBHs is used and the masses of the two black holes are independent.
 
-The spectral intensity for these scenarios are shown below
+The corresponding spectral intensities for these scenarios are shown below
 <img align="right" src="figs/gal_mergers6.png" alt="drawing" width="500"/>
