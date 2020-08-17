@@ -16,5 +16,5 @@
 * Speed and Lifetime of Cosmic-Ray Muons [[pdf]](https://yuan-cc.github.io/research/files/muon_speed.pdf)
 * High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
 
-### Notes
-* [Differential geometry (in Chinese)](https://yuan-cc.github.io/research/files/differential_geometry.pdf) / [Tensor calculus](https://yuan-cc.github.io/research/files/tensors.pdf) / [Group theory](https://yuan-cc.github.io/research/files/group_theory.pdf) 
+<!-- ### Notes
+* [Differential geometry (in Chinese)](https://yuan-cc.github.io/research/files/differential_geometry.pdf) / [Tensor calculus](https://yuan-cc.github.io/research/files/tensors.pdf) / [Group theory](https://yuan-cc.github.io/research/files/group_theory.pdf) -->
