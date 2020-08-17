@@ -5,9 +5,8 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 16px/1.5;
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-family:Palatino;
   font-weight:400;
 
 }
@@ -17,6 +16,7 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
+  font-family:Palatino;
   color:#222;
   margin:0 0 20px;
 }
