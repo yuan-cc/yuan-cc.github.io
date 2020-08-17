@@ -29,5 +29,17 @@ Here we consider the CS case as an example, and it is straightforward to rewrite
 
 Assuming that the high-energy protons have the canonical shock acceleration spectrum with a spectral index *p = 2* and an exponential cutoff at the maximum proton energy, we obtain the single flavor isotropic neutrino spectrum at each site in the observer’s frame. From the lightcurves of neutrino emission, we can calculate the integrated neutrino fluence at a give observation duration and further estimate the detection rates for IceCube and IceCube Gen-2. The table below presents the expected 1-year and 10-year event numbers.
 <img align="right" src="figs/smbh_mergers4.png" alt="drawing" />
+From this table we find that month-to-year high-energy neutrino emission from the post-merger jet after the gravitational wave event is detectable by IceCube-Gen2 within approximately five to ten years of operation in optimistic cases where the cosmic-ray loading is sufficiently high and a mildly super-Eddington accretion is achieved. Meanwhile, we calculated the neutrino detection rates within the LISA detection range. We find that it may be challenging for IceCube-Gen2 to detect neutrinos from LISA-detected SMBH mergers
+with conservative parameters. On the other
+hand, if the LISA-detected binary SMBH systems are
+super-Eddington accreters before and af-
+ter the merger, the resulting neutrino emission from the
+jet-induced shocks may be detected by IceCube-Gen2
+within a decade.
+
+We also evaluated the contribution of SMBH mergers to the diffuse neutrino background. 
+<img align="right" src="figs/smbh_mergers5.png" alt="drawing" />
+The right figure illustrates the redshift-integrated all-flavor diffuse neutrino flux expected from relativistic jets in SMBH mergers. Our results demonstrate that 
+a significant fraction of the observed very high-energy (*Eν > 1 PeV*) IceCube neutrinos could originate from them in the optimistic cases. Since SMBH mergers are promising emitters of ultrahigh-energy neutrinos, these sources will become important candidates for future neutrino detectors and in this case our model can be tested and constrained. 
 
 
