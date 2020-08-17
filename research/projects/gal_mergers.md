@@ -33,3 +33,13 @@ On the other hand, the secondary electron-positron pairs produced from *pp* coll
 synchrotron radiation and inverse Compton scattering while propagating in the galactic magnetic field. In the second part of this project, we calculated the EM emissions from the secondary particles and use this model to explain the observed radio and X-ray data points. We selected two merging galaxies NGC 660 and NGC 3256. The figures below show the constraints on the gas mass and the shock velocity for NGC 660 as well as the fitting to the spectral energy distribution.
 <img align="left" src="figs/gal_mergers4.png" alt="drawing" width="800"/>
 <img align="right" src="figs/gal_mergers5.png" alt="drawing" width="500"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Since the galaxy mergers typically lead to the merger of SMBHs, we expect the stochastic GW emission from galaxy mergers may be detected by the next generation GW detector, LISA. 
