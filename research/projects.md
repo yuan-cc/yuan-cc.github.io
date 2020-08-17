@@ -8,11 +8,13 @@
 * [Cosmological test using strong gravitational lensing systems](https://yuan-cc.github.io/research/cosmological_test.html)
 
 ### Scientific Write-ups
-* [Neutrino oscillations in matter and mass hierarchy](https://yuan-cc.github.io/research/files/neutrinos_matter.pdf)
-* [An overview of gravitational wave sources](https://yuan-cc.github.io/research/files/GW_sources.pdf)
-* [The Physics of Massive Compact Halo Objects (MACHOs)](https://yuan-cc.github.io/research/files/machos.pdf)
-* [The Limits of Quintessence](https://yuan-cc.github.io/research/files/quin.pdf)
-* [Mercury’s Perihelion Advance from the Solar Quadrupole Moment](https://yuan-cc.github.io/research/files/mercury.pdf)
+* Neutrino oscillations in matter and mass hierarchy [[pdf]](https://yuan-cc.github.io/research/files/neutrino_matter.pdf)
+* An overview of gravitational wave sources [[pdf]](https://yuan-cc.github.io/research/files/GW_sources.pdf)
+* The Physics of Massive Compact Halo Objects (MACHOs) [[pdf]](https://yuan-cc.github.io/research/files/machos.pdf)
+* The Limits of Quintessence [[pdf]](https://yuan-cc.github.io/research/files/quin.pdf)
+* Speed and Lifetime of Cosmic-Ray Muons [[pdf]](https://yuan-cc.github.io/research/files/muon_speed.pdf)
+* The Applicability of High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
+* Mercury’s Perihelion Advance from the Solar Quadrupole Moment [[pdf]](https://yuan-cc.github.io/research/files/mercury.pdf)
 
 ### Notes
 * [Differential geometry (in Chinese)](https://yuan-cc.github.io/research/files/differential_geometry.pdf) / [Tensor calculus](https://yuan-cc.github.io/research/files/tensors.pdf) / [Group theory](https://yuan-cc.github.io/research/files/group_theory.pdf) 
