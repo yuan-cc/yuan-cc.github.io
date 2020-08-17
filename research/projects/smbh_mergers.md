@@ -1,4 +1,5 @@
-## Research project<pre><[next](https://yuan-cc.github.io/research/projects/complementarity.html)> </pre>
+## Research project
+<[next](https://yuan-cc.github.io/research/projects/complementarity.html)>
 <hr>
 
 ### High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers
