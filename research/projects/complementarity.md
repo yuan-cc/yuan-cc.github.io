@@ -14,3 +14,4 @@ luminosity functions for blazars including flat spectrum radio quasars (FSRQs) a
 as well as the Fermi-LAT detection efficiency, we estimate contributions from blazars resolved by
 Fermi-LAT as well as the unresolved counterpart. The figure below shows the fraction of *Fermi*-LAT-resolved blazars in the
 cumulative neutrino flux as a function of the index *&gamma;*. Combining this ratio with the existing limits of stacking analyses, we obtain the constraints on the blazar overall contributions (detected blazars + undetected blazars).
+<img align="right" src="figs/compl1.png" alt="drawing" width="500"/>
