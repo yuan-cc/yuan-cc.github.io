@@ -2,7 +2,7 @@
 <[next](https://yuan-cc.github.io/research/projects/complementarity.html)>
 <hr>
 
-### High-energy neutrino and EM emissions subquent to GW radiation from SMBH mergers
+### High-energy neutrino and EM emissions subsequent to GW radiation from SMBH mergers
 * The [neutrino paper](https://arxiv.org/abs/2008.05616)
 * The EM counterpart paper: preparing 
 
