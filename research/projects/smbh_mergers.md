@@ -23,7 +23,11 @@ In astrophysical environments, neutrinos are produced through the decay of pions
 <img align="right" src="figs/smbh_mergers2.png" alt="drawing" width="500"/>
 Since the collimated jet is optically thin, we focus on nonthermal photons produced by the accelerated electrons and treat each site as an independent neutrino emitter, where the subtle interactions between particles from different regions are not considered. Here, we take a semianalytical approach to model the synchrotron and synchrotron-self-Compton (SSC) components of the target photon fields (see the right figure). 
 
-To calculate the neutrino emission, we need to esti- mate the cooling and acceleration timescales of the pro- tons. Here we consider the CS case as an example, and it is straightforward to rewrite the relevant equations to cover the IS, FS and RS scenarios. The right figure depicts the timescales/cooling rates of particle interactions at CS.
+To calculate the neutrino emission, we need to estimate the cooling and acceleration timescales of the protons. 
 <img align="right" src="figs/smbh_mergers3.png" alt="drawing" width="500"/>
+Here we consider the CS case as an example, and it is straightforward to rewrite the relevant equations to cover the IS, FS and RS scenarios. The right figure depicts the timescales/cooling rates of particle interactions at CS. 
+
+Assuming that the high-energy protons have the canonical shock acceleration spectrum with a spectral index *p = 2* and an exponential cutoff at the maximum proton energy, we obtain the single flavor isotropic neutrino spectrum at each site in the observer’s frame. From the lightcurves of neutrino emission, we can calculate the integrated neutrino fluence at a give observation duration and further estimate the detection rates for IceCube and IceCube Gen-2. The table below presents the expected 1-year and 10-year event numbers.
+<img align="right" src="figs/smbh_mergers4.png" alt="drawing" />
 
 
