@@ -19,8 +19,9 @@ from each shock site. The schematic picture below shows the structure of the jet
 
 <img align="right" src="figs/smbh_mergers1.png" alt="drawing" />
 
-In astrophys- ical environments, neutrinos are produced through the decay of pions created by CRs via pp and/or pγ inter- actions. Since the collimated jet is optically thin, we fo- cus on nonthermal photons produced by the accelerated electrons and treat each site as an independent neutrino emitter, where the subtle interactions between particles from different regions are not considered. Here, we take a semianalytical approach to model the synchrotron and synchrotron-self-Compton (SSC) components of the target photon fields (see the right figure). 
+In astrophysical environments, neutrinos are produced through the decay of pions created by CRs via pp and/or pγ interactions. 
 <img align="right" src="figs/smbh_mergers2.png" alt="drawing" width="500"/>
+Since the collimated jet is optically thin, we focus on nonthermal photons produced by the accelerated electrons and treat each site as an independent neutrino emitter, where the subtle interactions between particles from different regions are not considered. Here, we take a semianalytical approach to model the synchrotron and synchrotron-self-Compton (SSC) components of the target photon fields (see the right figure). 
 
 To calculate the neutrino emission, we need to esti- mate the cooling and acceleration timescales of the pro- tons. Here we consider the CS case as an example, and it is straightforward to rewrite the relevant equations to cover the IS, FS and RS scenarios. The right figure depicts the timescales/cooling rates of particle interactions at CS.
 <img align="right" src="figs/smbh_mergers3.png" alt="drawing" width="500"/>
