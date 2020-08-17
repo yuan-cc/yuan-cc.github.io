@@ -19,10 +19,10 @@ halo gas content, and galactic/intergalactic magnetic fields over the dark matte
 We find that high-redshift mergers contribute a significant amount of the CR luminosity density, and the
 resulting neutrino spectra could explain a large part of the observed diffuse neutrino flux above 0.1 PeV up to
 several PeV. We also show that our model can somewhat alleviate tensions with the extragalactic gamma-ray
-background. The main reason is that a larger fraction of the CR luminosity density comes from high redshifts. In this case the accompanying γ-rays are more strongly suppressed through γγ annihilations with the cosmic microwave background and the extragalactic background light.
+background. The main reason is that a larger fraction of the CR luminosity density comes from high redshifts. In this case the accompanying γ-rays are more strongly suppressed through γγ annihilations with the cosmic microwave background and the extragalactic background light. The left and right panels below respectively show the redshift evolution of CR intensities and the cumulative neutrino/gamma-ray spectra.
 
-<img align="left" src="figs/gal_mergers2.png" alt="drawing" width="350"/>
-<img align="right" src="figs/gal_mergers3.png" alt="drawing" width="350"/>
-
+<img align="left" src="figs/gal_mergers2.png" alt="drawing" width="380"/>
+<img align="right" src="figs/gal_mergers3.png" alt="drawing" width="380"/>
+*Fig 3 (left) and Fig. 5 (right) from Yuan et al. (2017)*
 <br>
 
