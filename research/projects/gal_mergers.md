@@ -23,6 +23,7 @@ background. The main reason is that a larger fraction of the CR luminosity densi
 
 <img align="left" src="figs/gal_mergers2.png" alt="drawing" width="360"/>
 <img align="right" src="figs/gal_mergers3.png" alt="drawing" width="360"/>
+
 *Fig 3 (left) and Fig. 5 (right) from Yuan et al. (2017)*
 <br>
 
