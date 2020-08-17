@@ -1,3 +1,5 @@
+<img  src="files/image2.jpg" alt="drawing" />
+
 ## Contact info
 
 - **E-mail:** cxy52@psu.edu
