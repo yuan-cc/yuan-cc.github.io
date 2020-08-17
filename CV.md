@@ -1,4 +1,4 @@
-## Curriculum Vitae
+## Curriculum Vitae of Chengchao Yuan (袁成超)
 Full CV in [PDF](https://yuan-cc.github.io/files/CV2__Copy.pdf) [Last updated: Aug 2020]
 <hr> 
 
