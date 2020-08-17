@@ -12,5 +12,5 @@ We investigate the blazar contribution to the cumulative neutrino intensity assu
 relationship between neutrino and gamma-ray luminosities, Lν ∝ (L_ph)^*&gamma;*. Using the gamma-ray
 luminosity functions for blazars including flat spectrum radio quasars (FSRQs) and BL Lac objects,
 as well as the Fermi-LAT detection efficiency, we estimate contributions from blazars resolved by
-F ermi-LAT as well as the unresolved counterpart. The figure below shows the fraction of *Fermi*-LAT-resolved blazars in the
-cumulative neutrino flux as a function of the index *&gamma;*.
+Fermi-LAT as well as the unresolved counterpart. The figure below shows the fraction of *Fermi*-LAT-resolved blazars in the
+cumulative neutrino flux as a function of the index *&gamma;*. Combining this ratio with the existing limits of stacking analyses, we obtain the constraints on the blazar overall contributions (detected blazars + undetected blazars).
