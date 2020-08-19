@@ -23,16 +23,6 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 <div style="width: 80px; height: 20px; background-color: white; float: right;" 
         onmouseover="document.getElementById('div1').style.display = 'block';"
         onmouseout="document.getElementById('div1').style.display = 'none';" >
