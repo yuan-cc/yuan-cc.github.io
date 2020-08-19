@@ -26,10 +26,10 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 <div style="width: 80px; height: 20px; background-color: white; float: right;" 
         onmouseover="document.getElementById('div1').style.display = 'block';"
         onmouseout="document.getElementById('div1').style.display = 'none';" >
-<!-- hitwebcounter Code START -->
  <div id="div1" style="display: none;">
+<!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7651755&style=0024&nbdigits=5&type=page&initCount=0" title="Free Stats for webpages" Alt="hitwebcounter"   border="0" >
-</a>      
+<img src="https://hitwebcounter.com/counter/counter.php?page=7652701&style=0006&nbdigits=6&type=page&initCount=412" title="Free Stats for webpages" Alt="hitwebcounter"   border="0" >
+</a>     
 </div>
 </div>
