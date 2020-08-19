@@ -33,19 +33,12 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 
 <br>
 
-<div style="width: 80px; height: 20px; background-color: red;" 
-        onmouseover="document.getElementById('div1').style.display = 'block';">
-   <div id="div1" style="display: none;">Text</div>
-</div>
-
 <div style="style="width: 80px; height: 20px; background-color: red; text-align:right;" 
         onmouseover="document.getElementById('div1').style.display = 'block';">
-<p style="text-align:right;">
 <!-- hitwebcounter Code START -->
-  <div id="div1" style="display: none;">
+ <div id="div1" style="display: none;">
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7651755&style=0024&nbdigits=5&type=page&initCount=0" title="Free Stats for webpages" Alt="hitwebcounter"   border="0" >
 </a>      
 </div>
-</p>
 </div>
