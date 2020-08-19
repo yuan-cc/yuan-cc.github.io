@@ -14,7 +14,7 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 
 
 ### Quick links
-* [ADS](https://ui.adsabs.harvard.edu) / [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) / [google-scholar](https://scholar.google.com)
+* [ADS](https://ui.adsabs.harvard.edu) / [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
 * Submit to [AAS Journals](https://aas.msubmit.net/) / [PRD](https://authors.aps.org/Submissions/login/new) / [MNRAS](https://mc.manuscriptcentral.com/mnras#)
 * [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)
 * [NED](http://nedwww.ipac.caltech.edu) / [Simbad](http://simbad.cfa.harvard.edu/simbad/)
