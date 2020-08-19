@@ -16,7 +16,7 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 ### Quick links
 * [ADS](https://ui.adsabs.harvard.edu) / [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
 * Submit to [AAS Journals](https://aas.msubmit.net/) / [PRD](https://authors.aps.org/Submissions/login/new) / [MNRAS](https://mc.manuscriptcentral.com/mnras#)
-* [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)
+<!--* [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)  -->
 * [NED](http://nedwww.ipac.caltech.edu) / [Simbad](http://simbad.cfa.harvard.edu/simbad/)
 * [Cosmological calculator](https://ned.ipac.caltech.edu/help/cosmology_calc.html) / [PlotDigitizer](https://automeris.io/WebPlotDigitizer/) / [HugeifyImage](https://waifu2x.booru.pics) / [Higgstan](https://higgstan.com)
 * [AAS jobregister](https://jobregister.aas.org) / [Astroparticle conferences](http://www.nu.to.infn.it/conf/) / [Astronomy meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)
