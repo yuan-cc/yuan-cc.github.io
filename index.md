@@ -33,8 +33,9 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 
 <br>
 
-<div style="width: 80px; height: 20px; background-color: red;" 
-        onmouseover="document.getElementById('div1').style.display = 'block';">
+<div style="width: 80px; height: 20px; background-color: white;" 
+        onmouseover="document.getElementById('div1').style.display = 'block';"
+        onmouseout="document.getElementById('div1').style.display = 'none';" >
 <!-- hitwebcounter Code START -->
  <div id="div1" style="display: none;">
 <a href="https://www.hitwebcounter.com" target="_blank">
