@@ -20,7 +20,7 @@ Advisor: Prof. Xiangyu Wang and Fayin Wang
 
 ### Selected Publications 
 [[Google-scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ADS]](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw) <br>
-* Yuan, C., Murase, K., Kimura, S. & Mészáros, P. (2020) [“High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers”](https://arxiv.org/abs/2008.05616), arXiv: 2008.05616, submitted to Phys. Rev. D
+* Yuan, C., Murase, K., Kimura, S. & Mészáros, P. (2020) [“High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers”](https://arxiv.org/abs/2008.05616), arXiv: 2008.05616, accepted for publication in Phys. Rev. D
 * Yuan, C., Murase, K. & Mészáros, P. (2020) [“Complementarity of Stacking and Multiplet Constraints on the Blazar Contribution to the Cumulative High-Energy Neutrino Intensity”](https://iopscience.iop.org/article/10.3847/1538-4357/ab65ea), ApJ, 890:1. 
 * Yuan, C., Murase, K. & Mészáros, P. (2019) [“Secondary Radio and X-ray Emissions from Galaxy Mergers”](https://iopscience.iop.org/article/10.3847/1538-4357/ab1f06), ApJ, 878:76. 
 * Yuan,C.,Mészáros,P.,MuraseK.&Jeong,D.(2018) [“CumulativeNeutrinoandGamma- Ray Backgrounds from Halo and Galaxy Mergers”](https://iopscience.iop.org/article/10.3847/1538-4357/aab774), ApJ, 857:50
