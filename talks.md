@@ -1,9 +1,10 @@
 ### Conferences and Talks
 **Upcoming**
-* Oct 2020 - Galaxy and SMBH mergers in the era of multi-messenger astrophysics.
-Astronomical seminar, Tohoku University, Japan 
+-
 
 **Happened**
+* Oct 2020 - Galaxy and SMBH mergers in the era of multi-messenger astrophysics.
+Astronomical seminar, Tohoku University, Japan 
 * Sep 2020 - High-energy neutrino emission from SMBH mergers. Launch talk, Dept. of
 Astronomy & Astrophysics, Penn State
 * Aug 2020 - High-energy neutrino emission subsequent to GW radiation from SMBH
