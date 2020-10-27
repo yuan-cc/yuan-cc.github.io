@@ -1,6 +1,7 @@
 ### Conferences and Talks
 **Upcoming**
--
+
+* Oct 30, 2020 - High-energy neutrino and electromagnetic emissions from SMBH mergers. CCAPP AstroParticle Launch, Ohio State University
 
 **Happened**
 * Oct 2020 - Galaxy and SMBH mergers in the era of multi-messenger astrophysics.
