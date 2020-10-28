@@ -20,5 +20,3 @@ State College, PA
 Galaxy Mergers. APS April meeting, Columbus, OH
 * Aug 2015 - Monte Carlo simulations of electron-photon interactions with pair
 formation. Dept. of Astronomy & Astrophysics, Penn State
-* May 2015 - Cosmological test using strong gravitational lensing systems. Cosmology
-and Galaxy Workshop, Yangzhou, China
