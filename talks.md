@@ -1,7 +1,7 @@
 ### Conferences and Talks
 **Upcoming**
 
--
+* 2021 APS April Meeting (virtual)
 
 **Happened**
 * Oct 30, 2020 - High-energy neutrino and electromagnetic emissions from SMBH mergers. CCAPP AstroParticle Lunch, Ohio State University
