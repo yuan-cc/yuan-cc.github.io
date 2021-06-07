@@ -1,6 +1,6 @@
 ### Conferences and Talks
 **Upcoming**
-*07/2021, European Physical Society Conference on High Energy Physics (EPS-HEP)
+* 07/2021, European Physical Society Conference on High Energy Physics (EPS-HEP)
 
 **Happened**
 * 04/2021, APS April Meeting (virtual)
