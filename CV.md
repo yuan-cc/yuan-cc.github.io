@@ -1,5 +1,5 @@
 ## Curriculum Vitae
-Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: May 2021]
+Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Aug 2021]
 <hr> 
 
 ### Education
