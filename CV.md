@@ -4,7 +4,7 @@ Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Aug 
 
 ### Education
 **Ph.D. in Physics**, Pennsylvania State University<br />
-2016 - 2021 (expected) <br />
+2016 - 2022 (expected) <br />
 Advisor: Prof. Peter Meszaros and Kohta Murase
 
 **B.Sc. of Astronomy**, Nanjing University (NJU), China<br />
