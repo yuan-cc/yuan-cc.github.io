@@ -1,8 +1,9 @@
 ### Conferences and Talks
 **Upcoming**
-* 07/2021, European Physical Society Conference on High Energy Physics (EPS-HEP)
+* 10/2021, seminar talk, University of Nevada Las Vegas
 
 **Happened**
+* 07/2021, European Physical Society Conference on High Energy Physics (EPS-HEP)
 * 04/2021, APS April Meeting (virtual)
 * 10/2020 - High-energy neutrino and electromagnetic emissions from SMBH mergers. CCAPP AstroParticle Lunch, Ohio State University
 * 10/2020 - Galaxy and SMBH mergers in the era of multi-messenger astrophysics.
