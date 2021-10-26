@@ -1,8 +1,9 @@
 ### Conferences and Talks
 **Upcoming**
-* 10/2021, seminar talk, University of Nevada Las Vegas
+* Nov 03, 2021: Astrophysical Seminar, DESY
 
 **Happened**
+* 10/2021, seminar talk, University of Nevada Las Vegas
 * 07/2021, European Physical Society Conference on High Energy Physics (EPS-HEP)
 * 04/2021, APS April Meeting (virtual)
 * 10/2020 - High-energy neutrino and electromagnetic emissions from SMBH mergers. CCAPP AstroParticle Lunch, Ohio State University
