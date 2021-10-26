@@ -1,7 +1,10 @@
 ## Research
 <hr>
 
+Slides (https://yuan-cc.github.io/research/files/slides.pdf)
+
 ### Projects
+* [Gamma-ray emission from short GRBs embedded in AGN disks (paper in preparation)]
 * [High-energy neutrino and EM emissions subsequent to GW radiation from SMBH mergers](https://yuan-cc.github.io/research/projects/smbh_mergers.html)
 * [Complementarity of stacking and multiplet constraints on blazar neutrinos](https://yuan-cc.github.io/research/projects/complementarity.html)
 * [A multimessenger picture of galaxy and halo mergers](https://yuan-cc.github.io/research/projects/gal_mergers.html)
