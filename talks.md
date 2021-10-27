@@ -1,6 +1,5 @@
 ### Conferences and Talks
 **Upcoming**
-* Nov 03, 2021: Astrophysical Seminar, DESY (virtual)
 
 **Happened**
 * 10/2021 - astronomy colloquium, UNLV (virtual)
