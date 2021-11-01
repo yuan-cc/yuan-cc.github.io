@@ -2,6 +2,7 @@
 **Upcoming**
 * Nov 3, 2021 - astrophysics seminar, DESY
 * Dec 2021 - HEP seminar, Columbia University
+* Jan 2022 - 239th AAS meeting 
 * Time TBD - theory seminar, University of Maryland
 
 **Happened**
