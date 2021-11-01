@@ -2,7 +2,7 @@
 ### Contact
 - **E-mail:** <cxy52@psu.edu>
 - **Phone:** (814)954-2785
-- **Office:** 320 Osmond Lab, University Park, PA 16802
+- **Office:** 322 Osmond Lab, University Park, PA 16802, USA
 <br>
 
 
