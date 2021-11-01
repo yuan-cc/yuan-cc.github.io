@@ -1,5 +1,8 @@
 ### Conferences and Talks
 **Upcoming**
+* Nov 3, 2021 - astrophysics seminar, DESY
+* Dec 2021 - HEP seminar, Columbia University
+* Time TBD - theory seminar, University of Maryland
 
 **Happened**
 * 10/2021 - astronomy colloquium, UNLV (virtual)
