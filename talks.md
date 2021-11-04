@@ -1,12 +1,12 @@
 ### Conferences and Talks
 **Upcoming**
-* Nov 3, 2021 - astrophysics seminar, DESY
 * Dec 2021 - HEP seminar, Columbia University
 * Jan 2022 - 239th AAS meeting 
 * Time TBD - theory seminar, University of Maryland
 
-**Happened**
-* 10/2021 - astronomy colloquium, UNLV (virtual)
+**Previous**
+* 11/2021 - talk, THAT seminar, DESY (virtual)
+* 10/2021 - talk, astronomy colloquium, UNLV (virtual)
 * 07/2021 - contributed talk, European Physical Society Conference on High Energy Physics (EPS-HEP)
 * 04/2021 - contributed talk, APS April Meeting (virtual)
 * 10/2020 - CCAPP AstroParticle Lunch, OSU (virtual)
