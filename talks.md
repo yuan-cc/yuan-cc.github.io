@@ -4,7 +4,7 @@
 * Time TBD - theory seminar, University of Maryland
 
 **Previous**
-* 12/2021 - HEP seminar, Columbia University
+* 12/2021 - HEP seminar, Columbia University [Slides](https://yuan-cc.github.io/files/columbia_slides.pdf)
 * 11/2021 - talk, THAT seminar, DESY (virtual)
 * 10/2021 - talk, astronomy colloquium, UNLV (virtual)
 * 07/2021 - contributed talk, European Physical Society Conference on High Energy Physics (EPS-HEP)
