@@ -1,6 +1,6 @@
 ### Conferences and Talks
 **Upcoming**
-* Jan 2022 - 239th AAS meeting 
+* Jan 2022 - 239th AAS meeting (send me an email if you want to meet in Salt Lake City!)
 * Time TBD - theory seminar, University of Maryland
 
 **Previous**
