@@ -21,7 +21,7 @@ Advisor: Prof. Xiangyu Wang and Fayin Wang
 
 ### Selected Publications 
 [[Google-scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ADS]](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw) <br>
-* (in preparation) **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2021) “γ-ray emission from short gamma-ray bursts embedded in active galactic nuclei"
+* **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2021) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), arXiv: 2112.07653
 * **Yuan, C.**, Murase, K., Zhang, B. T., Kimura, S. S., Mészáros, P.,["Post-Merger Jets from Supermassive Black Hole Coalescences as Electromagnetic Counterparts of Gravitational Wave Emission"](https://arxiv.org/abs/2101.05788), ApJL 911 L15
 * Zhang, B. Theodore, Murase, K., **Yuan, C.**, Kimura, S. S., Mészáros, P., ["External Inverse-Compton Emission Associated with Extended and Plateau Emission of Short Gamma-Ray Bursts: Application to GRB 160821B"](https://arxiv.org/abs/2012.09143), ApJL 908 L36
 * **Yuan, C.**, Murase, K., Kimura, S. & Mészáros, P. (2020) [“High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers”](https://arxiv.org/abs/2008.05616), arXiv: 2008.05616, accepted for publication in Phys. Rev. D
