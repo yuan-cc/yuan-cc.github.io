@@ -1,7 +1,6 @@
 ### Conferences and Talks
 **Upcoming**
-* Jan 2022 - 239th AAS meeting (send me an email if you want to meet in Salt Lake City!)
-* Time TBD - theory seminar, University of Maryland
+* Time TBD - CTC talk series, University of Maryland
 
 **Previous**
 * 12/2021 - HEP seminar, Columbia University [[Slides](https://yuan-cc.github.io/files/columbia_slides.pdf)]
