@@ -12,8 +12,8 @@ Advisor: Prof. Peter Meszaros and Kohta Murase
 Advisor: Prof. Xiangyu Wang and Fayin Wang
 
 ### Honors and Awards
-* W. Donald Miller Graduate Fellowship, Penn State (2021)
-* David C. Duncan Graduate Fellowship, Penn State (2021, 2020, 2019)
+* W. Donald Miller Graduate Fellowship, Penn State (2022,2021)
+* David C. Duncan Graduate Fellowship, Penn State (2022,2021, 2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
 * School of Astronomy and Space Science Dean’s Scholarship, NJU (2016)
 * Outstanding Thesis Award, NJU (2016)
