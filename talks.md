@@ -1,6 +1,7 @@
 ### Conferences and Talks
 **Upcoming**
-* Time TBD - CTC talk series, University of Maryland
+* March 16 - CTC talk series, University of Maryland (in person)
+* Time TBD - invited seminar, Florida University
 
 **Previous**
 * 12/2021 - HEP seminar, Columbia University [[Slides](https://yuan-cc.github.io/files/columbia_slides.pdf)]
