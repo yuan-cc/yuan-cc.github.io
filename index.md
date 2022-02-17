@@ -25,7 +25,7 @@ See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile]
 
 <br>
 
-<div style="width: 100px; height: 50px; background-color: #FFFAF2; float: right;" 
+<div style="width: 100px; height: 50px; background-color: #fff7ea; float: right;" 
         onmouseover="document.getElementById('div1').style.display = 'block';"
         onmouseout="document.getElementById('div1').style.display = 'none';" >
  <div id="div1" style="display: none;">
