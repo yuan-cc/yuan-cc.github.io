@@ -15,7 +15,7 @@ Advisor: Prof. Peter Meszaros and Kohta Murase
 **M.S. Physics, Pennsylvania State University**, University Park, PA, USA <br />
 April 2018 <br />
 
-**B.Sc. of Astronomy, Nanjing University**, Nanjing, Jiangsu, China<br />
+**B.Sc. Astronomy, Nanjing University**, Nanjing, Jiangsu, China<br />
 June 2016  <br />
 Advisor: Prof. Xiangyu Wang and Fayin Wang
 
