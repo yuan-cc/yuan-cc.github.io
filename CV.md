@@ -24,6 +24,7 @@ Advisor: Prof. Xiangyu Wang and Fayin Wang
 * W. Donald Miller Graduate Fellowship, Penn State (2022,2021)
 * David C. Duncan Graduate Fellowship, Penn State (2022,2021, 2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
+* APS Student Travel Grant (2017)
 * School of Astronomy and Space Science Dean’s Scholarship, NJU (2016)
 * Outstanding Thesis Award, NJU (2016)
 * REU Intern Travel Grant (host institution: Penn State), NJU (2015)
