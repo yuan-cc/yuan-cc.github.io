@@ -1,4 +1,5 @@
 ### Contact
+<hr>
 **E-mail** <br /> 
   &nbsp;&nbsp;&nbsp;  <cxy52@psu.edu> (work) <br /> 
   &nbsp;&nbsp;&nbsp; <yuancc95@outlook.com> (personal)<br /> 
