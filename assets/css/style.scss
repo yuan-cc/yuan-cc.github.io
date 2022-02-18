@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 body {
   background-color: #fff7ea;
-  padding:50px;
+  padding-top:0px;  /* padding:50px; */
+  padding-left:50px;
+  padding-right:50px;
+  padding-bottom:50px;
   font: 19px/1.5 "Helvetica Neue";
   color:#545454;
   font-family:Palatino;
@@ -122,6 +125,7 @@ img {
 }
 
 header {
+  padding-top:50;
   width:270px;
   height:90%;
   float:left;
