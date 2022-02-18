@@ -1,13 +1,13 @@
 ### Contact
-- **E-mail:** 
+**E-mail:** 
 
 <cxy52@psu.edu> (work); 
 
 <yuancc95@outlook.com> (personal)
 
-- **Phone:** (814)954-2785
+**Phone:** (814)954-2785
 
-- **Office:** 
+**Office:** 
 
 322 Osmond Lab
 
