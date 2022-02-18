@@ -3,7 +3,7 @@
 
 **Upcoming**
 * March 16 - CTC talk series, University of Maryland (in person)
-* April 5, 10 am (EDT) - PhD defense
+* April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)
 * Time TBD - invited seminar, Florida University
 
 **Previous**
