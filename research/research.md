@@ -1,7 +1,7 @@
 ## Research
 <hr>
 
-[Slides of my research work](https://yuan-cc.github.io/research/files/slides.pdf)
+[Slides](https://yuan-cc.github.io/research/files/slides.pdf)
 
 ### Projects
 * Gamma-ray emission from short GRBs embedded in AGN disks (paper in preparation)
