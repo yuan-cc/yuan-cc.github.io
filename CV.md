@@ -3,9 +3,9 @@ Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Jan 
 <hr>
 
 ### Employment History
-**Research Assistant**, 05/2018 - 06/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
-**Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
-**REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, University Park, PA, USA<br />
+- **Research Assistant**, 05/2018 - 06/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
+- **Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
+- **REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, University Park, PA, USA<br />
 
 ### Education
 **Ph.D. Physics, Pennsylvania State University**, University Park, PA, USA<br />
