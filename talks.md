@@ -1,12 +1,12 @@
-### Events
+## Events
 <hr style="height:2px;border-width:0;color:gray;background-color:#FEEBCC">
 
-**Upcoming**
+### Upcoming
 * March 16 - CTC talk series, University of Maryland (in person)
-* April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)
+* **April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)**
 * Time TBD - invited seminar, Florida University
 
-**Previous**
+### Previous
 * 12/2021 - HEP seminar, Columbia University [[Slides](https://yuan-cc.github.io/files/columbia_slides.pdf)]
 * 11/2021 - talk, THAT seminar, DESY (virtual)
 * 10/2021 - talk, astronomy colloquium, UNLV (virtual)
