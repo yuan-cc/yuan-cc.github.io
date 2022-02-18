@@ -1,4 +1,5 @@
 ## Curriculum Vitae
+<hr>
 Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Jan 2022]
 <hr>
 
