@@ -1,8 +1,9 @@
-### Conferences and Talks
+### Events
 <hr style="height:2px;border-width:0;color:gray;background-color:#FEEBCC">
 
 **Upcoming**
 * March 16 - CTC talk series, University of Maryland (in person)
+* April 5, 10 am (EDT) - PhD defense
 * Time TBD - invited seminar, Florida University
 
 **Previous**
