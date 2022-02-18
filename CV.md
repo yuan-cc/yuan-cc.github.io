@@ -1,17 +1,26 @@
 ## Curriculum Vitae
 Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Jan 2022]
-<hr> 
+<hr>
+
+### Employment History
+**Research Assistant**, 05/2018 - 06/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA
+**Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA
+**REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, University Park, PA, USA
 
 ### Education
-**Ph.D. in Physics**, Pennsylvania State University<br />
-2016 - 2022 (expected) <br />
+**Ph.D. Physics, Pennsylvania State University**, University Park, PA, USA<br />
+May 2022 (expected) <br />
 Advisor: Prof. Peter Meszaros and Kohta Murase
 
-**B.Sc. of Astronomy**, Nanjing University (NJU), China<br />
-2012 - 2016  <br />
+**M.S. Physics, Pennsylvania State University**, University Park, PA, USA <br />
+April 2018 <br />
+
+**B.Sc. of Astronomy, Nanjing University**, Nanjing, Jiangsu, China<br />
+June 2016  <br />
 Advisor: Prof. Xiangyu Wang and Fayin Wang
 
 ### Honors and Awards
+* 2022 TDLI prize postdoctoral fellowship (declined)
 * W. Donald Miller Graduate Fellowship, Penn State (2022,2021)
 * David C. Duncan Graduate Fellowship, Penn State (2022,2021, 2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
