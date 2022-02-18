@@ -1,7 +1,7 @@
 ## Curriculum Vitae
-<hr style="size:2px solid pink"> 
+<hr size="3" />
 Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Jan 2022]
-<hr style="size:2px solid pink">
+<hr size="3" />
 
 ### Employment History
 - **Research Assistant**, 05/2018 - 06/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
