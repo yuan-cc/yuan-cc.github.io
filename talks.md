@@ -1,4 +1,6 @@
 ### Conferences and Talks
+<hr style="height:2px;border-width:0;color:gray;background-color:#FEEBCC">
+
 **Upcoming**
 * March 16 - CTC talk series, University of Maryland (in person)
 * Time TBD - invited seminar, Florida University
