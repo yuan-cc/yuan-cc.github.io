@@ -1,8 +1,8 @@
 ## Publications 
 
-<hr style="height:4px;border-width:0;color:gray;background-color:#FAB23C">
+<hr style="height:4px;border-width:0;color:gray;background-color:#FCDBA6">
 [[Google scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ADS]](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw)  | [[ORCiD: 0000-0003-0327-6136]](https://orcid.org/0000-0003-0327-6136) | [[iNSPIRE]](https://inspirehep.net/authors/1671091)<br />
-<hr style="height:4px;border-width:0;color:gray;background-color:#FAB23C">
+<hr style="height:4px;border-width:0;color:gray;background-color:#FCDBA6">
 1. **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2021) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), arXiv: 2112.07653<br />
 1. **Yuan, C.**, Murase, K., Zhang, B. T., Kimura, S. S., Mészáros, P.,["Post-Merger Jets from Supermassive Black Hole Coalescences as Electromagnetic Counterparts of Gravitational Wave Emission"](https://arxiv.org/abs/2101.05788), ApJL 911 L15<br />
 1. Zhang, B. Theodore, Murase, K., **Yuan, C.**, Kimura, S. S., Mészáros, P., ["External Inverse-Compton Emission Associated with Extended and Plateau Emission of Short Gamma-Ray Bursts: Application to GRB 160821B"](https://arxiv.org/abs/2012.09143), ApJL 908 L36<br />
