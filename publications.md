@@ -8,4 +8,4 @@
 4. **Yuan, C.**, Murase, K. & Mészáros, P. (2020) [“Complementarity of Stacking and Multiplet Constraints on the Blazar Contribution to the Cumulative High-Energy Neutrino Intensity”](https://iopscience.iop.org/article/10.3847/1538-4357/ab65ea), ApJ, 890:1. <br />
 3. **Yuan, C.**, Murase, K. & Mészáros, P. (2019) [“Secondary Radio and X-ray Emissions from Galaxy Mergers”](https://iopscience.iop.org/article/10.3847/1538-4357/ab1f06), ApJ, 878:76. <br />
 2. **Yuan,C**.,Mészáros,P.,MuraseK.&Jeong,D.(2018) [“CumulativeNeutrinoandGamma- Ray Backgrounds from Halo and Galaxy Mergers”](https://iopscience.iop.org/article/10.3847/1538-4357/aab774), ApJ, 857:50 <br />
-1. **Yuan, C.** & Wang, F. (2015) [“Cosmological Test Using Strong Gravitational Lensing Systems”](https://academic.oup.com/mnras/article/452/3/2423/1080095), MNRAS, 452:3 <br />
+[[1]] **Yuan, C.** & Wang, F. (2015) [“Cosmological Test Using Strong Gravitational Lensing Systems”](https://academic.oup.com/mnras/article/452/3/2423/1080095), MNRAS, 452:3 
