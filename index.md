@@ -6,8 +6,6 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 Here is [a list of the upcoming/happened talks](https://yuan-cc.github.io/talks.html). 
 
-See [inSPIRE](https://inspirehep.net/authors/1671091) / [Google scholar profile](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) / [ADS list](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw) for more about me.
-
 ### Affiliations
 * [Dept. of Physics](https://science.psu.edu/physics)
 * [Dept. of Astronomy & Astrophysics](https://science.psu.edu/astro)
