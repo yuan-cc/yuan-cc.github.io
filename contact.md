@@ -1,19 +1,12 @@
 ### Contact
-**E-mail:** 
-
-<cxy52@psu.edu> (work); 
-
-<yuancc95@outlook.com> (personal)
-
-**Phone:** (814)954-2785
-
-**Office:** 
-
-322 Osmond Lab
-
-University Park
-
-PA 16802, USA
+**E-mail:** <br /> 
+<cxy52@psu.edu> (work) <br /> 
+<yuancc95@outlook.com> (personal)<br /> 
+**Phone:** (814)954-2785<br /> 
+**Office:** <br /> 
+322 Osmond Lab<br /> 
+University Park<br /> 
+PA 16802, USA<br /> 
 <br>
 
 
