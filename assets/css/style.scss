@@ -67,15 +67,6 @@ a:active {
   text-decoration: underline;
 }
 
-a.navList{text-decoration: none; color: gray;}
-a.activePage{ color: green; border-bottom: solid; border-width: 3px;}
-
-.current {
-  color:#0CC8DE;
-  text-decoration: underline;
-}
-
-
 a small {
   font-size:11px;
   color:#777;
@@ -323,3 +314,20 @@ footer {
   }
 }
 
+.Nav a{
+  color:#09B2C5;
+  text-decoration:none;
+}
+
+.Nav a:hover{
+    color:#10afff;
+  /*font-weight: bold;*/
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.Nav .current{
+  color: red;
+  text-decoration: underline;
+
+}
