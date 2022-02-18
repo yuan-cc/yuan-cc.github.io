@@ -1,5 +1,5 @@
 ## Research
-<hr>
+<hr style="height:4px;border-width:0;color:gray;background-color:#FEEBCC">
 
 
 ### Projects
