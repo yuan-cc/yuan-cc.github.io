@@ -67,6 +67,12 @@ a:active {
   text-decoration: underline;
 }
 
+a.current {
+  color:#0CC8DE;
+  text-decoration: underline;
+}
+
+
 a small {
   font-size:11px;
   color:#777;
@@ -78,11 +84,6 @@ a:hover small {
   color:#777;
 }
 
-nav a.current {
-  color:#0CC8DE;
-  text-decoration: underline;
-
-}
 
 .wrapper {
   width:1060px;
