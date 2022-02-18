@@ -1,5 +1,5 @@
 ### Contact
-<hr>
+<hr style="border:6px solid gray"> </hr>
 **E-mail** <br /> 
   &nbsp;&nbsp;&nbsp;  <cxy52@psu.edu> (work) <br /> 
   &nbsp;&nbsp;&nbsp; <yuancc95@outlook.com> (personal)<br /> 
