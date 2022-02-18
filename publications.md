@@ -2,6 +2,7 @@
 
 ---
 [[Google scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ADS]](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw)  | [[ORCiD: 0000-0003-0327-6136]](https://orcid.org/0000-0003-0327-6136) | [[iNSPIRE]](https://inspirehep.net/authors/1671091)<br />
+
 ---
 
 1. **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2021) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), arXiv: 2112.07653<br />
