@@ -314,19 +314,8 @@ footer {
   }
 }
 
-.Nav a{
-  color:#09B2C5;
-  text-decoration:none;
-}
 
-.Nav a:hover{
-    color:#10afff;
-  /*font-weight: bold;*/
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-.Nav .current{
+.current{
   color: red;
   text-decoration: underline;
 
