@@ -78,6 +78,12 @@ a:hover small {
   color:#777;
 }
 
+nav a.current {
+  color:#0CC8DE;
+  text-decoration: underline;
+
+}
+
 .wrapper {
   width:1060px;
   margin:0 auto;
