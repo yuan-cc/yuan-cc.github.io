@@ -55,7 +55,15 @@ a {
 
 a:hover, a:focus {
   color:#10afff;
-  font-weight: bold;
+  /*font-weight: bold;*/
+  text-decoration: underline;
+
+}
+
+a:active {
+  color: #10afff;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 a small {
