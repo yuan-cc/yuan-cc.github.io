@@ -1,4 +1,18 @@
-<div class="wrapper">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  <div class="wrapper">
       <header>
         <img src="https://yuan-cc.github.io/files/profile.png" alt="profile" width="270" height="245">
       袁成超
@@ -8,7 +22,7 @@
         <h3 style="text-align:left;"><a href="https://yuan-cc.github.io/" style="color:#09B2C5">&nbsp;Home</a></h3>
         <h3 style="text-align:left;"><a href="https://yuan-cc.github.io/research/research.html"  style="color:#09B2C5",class="btn">&nbsp;Research</a></h3>
         <h3 style="text-align:left;"><a href="https://yuan-cc.github.io/CV.html" style="color:#09B2C5",class="btn">&nbsp;CV</a></h3>  
-        <h3 style="text-align:left;"><a href="https://yuan-cc.github.io/contact.html" style="color:#red",class="current btn">&nbsp;Contact</a></h3>
+        <h3 style="text-align:left;"><a href="https://yuan-cc.github.io/contact.html" style="color:red",class="current btn">&nbsp;Contact</a></h3>
 
       </header>
 
@@ -17,8 +31,10 @@
       {{ content }}
 
       </section>
- </div>
+       </div>
 
+  </body>
+  
 ### Contact
 - **E-mail:** <cxy52@psu.edu> (work); <yuancc95@outlook.com> (personal)
 - **Phone:** (814)954-2785
