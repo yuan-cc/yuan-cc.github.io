@@ -1,4 +1,6 @@
-<sectionfixed>afeaf</sectionfixed>
+<sectionfixed>
+  afeaf
+</sectionfixed>
   
 ## Research project
 <[previous](https://yuan-cc.github.io/research/projects/smbh_mergers.html) | [next](https://yuan-cc.github.io/research/projects/gal_mergers.html)>
