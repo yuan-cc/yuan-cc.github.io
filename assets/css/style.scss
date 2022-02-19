@@ -154,8 +154,8 @@ header {
 
 header:before{
     z-index:-1;
-    position:absolute;
-    top:40%;
+    position:fixed;
+    top:35%;
     width:270px;
     height:60%;
     float:left;
