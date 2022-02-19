@@ -10,7 +10,7 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 
 ### Links
-* PSU: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
+* Penn State: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
 * [ADS](https://ui.adsabs.harvard.edu) &#124; [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
 * Submit to [AAS Journals](https://aas.msubmit.net/) &#124; [Phys Rev Jorunals](https://authors.aps.org/Submissions/login/new) &#124; [MNRAS](https://mc.manuscriptcentral.com/mnras#)
 <!--* [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)  -->
