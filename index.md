@@ -14,8 +14,9 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 
 ### Links
+
 * [ADS](https://ui.adsabs.harvard.edu) | [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
-* Submit to [AAS Journals](https://aas.msubmit.net/) | [Physical Review Jorunals](https://authors.aps.org/Submissions/login/new) | [MNRAS](https://mc.manuscriptcentral.com/mnras#)
+* Submit to [AAS Journals](https://aas.msubmit.net/) | [Phys Rev Jorunals](https://authors.aps.org/Submissions/login/new) | [MNRAS](https://mc.manuscriptcentral.com/mnras#)
 <!--* [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)  -->
 * [NED](http://nedwww.ipac.caltech.edu) | [Simbad](http://simbad.cfa.harvard.edu/simbad/)
 * [Cosmological calculator](https://ned.ipac.caltech.edu/help/cosmology_calc.html) | [PlotDigitizer](https://automeris.io/WebPlotDigitizer/) | [HugeifyImage](https://waifu2x.booru.pics) | [Higgstan](https://higgstan.com)
