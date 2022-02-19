@@ -6,20 +6,20 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 <a href="https://yuan-cc.github.io/talks.html" style="color:#B200B2;text-decoration: underline">The upcoming events</a>
 
-### Affiliations
-* [Dept. of Physics](https://science.psu.edu/physics)
-* [Dept. of Astronomy & Astrophysics](https://science.psu.edu/astro)
+### Affiliation
+* [Department of Physics](https://science.psu.edu/physics)
+* [Department of Astronomy & Astrophysics](https://science.psu.edu/astro)
 * [Center for Multimessenger Astrophysics](http://cpa.igc.psu.edu)
 * [Institute for Gravitation and the Cosmos](http://www.gravity.psu.edu)
 
 
-### Quick links
-* [ADS](https://ui.adsabs.harvard.edu) / [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
-* Submit to [AAS Journals](https://aas.msubmit.net/) / [PRD](https://authors.aps.org/Submissions/login/new) / [MNRAS](https://mc.manuscriptcentral.com/mnras#)
+### Links
+* [ADS](https://ui.adsabs.harvard.edu) | [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
+* Submit to [AAS Journals](https://aas.msubmit.net/) | [Physical Review Jorunals](https://authors.aps.org/Submissions/login/new) | [MNRAS](https://mc.manuscriptcentral.com/mnras#)
 <!--* [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)  -->
-* [NED](http://nedwww.ipac.caltech.edu) / [Simbad](http://simbad.cfa.harvard.edu/simbad/)
-* [Cosmological calculator](https://ned.ipac.caltech.edu/help/cosmology_calc.html) / [PlotDigitizer](https://automeris.io/WebPlotDigitizer/) / [HugeifyImage](https://waifu2x.booru.pics) / [Higgstan](https://higgstan.com)
-* [AAS jobregister](https://jobregister.aas.org) / [Astroparticle conferences](http://www.nu.to.infn.it/conf/) / [Astronomy meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)
+* [NED](http://nedwww.ipac.caltech.edu) | [Simbad](http://simbad.cfa.harvard.edu/simbad/)
+* [Cosmological calculator](https://ned.ipac.caltech.edu/help/cosmology_calc.html) | [PlotDigitizer](https://automeris.io/WebPlotDigitizer/) | [HugeifyImage](https://waifu2x.booru.pics) | [Higgstan](https://higgstan.com)
+* [AAS jobregister](https://jobregister.aas.org) | [iNSPIRE.HEP](https://inspirehep.net) | [Astroparticle conferences](http://www.nu.to.infn.it/conf/) | [Astronomy meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)
 
 <br>
 
