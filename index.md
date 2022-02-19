@@ -5,9 +5,12 @@ I'm a sixth-year graduate student in the Department of Physics at Penn State. I'
 I am working on the theoretical aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport and radiation processes of high-energy particles originated from compact binary pairs (super massive/stellar mass black holes), supernovae, gamma-ray bursts, active galactic nuclei and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding on the physical nature of high-energy astrophysical phenomena.
 
 <a href="https://yuan-cc.github.io/talks.html" style="color:#B200B2;text-decoration: underline">The upcoming events</a>
+* March 16 - CTC talk series, University of Maryland (in person)
+* **April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)**
+
 
 ### Links
-* **PSU**: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
+* PSU: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
 * [ADS](https://ui.adsabs.harvard.edu) &#124; [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
 * Submit to [AAS Journals](https://aas.msubmit.net/) &#124; [Phys Rev Jorunals](https://authors.aps.org/Submissions/login/new) &#124; [MNRAS](https://mc.manuscriptcentral.com/mnras#)
 <!--* [IceCube-pubs](https://icecube.wisc.edu/pubs) / [LIGO-detection-paper](https://www.ligo.caltech.edu/page/detection-companion-papers)  -->
