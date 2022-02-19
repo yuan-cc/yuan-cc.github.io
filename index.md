@@ -8,7 +8,7 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 <a href="https://yuan-cc.github.io/talks.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">Events</a>
 
 * March 16 - CTC talk series, University of Maryland (in person)
-* **April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)** <br />
+* April 5, 10 am (EDT) - **PhD defense** (hybrid: location and zoom link TBD) <br />
  ...[More](https://yuan-cc.github.io/talks.html)
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
