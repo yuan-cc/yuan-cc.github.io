@@ -1,6 +1,6 @@
 ## Research project
 <[previous](https://yuan-cc.github.io/research/projects/complementarity.html) | [next](https://yuan-cc.github.io/research/projects/e_gamma_interactions.html)>
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 ### A multimessenger picture of galaxy and halo mergers
 
