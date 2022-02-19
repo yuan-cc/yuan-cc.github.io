@@ -152,15 +152,13 @@ header {
 
 
 header:before{
-  top:30%;
+    padding-top:30%;
     left:0;
     width:270px;
     height:70%;
     float:left;
     content:"";
-    background-color:red;
-    -webkit-font-smoothing:subpixel-antialiased;
-
+    background:#C7BCAA;
 }
 
 ul.downloads {
