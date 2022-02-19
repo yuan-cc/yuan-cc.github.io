@@ -133,6 +133,7 @@ img {
 }
 
 header {
+  z-index:1;
   padding-top:20px;
   width:270px;
   height:100%;
@@ -152,6 +153,7 @@ header {
 
 
 header:before{
+    z-index:-1;
     position:absolute;
     top:30%;
     left:0;
