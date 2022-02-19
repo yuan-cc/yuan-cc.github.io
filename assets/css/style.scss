@@ -134,7 +134,6 @@ img {
 
 header {
   z-index:1;
-  position:relative; /* */
   padding-top:20px;
   width:270px;
   height:100%;
@@ -157,7 +156,6 @@ header:before{
     z-index:-1;
     position:absolute;
     top:30%;
-    left:0;
     width:270px;
     height:70%;
     float:left;
