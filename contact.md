@@ -1,5 +1,5 @@
 ## Contact
-<hr style="height:4px;border-width:0;color:gray;background-color:#FEEBCC">
+<hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
 **E-mail** <br /> 
   &nbsp;&nbsp;&nbsp;  <cxy52@psu.edu> (work) <br /> 
   &nbsp;&nbsp;&nbsp; <yuancc95@outlook.com> (personal)<br /> 
