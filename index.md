@@ -23,7 +23,7 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 <br>
 
-<div style="width: 100px; height: 50px; background-color: #fff7ea; float: right;" 
+<div style="width: 100px; height: 50px; background-color: #F8F4FA; float: right;" 
         onmouseover="document.getElementById('div1').style.display = 'block';"
         onmouseout="document.getElementById('div1').style.display = 'none';" >
  <div id="div1" style="display: none;">
