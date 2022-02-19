@@ -5,6 +5,7 @@ I'm a sixth-year graduate student in the Department of Physics at Penn State. I'
 I am working on the theoretical aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport and radiation processes of high-energy particles originated from compact binary pairs (super massive/stellar mass black holes), supernovae, gamma-ray bursts, active galactic nuclei and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding on the physical nature of high-energy astrophysical phenomena.
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 <a href="https://yuan-cc.github.io/talks.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">Events</a>
+
 * March 16 - CTC talk series, University of Maryland (in person)
 * **April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)**
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
