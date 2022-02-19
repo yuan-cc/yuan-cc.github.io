@@ -150,6 +150,16 @@ header {
   width: 75%;
 }
 
+
+header:before{
+  top:30%;
+    left:0;
+    width:100%;
+    height:70%;
+    background-color:red;
+  overflow:auto;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
