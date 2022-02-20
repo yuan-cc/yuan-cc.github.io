@@ -160,6 +160,12 @@ header:before{
     background:#E0D5E7;
 }
 
+header:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
