@@ -9,7 +9,8 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 
 * 2022 March 16 - CTC talk series, University of Maryland (in person)
 * 2022 April 5, 10 am (EDT) - **PhD defense** (hybrid: location and zoom link TBD) <br />
-  [More](https://yuan-cc.github.io/talks.html)
+  
+->[More](https://yuan-cc.github.io/talks.html)<-
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 ### Links
