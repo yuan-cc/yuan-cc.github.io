@@ -22,15 +22,22 @@
 </details>
 
 <details><summary>2020</summary>
-* 10/2020 - CCAPP AstroParticle Lunch, OSU (virtual)
-* 10/2020 - astronomical seminar, Tohoku University, Japan (virtual) 
-* 09/2020 - lunch talk, Dept. of Astronomy & Astrophysics, Penn State 
-* 08/2020 - contributed taik, Time-Domain High-Energy Messenger Astrophysics Workshop, University of Kyoto, Japan
+  <ul>
+   <li>10/2020 - CCAPP AstroParticle Lunch, OSU (virtual) </li>
+   <li>10/2020 - astronomical seminar, Tohoku University, Japan (virtual)</li> 
+   <li>09/2020 - lunch talk, Dept. of Astronomy & Astrophysics, Penn State </li>
+   <li>08/2020 - contributed taik, Time-Domain High-Energy Messenger Astrophysics Workshop, University of Kyoto, Japan</li>
+   </ul>
 </details>
 
-<details><summary> -2019 </summary>
-* 07/2019 - (poster)36th International Cosmic Ray Conference (ICRC), Madison, WI
-* 06/2019 - contributed talk, IGC@25: Multimessenger Universe Workshop, State College, PA
-* 04/2018 - contributed talk, APS April meeting, Columbus, OH
-* 08/2015 - lunch talk, Dept. of Astronomy & Astrophysics, Penn State
+<details><summary> 2019 - </summary>
+ <ul>
+<li>07/2019 - (poster)36th International Cosmic Ray Conference (ICRC), Madison, WI</li>
+<li>06/2019 - contributed talk, IGC@25: Multimessenger Universe Workshop, State College, PA</li>
+<li>04/2018 - passed the Doctoral Comprehensive Exam </li>
+<li>01/2018 - contributed talk, APS April meeting, Columbus, OH</li>
+<li>10/2016 - passed the candidancy exam </li>
+<li>06/2016 - obtained B.Sc. of Astronomy from Nanjing University</li>
+<li>08/2015 - lunch talk, Dept. of Astronomy & Astrophysics, Penn State</li>
+  </ul>
 </details>
