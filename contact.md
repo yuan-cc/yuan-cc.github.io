@@ -14,7 +14,7 @@
     <div class="column">
         <h3>Leave a message</h3>
 
-      <form method="post">
+      <form action="message.php" method="post">
     <label for="fname">Your Name</label>
         <input type="text" id="fname" name="name" placeholder="Name..">
         <label for="fname">Email address</label>
@@ -26,26 +26,6 @@
     </div>
   </div>
 </div>
-
-{{< php >}}
-
-<?php
-              
-if(isset($_POST['firstname']))
-{
-$data=$_POST['firstname'];
-$fp = fopen('message.txt', 'a');
-fwrite($fp, $data);
-  $data=$_POST['email'];
-fwrite($fp, $data);
-    $data=$_POST['subject'];
-fwrite($fp, $data);
-
-fclose($fp);
-}
-?>
-
-{{< php >}}
 
 
 
