@@ -21,7 +21,7 @@
         <label for="fname">Your Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your name..">
         <label for="fname">Email</label>
-        <input type="text" id="fname" name="firstname" placeholder="Email..">
+        <input type="text" id="fname" name="email" placeholder="Email..">
         <label for="subject">Message</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
         <input type="submit" value="Submit">
