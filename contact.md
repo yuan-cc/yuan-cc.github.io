@@ -16,7 +16,7 @@
 
       <form method="post">
     <label for="fname">Your Name</label>
-        <input type="text" id="fname" name="name" placeholder="Your name..">
+        <input type="text" id="fname" name="name" placeholder="Name..">
         <label for="fname">Email address</label>
         <input type="text" id="fname" name="email" placeholder="Email..">
         <label for="subject">Message</label>
