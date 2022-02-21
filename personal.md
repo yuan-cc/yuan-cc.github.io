@@ -8,5 +8,3 @@
 <img align="center" src="personal/pic_lucky.jpg" alt="drawing" width="600" />
 
 <img align="center" src="personal/pic-ve1.jpg" alt="drawing" width="600" />
-
-<img align="center" src="personal/pic-ve2.jpg" alt="drawing" width="600" />
