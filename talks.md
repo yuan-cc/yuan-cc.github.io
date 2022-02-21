@@ -1,6 +1,9 @@
 ## Events
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
+<div id="calendar"></div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.5.1/moment.min.js"></script>
+
 ### Upcoming
 * March 16 - CTC talk series, University of Maryland (in person)
 * **April 5, 10 am (EDT) - PhD defense (hybrid: location and zoom link TBD)**
