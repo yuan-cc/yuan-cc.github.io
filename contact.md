@@ -14,10 +14,8 @@
     <div class="column">
         <h3>Leave a message</h3>
 
-      <form action="mailto:yuancc95@outlook.com"
-method="POST"
-enctype="multipart/form-data"
-name="EmailForm">
+      <form action="https://getform.io/f/72774fbb-6528-475b-b8b9-23989a6463be"
+method="POST">
     <label for="fname">Your Name</label>
         <input type="text" id="fname" name="name" placeholder="Name..">
         <label for="fname">Email address</label>
