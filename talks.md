@@ -1,7 +1,8 @@
 ## Events
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23B39DDB&ctz=America%2FNew_York&showTitle=0&showTabs=0&showCalendars=1&showDate=1&showPrint=0&src=eXVhbmNjOTVAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=200&wkst=2&bgcolor=%23B39DDB&ctz=America%2FNew_York&showTitle=0&showTabs=0&showCalendars=1&showDate=1&showPrint=0&src=eXVhbmNjOTVAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="400" height="200" frameborder="0" scrolling="no"></iframe>
+
 
 ### Upcoming
 * March 16 - CTC talk series, University of Maryland (in person)
