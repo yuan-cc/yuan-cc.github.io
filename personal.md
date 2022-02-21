@@ -1,7 +1,7 @@
 ## Personal
 ### Under construction...
 
-**Some pictures drawn in summer 2018:**<br />
+**Some pictures drawn in summer 2017:**<br />
 (Software: [Clip Studio Paint](https://www.clipstudio.net/en/?gclid=CjwKCAiA6seQBhAfEiwAvPqu19ZEbw-q2SixNJ86UGmAhf-j11j8VpU1hiz0CC9UFEcTAJZfQHbB-BoC9K4QAvD_BwE))<br />
 <img align="center" src="personal/pic_ve1.jpg" alt="drawing" width="600" />
 
