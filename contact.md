@@ -30,6 +30,8 @@
   </div>
 </div>
 
+{{< php >}}
+
 <?php
               
 if(isset($_POST['firstname']))
@@ -46,6 +48,7 @@ fclose($fp);
 }
 ?>
 
+{{< php >}}
 
 
 
