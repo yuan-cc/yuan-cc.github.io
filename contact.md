@@ -18,11 +18,11 @@
 method="POST">
     <label for="fname">Your Name</label>
         <input type="text" id="fname" name="name" placeholder="Name..">
-        <label for="fname">Email address</label>
+        <label for="fname">Email Address</label>
         <input type="text" id="fname" name="email" placeholder="Email..">
         <label for="subject">Message</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style="height:120px"></textarea>
-        <input type="submit" value="Submit">
+        <input type="submit" value="Send">
   </form>
     </div>
   </div>
