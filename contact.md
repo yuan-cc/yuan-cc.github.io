@@ -14,7 +14,7 @@
     <div class="column">
         <h3>Leave a message</h3>
 
-      <form action="/message.php" method="post">
+      <form action="https://yuan-cc.github.io/message.php" method="post">
     <label for="fname">Your Name</label>
         <input type="text" id="fname" name="name" placeholder="Name..">
         <label for="fname">Email address</label>
