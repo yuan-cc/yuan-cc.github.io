@@ -1,29 +1,29 @@
 ## Research
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-<div class="row">
+<span class="row">
 
-<div class="column card"> 
+<span class="column card"> 
 <center>
 <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
-  <div class="container">
+  <span class="container">
     <p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
-  </div>
+  </span>
   </center>
-</div>
+</span>
 
-<div class="column card"> 
+<span class="column card"> 
 <center>
 <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
-  <div class="container">
+  <span  class="container">
     <p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
-  </div>
+  </span>
   </center>
-</div>
+</span>
   
-</div>
+</span>
 
 ### Projects
 [Slides](https://yuan-cc.github.io/research/files/slides.pdf)
