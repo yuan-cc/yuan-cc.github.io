@@ -4,23 +4,19 @@
 <div class="row">
 
 <div class="column card"> 
-<center>
 <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
   <div class="container">
     <p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
   </div>
-  </center>
 </div>
 
 <div class="column card"> 
-<center>
 <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
   <div class="container">
     <p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
   </div>
-  </center>
 </div>
   
 </div>
