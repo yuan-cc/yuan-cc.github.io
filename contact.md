@@ -8,9 +8,6 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
  
-<br />
-<br />
-
 <div class="container">
   <div class="row">
 
