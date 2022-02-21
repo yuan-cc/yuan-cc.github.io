@@ -4,7 +4,7 @@
 <iframe src="https://calendar.google.com/calendar/embed?height=200&wkst=2&bgcolor=%23B39DDB&ctz=America%2FNew_York&showTitle=0&showTabs=0&showCalendars=1&showDate=1&showPrint=0&src=eXVhbmNjOTVAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="400" height="200" frameborder="0" scrolling="no"></iframe>
 <hr style="height:1px;border-width:0;color:gray;background-color:#B3A1BF">
 
-<button class="collapsible">Open Collapsible</button>
+<button class="collapsible">Open Collapsible test </button>
 <div class="content">
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </div>
