@@ -15,7 +15,7 @@
   <div class="row">
 
     <div class="column">
-        <h3>Contact me</h3>
+        <h3>Leave a message</h3>
 
       <form action="/action_page.php">
         <label for="fname">Your Name</label>
