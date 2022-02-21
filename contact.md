@@ -14,7 +14,10 @@
     <div class="column">
         <h3>Leave a message</h3>
 
-      <form action="https://yuan-cc.github.io/message.php" method="post">
+      <form action="mailto:yuancc95@outlook.com"
+method="POST"
+enctype="multipart/form-data"
+name="EmailForm">
     <label for="fname">Your Name</label>
         <input type="text" id="fname" name="name" placeholder="Name..">
         <label for="fname">Email address</label>
