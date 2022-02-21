@@ -30,7 +30,7 @@
    </ul>
 </details>
 
-<details><summary> 2019 - </summary>
+<details><summary>2019 - </summary>
  <ul>
 <li>07/2019 - (poster)36th International Cosmic Ray Conference (ICRC), Madison, WI</li>
 <li>06/2019 - contributed talk, IGC@25: Multimessenger Universe Workshop, State College, PA</li>
