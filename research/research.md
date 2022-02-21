@@ -15,14 +15,14 @@
 
 <div class="column card"> 
 <center>
-<a href="http://yuan-cc.github.io">
-  <img src="img_avatar2.png" width=100% height='200'>
+<a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
+  <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> </a>
+    <p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
   </div>
   </center>
-</div> 
+</div>
+  
 </div>
 
 ### Projects
