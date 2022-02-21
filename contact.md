@@ -21,7 +21,7 @@ method="POST">
         <label for="fname">Email address</label>
         <input type="text" id="fname" name="email" placeholder="Email..">
         <label for="subject">Message</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:120px"></textarea>
         <input type="submit" value="Submit">
   </form>
     </div>
