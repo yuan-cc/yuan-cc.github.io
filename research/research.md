@@ -4,14 +4,14 @@
 <div class="row">
 
 <div class="column card"> 
-  <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
+  <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'/>
   <div class="container">
     <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
   </div>
 </div>
 
 <div class="column card"> 
-  <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'>
+  <img src="https://yuan-cc.github.io/research/projects/figs/smbh_mergers1.png" width=100% height='200'/>
   <div class="container">
     <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissionsfrom SMBH mergers</p> </a>
   </div>
