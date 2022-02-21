@@ -22,8 +22,7 @@
     <p>Interior Designer</p> </a>
   </div>
   </center>
-</div>
-  
+</div> 
 </div>
 
 ### Projects
