@@ -8,7 +8,26 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
  
-<br>
+<br />
+<br />
+<div class="container">
+  <div class="row">
+
+    <div class="column">
+        <h2>Contact me</h2>
+
+      <form action="/action_page.php">
+        <label for="fname">Your Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <label for="fname">Email</label>
+        <input type="text" id="fname" name="firstname" placeholder="Email..">
+        <label for="subject">Message</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
 
 
 
