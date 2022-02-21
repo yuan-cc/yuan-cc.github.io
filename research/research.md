@@ -26,8 +26,6 @@
   
 </div>
 
-</div>
-
 ### Projects
 [Slides](https://yuan-cc.github.io/research/files/slides.pdf)
 
