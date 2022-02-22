@@ -401,9 +401,9 @@ input[type=submit]:hover {
   float: left;
   width: 48%;
   margin: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-
+  padding-left: 0px;
+  padding-right: 0px;
+  padding: 0px;
 }
 
 /* Clear floats after the columns */
