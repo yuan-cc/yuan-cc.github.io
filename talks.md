@@ -8,7 +8,7 @@
 
 ### 2022
 * March 16 - CTC talk series, University of Maryland (in person)
-* **April 5, 10 am (EDT) - PhD defense (hybrid: Davey 339 and zoom link TBD)**
+* **April 5, 10 am (EDT) - PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 * Time TBD - invited seminar, Florida University
 
 <details><summary>2021</summary>
