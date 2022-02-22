@@ -9,14 +9,14 @@
 <div class="row">
 <div class="column card" style="background:black;"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="projects/figs/pic-SGRB-AGN.png" width="100%" height="210px"/>
-  <div class="container">
+  <div class="container" style="background:black;">
    <center> <p>Gamma-ray emission from short GRBs embedded in AGN disks</p></center>
   </div> </a>
 </div>
 
-<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
+<div class="column card" style="background:gray;"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="projects/figs/smbh_mergers3.png" width="100%" height="210px"/>
-  <div class="container">
+  <div class="container" style="background:gray;">
    <center> <p>Neutrino and EM emissions from SMBH mergers</p></center>
   </div> </a>
 </div> 
