@@ -1,8 +1,8 @@
 <body>
 
-<h2>Round Card</h2>
+<h2>Research </h2>
+  
 <div class="row">
-
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="projects/figs/smbh_mergers1.png" width="100%" height="180px"/>
   <div class="container">
@@ -10,14 +10,46 @@
   </div> </a>
 </div>
 
-<div class="column card"> 
-  <img src="projects/figs/smbh_mergers1.png" padding=0 width="100%" height="180px" />
-  <div class="container" style="background-color:gray;">
-    <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissions from SMBH mergers</p> </a>
-  </div>
+<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
+  <img src="projects/figs/smbh_mergers1.png" width="100%" height="180px"/>
+  <div class="container">
+   <center> <p>Neutrino and EM emissions from SMBH mergers</p></center>
+  </div> </a>
+</div> 
 </div>
   
+  <div class="row">
+<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
+  <img src="projects/figs/smbh_mergers1.png" width="100%" height="180px"/>
+  <div class="container">
+   <center> <p>Neutrino and EM emissions from SMBH mergers</p></center>
+  </div> </a>
 </div>
+
+<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
+  <img src="projects/figs/smbh_mergers1.png" width="100%" height="180px"/>
+  <div class="container">
+   <center> <p>Neutrino and EM emissions from SMBH mergers</p></center>
+  </div> </a>
+</div> 
+</div>
+  
+<div class="row">
+<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/e_gamma_interactions.html">
+  <img src="projects/figs/e_gamma1.png" width="100%" height="180px"/>
+  <div class="container">
+   <center> <p>Monte Carlo Electron-Photon Interactions with Pair Formation</p></center>
+  </div> </a>
+</div>
+
+<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/cosmological_test.html">
+  <img src="projects/figs/cosmological_test2.png" width="100%" height="180px"/>
+  <div class="container">
+   <center> <p>Cosmological test using strong gravitational lensing systems</p></center>
+  </div> </a>
+</div> 
+</div>
+  
 </body>
 
 
@@ -28,8 +60,6 @@
 * [High-energy neutrino and EM emissions subsequent to GW radiation from SMBH mergers](https://yuan-cc.github.io/research/projects/smbh_mergers.html)
 * [Complementarity of stacking and multiplet constraints on blazar neutrinos](https://yuan-cc.github.io/research/projects/complementarity.html)
 * [A multimessenger picture of galaxy and halo mergers](https://yuan-cc.github.io/research/projects/gal_mergers.html)
-* [Monte Carlo Electron-Photon Interactions with Pair Formation](https://yuan-cc.github.io/research/projects/e_gamma_interactions.html)
-* [Cosmological test using strong gravitational lensing systems](https://yuan-cc.github.io/research/projects/cosmological_test.html)
 
 
 <!-- ### Notes
