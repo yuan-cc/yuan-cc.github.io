@@ -6,12 +6,12 @@
 <div class="column card"> 
   <img src="projects/figs/smbh_mergers1.png" />
   <div class="container">
-    <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissions from SMBH mergers</p> </a>
+    <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html" width="100%" height="180px"><p>Neutrino and EM emissions from SMBH mergers</p> </a>
   </div>
 </div>
 
 <div class="column card"> 
-  <img src="projects/figs/smbh_mergers1.png" width="100%" height="200" />
+  <img src="projects/figs/smbh_mergers1.png" padding=0 width="280px" height="180px" />
   <div class="container">
     <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissions from SMBH mergers</p> </a>
   </div>
