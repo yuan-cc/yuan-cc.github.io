@@ -2,7 +2,7 @@
 <[back](https://yuan-cc.github.io/research/research.html)>
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-## GeV Signatures of Short GRBs in AGNs
+### GeV Signatures of Short GRBs in AGNs
 * [arXiv: 2112.07653](https://arxiv.org/abs/2112.07653)
 
 **Overview**
