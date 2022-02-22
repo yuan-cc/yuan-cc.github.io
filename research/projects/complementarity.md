@@ -1,7 +1,6 @@
   
 ## Research project
-<[previous](https://yuan-cc.github.io/research/projects/smbh_mergers.html) | [next](https://yuan-cc.github.io/research/projects/gal_mergers.html)>
-<hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
+<[back](https://yuan-cc.github.io/research/research.html)>
 
 ### Complementarity of stacking and multiplet constraints on blazar neutrinos
 
