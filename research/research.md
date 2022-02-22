@@ -11,7 +11,7 @@
 </div>
 
 <div class="column card"> 
-  <img src="projects/figs/smbh_mergers1.png" padding=0 width="280px" height="180px" />
+  <img src="projects/figs/smbh_mergers1.png" padding=0 width="320px" height="180px" />
   <div class="container">
     <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissions from SMBH mergers</p> </a>
   </div>
