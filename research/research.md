@@ -3,11 +3,11 @@
 <h2>Round Card</h2>
 <div class="row">
 
-<div class="column card"> 
+<div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="projects/figs/smbh_mergers1.png" width="100%" height="180px"/>
   <div class="container">
-    <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html"><p>Neutrino and EM emissions from SMBH mergers</p> </a>
-  </div>
+    <p>Neutrino and EM emissions from SMBH mergers</p>
+  </div> </a>
 </div>
 
 <div class="column card"> 
