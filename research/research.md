@@ -7,7 +7,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
  
 <div class="row">
-<div class="column card" > <a href="https://yuan-cc.github.io/research/projects/SGRB-AGN.html">
+<div class="column card" > <a href="https://yuan-cc.github.io/research/projects/SGRB_AGN.html">
   <img src="projects/figs/pic-SGRB-AGN.png" width="100%" height="230px"/>
   <div class="container" >
    <center> <p>Gamma-ray emission from short GRBs embedded in AGN disks</p></center>
