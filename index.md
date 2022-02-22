@@ -22,15 +22,14 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 * [AAS jobregister](https://jobregister.aas.org) &#124; [iNSPIRE.HEP](https://inspirehep.net) &#124; [Astroparticle conferences](http://www.nu.to.infn.it/conf/) &#124; [Astronomy meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)
 
 <br>
-
 <div style="width: 100px; height: 50px; background-color: #F7F0FA; float: right;" 
         onmouseover="document.getElementById('div1').style.display = 'block';"
         onmouseout="document.getElementById('div1').style.display = 'none';" >
- <div id="div1" style="display: none;">
+<div id="div1" style="display: none;">
 <!-- hitwebcounter Code START -->
- <a target="_blank">
+<a target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7652711&style=0024&nbdigits=4&type=ip&initCount=122" border="0" ></a>       
-        <br>
+<br>
 <a target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7652712&style=0024&nbdigits=6&type=page&initCount=122" border="0" ></a>   
 </div>
