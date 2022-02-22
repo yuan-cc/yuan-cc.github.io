@@ -1,10 +1,10 @@
 ## Research project
-<[next](https://yuan-cc.github.io/research/projects/complementarity.html)>
+<[back](https://yuan-cc.github.io/research/research.html)>
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 ### High-energy neutrino and EM emissions subsequent to GW radiation from SMBH mergers
 * The [neutrino paper](https://arxiv.org/abs/2008.05616)
-* The EM counterpart paper: preparing 
+* The [EM counterpart paper](https://doi.org/10.3847/2041-8213/abee24) 
 
 **Overview**
 
