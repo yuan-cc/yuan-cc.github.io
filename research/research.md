@@ -36,14 +36,14 @@
   
 <div class="row">
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/e_gamma_interactions.html">
-  <img src="projects/figs/e_gamma1.png" width="100%" height="180px"/>
+  <img src="projects/figs/e_gamma1.png" width="100%" height="200px"/>
   <div class="container">
    <center> <p>Monte Carlo Electron-Photon Interactions with Pair Formation</p></center>
   </div> </a>
 </div>
 
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/cosmological_test.html">
-  <img src="projects/figs/cosmological_test2.png" width="100%" height="180px"/>
+  <img src="projects/figs/cosmological_test2.png" width="100%" height="200px"/>
   <div class="container">
    <center> <p>Cosmological test using strong gravitational lensing systems</p></center>
   </div> </a>
