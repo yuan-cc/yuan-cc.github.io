@@ -11,7 +11,7 @@
 </div>
 
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
-  <img src="projects/figs/smbh_mergers4.png" width="100%" height="180px"/>
+  <img src="projects/figs/smbh_mergers3.png" width="100%" height="180px"/>
   <div class="container">
    <center> <p>Neutrino and EM emissions from SMBH mergers</p></center>
   </div> </a>
@@ -20,7 +20,7 @@
   
   <div class="row">
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/gal_mergers.html">
-  <img src="projects/figs/gal_mergers1.png" width="100%" height="200px"/>
+  <img src="projects/figs/gal_mergers3.png" width="100%" height="200px"/>
   <div class="container">
    <center> <p>A multimessenger picture of galaxy and halo mergers</p></center>
   </div> </a>
@@ -29,7 +29,7 @@
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/complementarity.html">
   <img src="projects/figs/pic-comp.png" width="100%" height="200px"/>
   <div class="container">
-   <center> <p>Complementarity of stacking and multiplet constraints on blazar neutrinos</p></center>
+   <center> <p>Stacking and multiplet constraints on blazar neutrinos</p></center>
   </div> </a>
 </div> 
 </div>
