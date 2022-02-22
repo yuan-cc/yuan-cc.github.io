@@ -4,7 +4,8 @@
  
  [<a href="https://yuan-cc.github.io/research/files/slides.pdf">Slides</a>]
 
-
+<hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
+ 
 <div class="row">
 <div class="column card"> <a href="https://yuan-cc.github.io/research/projects/smbh_mergers.html">
   <img src="projects/figs/pic-SGRB-AGN.png" width="100%" height="210px"/>
