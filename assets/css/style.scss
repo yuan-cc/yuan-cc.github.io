@@ -152,15 +152,13 @@ header {
 
 header:before{
     z-index:-1;
-    position:fixed;
+    position: relative;
     top:366px;
     width:270px;
     height:100%;
     float:left;
     content:"";
     background:#E0D5E7;
-    overflow: hidden;
-
 }
 
 header:after {
