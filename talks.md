@@ -4,7 +4,7 @@
 
 ### 2022
 * March 16 - CTC talk series, University of Maryland (in person)
-* ~~ April 10 - APS April meeting, New York City ~~
+* ~~April 10 - APS April meeting, New York City (cancelled)~~
 * **April 19, 10 am (EDT) - PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 * Time TBD - invited seminar, Florida University
 
