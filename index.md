@@ -11,7 +11,7 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 * ~~April 10 - APS April meeting, New York City (cancelled)~~
 * April 19, 10 am (EDT) - **PhD defense** (hybrid: Davey Lab 339 and zoom link TBD) <br />
 * July 15, back to Shanghai, China!
-* 
+ 
 ->[More](https://yuan-cc.github.io/talks.html)<-
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
