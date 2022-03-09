@@ -7,10 +7,10 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 <a href="https://yuan-cc.github.io/talks.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2022 Events</a>
 
-* 2022 March 16 - CTC talk series, University of Maryland 
+* March 16 - CTC talk series, University of Maryland 
 * ~~April 10 - APS April meeting, New York City (cancelled)~~
-* 2022 April 19, 10 am (EDT) - **PhD defense** (hybrid: Davey Lab 339 and zoom link TBD) <br />
-* 2022 July 15, back to Shanghai, China!
+* April 19, 10 am (EDT) - **PhD defense** (hybrid: Davey Lab 339 and zoom link TBD) <br />
+* July 15, back to Shanghai, China!
 * 
 ->[More](https://yuan-cc.github.io/talks.html)<-
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
