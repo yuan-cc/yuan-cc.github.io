@@ -36,5 +36,7 @@
 <li>10/2016 - passed the candidancy exam </li>
 <li>06/2016 - obtained B.Sc. of Astronomy from Nanjing University</li>
 <li>08/2015 - lunch talk, Dept. of Astronomy & Astrophysics, Penn State</li>
+<li>07/2015 - REU internship, host institute: Dept. of Astronomy & Astrophysics, Penn State</li>
+
   </ul>
 </details>
