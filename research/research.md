@@ -3,8 +3,8 @@
 <h2>Research projects</h2>
  
  [<a href="https://yuan-cc.github.io/research/files/slides.pdf">Slides</a>]
- 
- <img align="center" src="https://yuan-cc.github.io/files/fig1.png" alt="drawing" width="720" />
+ <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
+ <img align="center" src="https://yuan-cc.github.io/files/fig1.png" alt="drawing" width="700" />
 
 <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
  
