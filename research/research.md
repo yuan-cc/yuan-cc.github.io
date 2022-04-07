@@ -3,10 +3,10 @@
 <h2>Research projects</h2>
  
  [<a href="https://yuan-cc.github.io/research/files/slides.pdf">Slides</a>]
- <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
+ <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF;width:700">
  <img align="center" src="https://yuan-cc.github.io/files/fig1.png" alt="drawing" width="700" />
 
-<hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
+<hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF;width:700">
  
 <div class="row">
 <div class="column card" > <a href="https://yuan-cc.github.io/research/projects/SGRB_AGN.html">
