@@ -11,7 +11,7 @@ Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Jan 
 ### Education
 **Ph.D. Physics, Pennsylvania State University**, University Park, PA, USA<br />
 May 2022 (expected) <br />
-Advisor: Prof. Peter Meszaros Prof. and Kohta Murase
+Advisor: Prof. Peter Meszaros and Prof. Kohta Murase
 
 **M.S. Physics, Pennsylvania State University**, University Park, PA, USA <br />
 April 2018 <br />
