@@ -11,14 +11,14 @@ Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Jan 
 ### Education
 **Ph.D. Physics, Pennsylvania State University**, University Park, PA, USA<br />
 May 2022 (expected) <br />
-Advisor: Prof. Peter Meszaros and Kohta Murase
+Advisor: Prof. Peter Meszaros Prof. and Kohta Murase
 
 **M.S. Physics, Pennsylvania State University**, University Park, PA, USA <br />
 April 2018 <br />
 
 **B.Sc. Astronomy, Nanjing University**, Nanjing, Jiangsu, China<br />
 June 2016  <br />
-Advisor: Prof. Xiangyu Wang and Fayin Wang
+Advisor: Prof. Xiangyu Wang and Prof. Fayin Wang
 
 ### Honors and Awards
 * 2022 TDLI Prize Postdoctoral Fellowship (declined)
