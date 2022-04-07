@@ -25,7 +25,7 @@ I am working on the theoretical aspects of multi-messenger astrophysics, includi
 * [Cosmological calculator](https://ned.ipac.caltech.edu/help/cosmology_calc.html) &#124; [PlotDigitizer](https://automeris.io/WebPlotDigitizer/) &#124; [HugeifyImage](https://waifu2x.booru.pics) &#124; [Higgstan](https://higgstan.com)
 * [AAS jobregister](https://jobregister.aas.org) &#124; [iNSPIRE.HEP](https://inspirehep.net) &#124; [Astroparticle conferences](http://www.nu.to.infn.it/conf/) &#124; [Astronomy meetings](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/)
 
-<img align="center" src="files/fig1.png" alt="drawing" width="840" />
+
 
 <br>
 <div style="width: 100px; height: 50px; background-color: #F7F0FA; float: right;" 
