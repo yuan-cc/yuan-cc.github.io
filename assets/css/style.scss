@@ -79,7 +79,6 @@ a:hover small {
   width:1140px;
   margin:0 auto;
   margin-left:0px;  
-  overflow-x: hidden;
 }
 
 
@@ -235,7 +234,7 @@ strong {
 
 section {
   position: relative;
-    position: static;
+    position: fixed;
   z-index: 3;
   margin-left: 300px;
   padding-top:20px;
@@ -244,6 +243,7 @@ section {
   padding-bottom:50px;
    background-color: #F7F0FA;
     overflow-y: scroll;
+  overflow-x:scroll;
 
 }
 
