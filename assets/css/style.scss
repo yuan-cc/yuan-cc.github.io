@@ -237,7 +237,8 @@ strong {
 section {
   position: relative;
     position: fixed;
-  margin-left: 270px;
+  z-index: 3;
+  margin-left: 300px;
   padding-top:20px;
   width:820px;
   float:right;
