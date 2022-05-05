@@ -236,7 +236,7 @@ strong {
 
 section {
   position: relative;
-    position: relative;
+    position: absolute;
   z-index: 3;
   margin-left: 300px;
   padding-top:20px;
@@ -245,6 +245,8 @@ section {
   padding-bottom:50px;
    background-color: #F7F0FA;
   overflow-x: scroll;
+    overflow-y: scroll;
+
 }
 
 small {
