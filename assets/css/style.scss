@@ -12,8 +12,7 @@ body {
   color:#545454;
   font-family: Palatino, 'PingFang SC', Helvetica, sans-serif, 'Hiragino Kaku Gothic Pro', STXihei, 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif;
   font-weight:400;  
-  max-width: 100%;
-    overflow-x: hidden;
+  overflow-x: hidden
 }
 
 @import "fonts";
@@ -141,17 +140,18 @@ header {
   text-align: justify;
   background-color: #F3E5FB;
   -webkit-font-smoothing:subpixel-antialiased;
-  overflow:auto;
   overflow: hidden;
 }
 
 
 .left {
   width: 25%;
+  overflow-x: hidden
 }
 
 .right {
   width: 75%;
+  overflow-x: hidden
 }
 
 
@@ -236,11 +236,10 @@ section {
   position: absolute;
   overflow-y: scroll;
   overflow-x: hidden;
-  z-index: 3;
   left: 300px;
   padding-top:20px;
   width:820px;
-  float:left;
+  float:right;
   padding-bottom:50px;
   background-color: #F7F0FA;
  
