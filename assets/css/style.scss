@@ -13,7 +13,7 @@ body {
   font-family: Palatino, 'PingFang SC', Helvetica, sans-serif, 'Hiragino Kaku Gothic Pro', STXihei, 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif;
   font-weight:400;
   
-  overflow-x: scroll;
+  
 
 }
 
@@ -140,7 +140,7 @@ header {
   height:100%;
   float:left;
   text-align: justify;
-  background: #F3E5FB;
+  background-color: #F7F0FA;
   -webkit-font-smoothing:subpixel-antialiased;
   overflow:auto;
   overflow: hidden;
@@ -433,13 +433,13 @@ input[type=submit]:hover {
 img {
   border-radius: 0 0 0 0;
 }
-/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other 
 @media screen and (max-width: 600px) {
   .column, input[type=submit] {
     width: 100%;
     margin-top: 0;
   }
-}
+}*/
 
 
 
