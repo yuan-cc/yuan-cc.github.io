@@ -155,7 +155,7 @@ header {
 
 header:before{
     z-index:-1;
-    position: absolute;
+    position: fixed;
     top:335px;
     width:270px;
     height:700px;
