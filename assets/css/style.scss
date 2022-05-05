@@ -235,16 +235,16 @@ strong {
 }
 
 section {
-  position: auto;
+  position: absolute;
   overflow-y: scroll;
   overflow-x: hidden;
   z-index: 3;
   margin-left: 300px;
   padding-top:20px;
   width:820px;
-  float:right;
+  float:left;
   padding-bottom:50px;
-   background-color: #F7F0FA;
+  background-color: #F7F0FA;
  
 
 }
