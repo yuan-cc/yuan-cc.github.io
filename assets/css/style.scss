@@ -133,7 +133,7 @@ img {
 
 header {
   z-index:1;
-  position: static;
+  position: fixed;
   padding-top:0px;
   width:270px;
   height:100%;
@@ -234,7 +234,7 @@ strong {
 }
 
 section {
-  position: static;
+  position: absolute;
   padding-top:20px;
   width:820px;
   float:right;
