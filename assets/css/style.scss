@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/*@import "{{ site.theme }}";*/
 body {
   background-color: #F7F0FA;
   padding-top:0px;  /* padding:50px; */
@@ -12,10 +12,11 @@ body {
   color:#545454;
   font-family: Palatino, 'PingFang SC', Helvetica, sans-serif, 'Hiragino Kaku Gothic Pro', STXihei, 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif;
   font-weight:400;  
+  overflow-x:hidden;
 }
 
-@import "fonts";
-@import "rouge-github";
+/*@import "fonts";
+@import "rouge-github";*/
 
 
 h1, h2, h3, h4, h5, h6 {
