@@ -1,4 +1,7 @@
-## Documents - PhD dissertation
+## Documents
+<hr style="height:5px;border-width:0;color:gray;background-color:#B3A1BF">
+
+###PhD dissertation
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
  <h3 style="color:#B200B2;text-decoration: underline; font-weight: bold;">Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers</h3>
 [[The full pdf](https://yuan-cc.github.io/dissertation/Yuan,Chengchao-dissertation.pdf)]
@@ -18,3 +21,13 @@
 [Chapter 7: Complementarity of Stacking and Multiplet Constraints on the Blazar Neutrinos](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
 [Chapter 8: Summary and Outlook](https://yuan-cc.github.io/dissertation/chapter8.pdf)<br>
 [Bibliography/Vita](https://yuan-cc.github.io/dissertation/bibliography.pdf)
+
+<hr style="height:5px;border-width:0;color:gray;background-color:#B3A1BF">
+### Scientific Write-ups
+* Neutrino Oscillations in Matter and Mass Hierarchy [[pdf]](https://yuan-cc.github.io/research/files/neutrino_matter.pdf)
+* An Overview of Gravitational Wave Sources [[pdf]](https://yuan-cc.github.io/research/files/GW_sources.pdf)
+* Gravitational Turbulence Stimulated by a Fast-Moving Mass [[pdf]](https://yuan-cc.github.io/research/files/gt.pdf)
+* The Physics of Massive Compact Halo Objects (MACHOs) [[pdf]](https://yuan-cc.github.io/research/files/machos.pdf)
+* The Limits of Quintessence [[pdf]](https://yuan-cc.github.io/research/files/quin.pdf)
+* Speed and Lifetime of Cosmic-Ray Muons [[pdf]](https://yuan-cc.github.io/research/files/muon_speed.pdf)
+* High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
