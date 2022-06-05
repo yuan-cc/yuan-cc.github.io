@@ -12,9 +12,9 @@
 [Chapter 1: Introduction](https://yuan-cc.github.io/dissertation/chapter1.pdf)<br>
 [Chapter 2: Cumulative Neutrino and Gamma-Ray Backgrounds from Galaxy and Cluster Mergers](https://yuan-cc.github.io/dissertation/chapter2.pdf)<br>
 [Chapter 3: Secondary Radio and X-Ray Emissions from Galaxy Mergers](https://yuan-cc.github.io/dissertation/chapter3.pdf)<br>
-[Chapter 4: High-Energy Neutrino Emission Subsequent to GW Radiation from SMBH Black Hole Mergers](https://yuan-cc.github.io/dissertation/chapter4.pdf)<br>
-[Chapter 5: Post-Merger Jets from SMBH Coalescences as Electromagnetic Counterparts of GW Emission](https://yuan-cc.github.io/dissertation/chapter5.pdf)<br>
+[Chapter 4: HE Neutrino Emission Subsequent to GW Radiation from SMBH Black Hole Mergers](https://yuan-cc.github.io/dissertation/chapter4.pdf)<br>
+[Chapter 5: Post-Merger Jets from SMBH Coalescences as EM Counterparts of GW Emission](https://yuan-cc.github.io/dissertation/chapter5.pdf)<br>
 [Chapter 6: GeV Signatures of Short GRBs in Active Galactic Nuclei](https://yuan-cc.github.io/dissertation/chapter6.pdf)<br>
-[Chapter 7: Complementarity of Stacking and Multiplet Constraints on the Blazar Contribution to the Cumulative Diffuse Neutrino Flux](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
+[Chapter 7: Complementarity of Stacking and Multiplet Constraints on the Blazar Neutrinos](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
 [Chapter 8: Summary and Outlook](https://yuan-cc.github.io/dissertation/chapter8.pdf)<br>
 [Bibliography/Vita](https://yuan-cc.github.io/dissertation/bibliography.pdf)
