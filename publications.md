@@ -19,11 +19,4 @@
 ### Conference Proceedings
 * **Yuan, C.**, Murase K. & Mészáros, P. (2019) [“A Multi-Messenger Picture of Galaxy Mergers: Neutrinos and Electromagnetic Emissions”](https://pos.sissa.it/358/1041/pdf), ICRC2019 1041.
 
-### Scientific Write-ups
-* Neutrino Oscillations in Matter and Mass Hierarchy [[pdf]](https://yuan-cc.github.io/research/files/neutrino_matter.pdf)
-* An Overview of Gravitational Wave Sources [[pdf]](https://yuan-cc.github.io/research/files/GW_sources.pdf)
-* Gravitational Turbulence Stimulated by a Fast-Moving Mass [[pdf]](https://yuan-cc.github.io/research/files/gt.pdf)
-* The Physics of Massive Compact Halo Objects (MACHOs) [[pdf]](https://yuan-cc.github.io/research/files/machos.pdf)
-* The Limits of Quintessence [[pdf]](https://yuan-cc.github.io/research/files/quin.pdf)
-* Speed and Lifetime of Cosmic-Ray Muons [[pdf]](https://yuan-cc.github.io/research/files/muon_speed.pdf)
-* High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
+
