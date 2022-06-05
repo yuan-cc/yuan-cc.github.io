@@ -1,6 +1,8 @@
 ## Documents - PhD dissertation
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
- <h3 style="color:#B200B2;text-decoration: underline; font-weight: bold;">[Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers](https://yuan-cc.github.io/dissertation/Yuan,Chengchao-dissertation.pdf)</h3>
+ <h3 style="color:#B200B2;text-decoration: underline; font-weight: bold;">Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers</h3>
+[The full pdf](https://yuan-cc.github.io/dissertation/Yuan,Chengchao-dissertation.pdf)<br>
+
 **Abstract**<br> 
 The historical coincident detection of gravitational waves (GWs) and electromagnetic (EM) counterparts from the binary neutron star merger event GW 170817 heralds a new era in multi-messenger astronomy. At the same time, since the first discovery of the high-energy astrophysical neutrinos in 2012 by IceCube, neutrino astrophysics has made significant progress and has started playing an increasingly important role in multi-messenger analyses. We are currently in the stage where we can probe the nature of the extreme astrophysical phenomena with the synergies between EM photons, neutrinos, GWs, and cosmic rays. 
 
@@ -8,14 +10,13 @@ In this dissertation, I start with an overview of the development of multi-messe
 
 In a separate effort, we study the stacking and multiplet constraints on the blazar contribution to the cumulative diffuse neutrino flux, assuming a generic relationship between neutrino and gamma-ray luminosities (chapter 7). We show that these two limits are complementary, and our results support the argument that blazars are disfavored as the dominant sources of the 100-TeV neutrino background. This work provides rather general and stringent constraints for future studies of blazar neutrinos.
 
-[Download](https://yuan-cc.github.io/dissertation/Yuan,Chengchao-dissertation.pdf)<br>
-[Abstract/Contents/Acknowledgements](https://yuan-cc.github.io/dissertation/abstract.pdf)<br>
-[Chapter 1](https://yuan-cc.github.io/dissertation/chapter1.pdf)<br>
-[Chapter 2](https://yuan-cc.github.io/dissertation/chapter2.pdf)<br>
-[Chapter 3](https://yuan-cc.github.io/dissertation/chapter3.pdf)<br>
-[Chapter 4](https://yuan-cc.github.io/dissertation/chapter4.pdf)<br>
-[Chapter 5](https://yuan-cc.github.io/dissertation/chapter5.pdf)<br>
-[Chapter 6](https://yuan-cc.github.io/dissertation/chapter6.pdf)<br>
-[Chapter 7](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
-[Chapter 8](https://yuan-cc.github.io/dissertation/chapter8.pdf)<br>
+[Abstract/Contents/Lists/Acknowledgements](https://yuan-cc.github.io/dissertation/abstract.pdf)<br>
+[Chapter 1: Introduction](https://yuan-cc.github.io/dissertation/chapter1.pdf)<br>
+[Chapter 2: Cumulative Neutrino and Gamma-Ray Backgrounds from Galaxy and Cluster Mergers](https://yuan-cc.github.io/dissertation/chapter2.pdf)<br>
+[Chapter 3: Secondary Radio and X-Ray Emissions from Galaxy Mergers](https://yuan-cc.github.io/dissertation/chapter3.pdf)<br>
+[Chapter 4: High-Energy Neutrino Emission Subsequent to GW Radiation from SMBH Black Hole Mergers](https://yuan-cc.github.io/dissertation/chapter4.pdf)<br>
+[Chapter 5: Post-Merger Jets from SMBH Coalescences as Electromagnetic Counterparts of GW Emission](https://yuan-cc.github.io/dissertation/chapter5.pdf)<br>
+[Chapter 6: GeV Signatures of Short GRBs in Active Galactic Nuclei](https://yuan-cc.github.io/dissertation/chapter6.pdf)<br>
+[Chapter 7: Complementarity of Stacking and Multiplet Constraints on the Blazar Contribution to the Cumulative Diffuse Neutrino Flux](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
+[Chapter 8: Summary and Outlook](https://yuan-cc.github.io/dissertation/chapter8.pdf)<br>
 [Bibliography/Vita](https://yuan-cc.github.io/dissertation/bibliography.pdf)
