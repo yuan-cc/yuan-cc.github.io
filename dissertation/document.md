@@ -20,3 +20,4 @@ In a separate effort, we study the stacking and multiplet constraints on the bla
 [Chapter 6](https://yuan-cc.github.io/dissertation/chapter6.pdf)<br>
 [Chapter 7](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
 [Chapter 8](https://yuan-cc.github.io/dissertation/chapter8.pdf)<br>
+[Bibliography/Vita](https://yuan-cc.github.io/dissertation/bibliography.pdf)
