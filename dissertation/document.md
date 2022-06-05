@@ -11,12 +11,12 @@ In this dissertation, I start with an overview of the development of multi-messe
 
 In a separate effort, we study the stacking and multiplet constraints on the blazar contribution to the cumulative diffuse neutrino flux, assuming a generic relationship between neutrino and gamma-ray luminosities (chapter 7). We show that these two limits are complementary, and our results support the argument that blazars are disfavored as the dominant sources of the 100-TeV neutrino background. This work provides rather general and stringent constraints for future studies of blazar neutrinos. 
 
-[Abstract/Contents/Acknowledgements](https://yuan-cc.github.io/dissertation/abstract.pdf)
-[Chapter 1](https://yuan-cc.github.io/dissertation/chapter1.pdf)
-[Chapter 2](https://yuan-cc.github.io/dissertation/chapter2.pdf)
-[Chapter 3](https://yuan-cc.github.io/dissertation/chapter3.pdf)
-[Chapter 4](https://yuan-cc.github.io/dissertation/chapter4.pdf)
-[Chapter 5](https://yuan-cc.github.io/dissertation/chapter5.pdf)
-[Chapter 6](https://yuan-cc.github.io/dissertation/chapter6.pdf)
-[Chapter 7](https://yuan-cc.github.io/dissertation/chapter7.pdf)
-[Chapter 8](https://yuan-cc.github.io/dissertation/chapter8.pdf)
+[Abstract/Contents/Acknowledgements](https://yuan-cc.github.io/dissertation/abstract.pdf)<br>
+[Chapter 1](https://yuan-cc.github.io/dissertation/chapter1.pdf)<br>
+[Chapter 2](https://yuan-cc.github.io/dissertation/chapter2.pdf)<br>
+[Chapter 3](https://yuan-cc.github.io/dissertation/chapter3.pdf)<br>
+[Chapter 4](https://yuan-cc.github.io/dissertation/chapter4.pdf)<br>
+[Chapter 5](https://yuan-cc.github.io/dissertation/chapter5.pdf)<br>
+[Chapter 6](https://yuan-cc.github.io/dissertation/chapter6.pdf)<br>
+[Chapter 7](https://yuan-cc.github.io/dissertation/chapter7.pdf)<br>
+[Chapter 8](https://yuan-cc.github.io/dissertation/chapter8.pdf)<br>
