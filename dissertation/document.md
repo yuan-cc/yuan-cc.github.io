@@ -1,7 +1,7 @@
 ## Documents - PhD dissertation
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
- <h2 style="color:#B200B2;text-decoration: underline; font-weight: bold;">Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers</h2>
+ <h3 style="color:#B200B2;text-decoration: underline; font-weight: bold;">Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers</h3>
  **Abstract**
  
 The historical coincident detection of gravitational waves (GWs) and electromagnetic (EM) counterparts from the binary neutron star merger event GW 170817 heralds a new era in multi-messenger astronomy. At the same time, since the first discovery of the high-energy astrophysical neutrinos in 2012 by IceCube, neutrino astrophysics has made significant progress and has started playing an increasingly important role in multi-messenger analyses. We are currently in the stage where we can probe the nature of the extreme astrophysical phenomena with the synergies between EM photons, neutrinos, GWs, and cosmic rays. 
