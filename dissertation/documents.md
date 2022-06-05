@@ -1,9 +1,9 @@
 ## Documents
 <hr style="height:5px;border-width:0;color:gray;background-color:#B3A1BF">
 
-###PhD dissertation
+### PhD dissertation
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
- <h3 style="color:#B200B2;text-decoration: underline; font-weight: bold;">Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers</h3>
+ <h3 style="color:#B200B2;text-decoration: underline; font-weight: light;">Neutrino and Electromagnetic Counterparts of Galaxy and Astrophysical Black Hole Mergers</h3>
 [[The full pdf](https://yuan-cc.github.io/dissertation/Yuan,Chengchao-dissertation.pdf)]
 
 **Abstract**<br> 
