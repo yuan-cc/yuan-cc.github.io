@@ -31,3 +31,5 @@
 * The Limits of Quintessence [[pdf]](https://yuan-cc.github.io/research/files/quin.pdf)
 * Speed and Lifetime of Cosmic-Ray Muons [[pdf]](https://yuan-cc.github.io/research/files/muon_speed.pdf)
 * High-Redshift SFGs as Hidden Neutrino Sources [[pdf]](https://yuan-cc.github.io/research/files/high_z_sources.pdf)
+<hr style="height:5px;border-width:0;color:gray;background-color:#B3A1BF">
+
