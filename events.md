@@ -34,7 +34,7 @@ Penn State Summer 2022 Commencement ceremonies.
 **June 28**<br />
 My PhD dissertation is approved by the Committee and the Graduate School.
 
-**June 17** <br />
+**June 17**
 * The type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
 * Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
 
