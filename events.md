@@ -28,7 +28,6 @@
 
 
 ### 2022
-* July 14 - back to Shanghai, China
 * **April 19, 10 am (EDT) - PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 * ~~April 10 - APS April meeting, New York City (cancelled)~~
 * March 16 - CTC talk series, University of Maryland
