@@ -28,25 +28,23 @@
 
 
 ### 2022
-**August 13**
+**August 13**<br />
 Penn State Summer 2022 Commencement ceremonies. 
 
-**June 28**
+**June 28**<br />
 My PhD dissertation is approved by the Committee and the Graduate School.
 
-**June 17** 
-The type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
+**June 17** <br />
+The type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! <br />
 Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
 
-**April 19, 10 am (EDT) 
+**April 19, 10 am (EDT) <br />
 PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 
 ~~April 10 - APS April meeting, New York City (cancelled)~~
 
-**March 16** 
+**March 16** <br />
 CTC talk series, University of Maryland
-
-Time TBD - invited seminar, Florida University
 
 <details><summary>2021</summary>
  <ul>
