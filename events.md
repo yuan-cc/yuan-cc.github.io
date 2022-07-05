@@ -29,7 +29,7 @@
 
 ### 2022
 * August 13 - Penn State Summer 2022 Commencement ceremonies. 
-* June 17 - Chinese Navy launched the Type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult. Congratulations! <br /> The SGRB paper paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
+* **June 17** <br />The type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! <br /> Our SGRB paper paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
 * **April 19, 10 am (EDT) - PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 * ~~April 10 - APS April meeting, New York City (cancelled)~~
 * March 16 - CTC talk series, University of Maryland
