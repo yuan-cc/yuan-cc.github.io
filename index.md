@@ -26,6 +26,9 @@ Move to Zeuthen, Germany and start my postdoctoral position at DESY.
 **August 13**<br />
 Penn State Summer 2022 Commencement ceremonies. 
 
+**July 13-16**<br />
+AstroFest!
+
 **June 28**<br />
 My PhD dissertation is approved by the Committee and the Graduate School.
 
