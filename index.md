@@ -1,8 +1,8 @@
 ## Welcome!
 
-I'm an astrophysicist working on the high-energy astrophysics and astroparticle physics. In 2022, I obtained my PhD in Physics at Penn State, where I was mentored by Prof. [Péter Mészáros](http://personal.psu.edu/nnp/) and Prof. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I obtained my B.Sc. degree in Astronomy from Nanjing University in China. 
+I'm an astrophysicist working on high-energy astrophysics and astroparticle physics. In 2022, I obtained my PhD in Physics at Penn State, where I was mentored by Prof. [Péter Mészáros](http://personal.psu.edu/nnp/) and Prof. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I obtained my B.Sc. degree in Astronomy from Nanjing University in China. 
 
-My research focuses on the theoretical aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport and radiation processes of high-energy particles originated from compact binary pairs (super massive/stellar mass black holes), supernovae, gamma-ray bursts, active galactic nuclei and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding on the physical nature of high-energy astrophysical phenomena.
+My research focuses on the theoretical aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from compact binary pairs (supermassive/stellar mass black holes), supernovae, gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
@@ -33,7 +33,7 @@ AstroFest!
 My PhD dissertation is approved by the Committee and the Graduate School.
 
 **June 17** 
-* The type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
+* The type 003 Aircraft Carrier 'Fujian' featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
 * Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
 
 **April 19, 10 am (EDT) <br />
