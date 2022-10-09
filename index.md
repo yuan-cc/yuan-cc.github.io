@@ -62,6 +62,3 @@ CTC talk series, University of Maryland
 <img src="https://hitwebcounter.com/counter/counter.php?page=7652712&style=0024&nbdigits=6&type=page&initCount=122" border="0" ></a>   
 </div>
 </div>
-<logo>
-    <img src="https://yuan-cc.github.io/files/DESY_logo_3C_web.png" alt="logo" width="150" height="150">
-</logo>
