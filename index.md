@@ -1,6 +1,7 @@
 ## Welcome!
 
 I'm an astrophysicist working on theoretical high-energy astrophysics and astroparticle physics. 
+    <img src="https://yuan-cc.github.io/files/DESY_logo_3C_web.png" alt="logo" width="150" height="150" style="margin-left: 1000px">
 
 I am a postdoctoral fellow in the theoretical astroparticle physics group (THAT) at the Deutsches Elektronen-Synchrotron DESY working with Prof. Walter Winter. In 2022, I obtained my PhD in Physics at Penn State, where I was mentored by Prof. [Péter Mészáros](http://personal.psu.edu/nnp/) and Prof. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I earned my B.Sc. degree in Astronomy from Nanjing University in China. 
 
