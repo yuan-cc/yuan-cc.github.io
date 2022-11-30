@@ -49,7 +49,7 @@ CTC talk series, University of Maryland
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23B39DDB&ctz=Europe%2FBerlin&title=Record&src=eXVhbmNjOTVAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&showNav=0&showPrint=0&showTabs=0&showCalendars=0&title=Record&src=eXVhbmNjOTVAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 <br>
 <div style="width: 100px; height: 50px; background-color: #F7F0FA; float: right;" 
