@@ -23,6 +23,15 @@ My research focuses on the theoretical aspects of multi-messenger astrophysics, 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 <a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2022 Events</a> &#124; [All events](https://yuan-cc.github.io/events.html)
 
+**November 11**<br />
+The paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).
+
+**November 09**<br />
+THAT meeting
+
+**October 09**<br />
+Fermi GBM and Swift XRT/BAT detected the brightest GRB 221009A.
+
 **October 01**<br />
 Move to Zeuthen, Germany and start my postdoctoral position at DESY.
 
