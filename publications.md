@@ -5,8 +5,8 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 ### Journal Articles
-
-1. **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2021) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), arXiv: 2112.07653<br />
+1. B. Theodore Zhang, Kohta Murase, Kunihito Ioka, Deheng Song, **Chengchao Yuan**, Péter Mészáros (2022) [External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A](https://arxiv.org/abs/2211.05754)
+1. **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2022) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), arXiv: 2112.07653<br />
 1. **Yuan, C.**, Murase, K., Zhang, B. T., Kimura, S. S., Mészáros, P., (2021) ["Post-Merger Jets from Supermassive Black Hole Coalescences as Electromagnetic Counterparts of Gravitational Wave Emission"](https://arxiv.org/abs/2101.05788), ApJL 911 L15<br />
 1. Zhang, B. Theodore, Murase, K., **Yuan, C.**, Kimura, S. S., Mészáros, P., (2020) ["External Inverse-Compton Emission Associated with Extended and Plateau Emission of Short Gamma-Ray Bursts: Application to GRB 160821B"](https://arxiv.org/abs/2012.09143), ApJL 908 L36<br />
 1. **Yuan, C.**, Murase, K., Kimura, S. & Mészáros, P. (2020) [“High-energy neutrino emission subsequent to gravitational wave radiation from supermassive black hole mergers”](https://arxiv.org/abs/2008.05616), arXiv: 2008.05616, accepted for publication in Phys. Rev. D<br />
