@@ -9,7 +9,7 @@ My research focuses on the theoretical aspects of multi-messenger astrophysics, 
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 ### Links
-* DESY: \[[DESY AP(https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html)\] \[[Confluence](https://confluence.desy.de)\] \[[GO DESY](https://go.desy.de)\]
+* DESY: \[[DESY AP](https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html)\] \[[Confluence](https://confluence.desy.de)\] \[[GO DESY](https://go.desy.de)\]
 * Penn State: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
 * [ADS](https://ui.adsabs.harvard.edu) &#124; [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
 * Submit to [AAS Journals](https://aas.msubmit.net/) &#124; [Phys Rev Jorunals](https://authors.aps.org/Submissions/login/new) &#124; [MNRAS](https://mc.manuscriptcentral.com/mnras#)
