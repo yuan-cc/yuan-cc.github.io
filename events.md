@@ -1,3 +1,28 @@
+# AM3
+Astrophysical Multiwavelength and MultiMessenger computation software
+
+## Prerequisites:
+1. Python3.7 for using the Python interface
+    - numpy
+    - pybind11
+
+2. C++
+    - c++11 or above
+    - gsl library for mathematical special functions in C++: `sudo apt install libgsl-dev`
+    - eigen library for matrix operations (currently included in the repo)
+
+
+## Making AM3:
+Simply use `make` in the directory of the make file to compile and link AM3 for the first time. For remaking remember to `make clean` first. 
+
+## Importing `pybind_core` to python
+It is important to add the path of `pybind_core` to your `PYTHONPATH` or
+append it at the beginning of your program: `../AM3/libpython`
+
+## Changes for expanding blobs
+
+
+
 ## Events
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
