@@ -33,15 +33,15 @@ append it at the beginning of your program: `../AM3/libpython`
 
 ### SourceParams.h
 
-***parameters***
+***Parameters***
 ```
-double t_start, //start time, in the observer frame
-               t_stop,  //stop time, in the observer frame
-               R0eng,   //initial blob radius in engine frame
+        double t_start, //start time, in the observer frame [s]
+               t_stop,  //stop time, in the observer frame [s]
+               R0eng,   //initial blob radius in engine frame [cm]
                Lorentz0 = 1,//initial blob Lorentz factor
                theta_Jet,  //opening angle, for jets
-               Ek, //blast wave isotropic kinetic energy
-               LuminoDistance, // liminosity distance in Mpc
+               Ek, //blast wave isotropic kinetic energy [ergs]
+               LuminoDistance, // liminosity distance [Mpc]
                RedShift, // source redshift
                theta_view = 0.0, // view angle, on-axis = 0.0
                epsilonB = 0.01, //fraction of ISM energy converted to magnetic field 
@@ -52,10 +52,54 @@ double t_start, //start time, in the observer frame
                fractionPro_acc = 0.1, // number fraction of accelerated protons
                fractionE_acc = 0.1; // number fraction of accelerated electrons: (# of accelerated)/(total electron number)
 
-        double dt_obs, t_obs;
+        double dt_obs, t_obs; // delta t in observer's frame, current time in the loop
+        double ExternalDensity(double); // User should define the external density [g/cm^3] in sourceparams.cc as a function of radius [cm]
+        double ISMmass(double); // User should define external medium mass [g] in sourceparams.cc as a function of radius [cm]
+                                // by integrating ExternalDensity(double) over volume
+```
+***Functions***
+```
+SourceParams SP;
+SP.xxx = xxx; //input initial/physical parameters
+
+SP.initialize_dynamic(); //prepare tables for physical quantities
+SP.PrepareDynamicTables(); // get tables for Lorentz factor, Rblob_obs, magnetic field strength for later output/interpolation
+SP.output_dynamic("./results/data/");
+```
+The following functions can be called in a loop:
+```
+double get_CoBlobRadius(double t_obs); // t_start < t_obs< t_stop, in observer's frame
+double get_ObsBlobRadius(double t_obs);
+double get_LorentzFactor(double t_obs);
+double get_NumberDensity(double t_obs);
+double get_MagneticField(double t_obs);
+
+double* get_externalE(double t_obs,int e_inj_max); 
+double* get_externalPro(double t_obs, int pro_inj_max);
 
 ```
 
+For example
+```
+do{
+        rp.Rblob = SP.get_CoBlobRadius(SP.t_obs);  // set comoving blob radius
+        sim.Update_B(SP.get_MagneticField(SP.t_obs)); // set magnetic field
+        
+        sim.Estimate_MaximumLeptonEnergy();
+        sim.Estimate_MaximumProtonEnergy();
+
+        sim.External_Electrons(SP.get_externalE(SP.t_obs, rp.e_inj_max));  // inject electrions from the function get_externalE
+        sim.External_Protons(SP.get_externalPro(SP.t_obs, rp.PRO_inj_max));  // inject protons from function get_externalPro
+
+        sim.EVO();
+        
+        SP.dt_obs = rp.FRACt * rp.Rblob / c0 * (1+SP.RedShift) / SP.get_LorentzFactor(SP.t_obs); // from comoving frame dt to obs frame
+        SP.t_obs += SP.dt_obs;  //record current time in observer's frame
+        
+        if(SP.t_obs > SP.t_stop) SP.t_obs = SP.t_stop; // to prevent time overflow      
+
+    }while(SP.t_obs < SP.t_stop);
+```
 
 ## Events
 
