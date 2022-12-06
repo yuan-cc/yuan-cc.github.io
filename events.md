@@ -31,8 +31,30 @@ append it at the beginning of your program: `../AM3/libpython`
 
 ### Data flow between AM3 modules and AstroSource modules
 
+### SourceParams.h
 
+***parameters***
+```
+double t_start, //start time, in the observer frame
+               t_stop,  //stop time, in the observer frame
+               R0eng,   //initial blob radius in engine frame
+               Lorentz0 = 1,//initial blob Lorentz factor
+               theta_Jet,  //opening angle, for jets
+               Ek, //blast wave isotropic kinetic energy
+               LuminoDistance, // liminosity distance in Mpc
+               RedShift, // source redshift
+               theta_view = 0.0, // view angle, on-axis = 0.0
+               epsilonB = 0.01, //fraction of ISM energy converted to magnetic field 
+               epsilonE = 0.1, // fraction of ISM energy converted to accelerated electrons
+               epsilonPro = 0.1, // fraction of ISM energy converted to accelerated protons
+               E_spec_index = 2.2, //electron spectral index, dN/dE ~ E^(-E_spec_index) 
+               Pro_spec_index = 2.2, //proton spectral index
+               fractionPro_acc = 0.1, // number fraction of accelerated protons
+               fractionE_acc = 0.1; // number fraction of accelerated electrons: (# of accelerated)/(total electron number)
 
+        double dt_obs, t_obs;
+
+```
 
 
 ## Events
