@@ -58,6 +58,8 @@ append it at the beginning of your program: `../AM3/libpython`
                                 // by integrating ExternalDensity(double) over volume
 ```
 ***Functions***
+
+To initialize the sourceparams module
 ```
 SourceParams SP;
 SP.xxx = xxx; //input initial/physical parameters
@@ -74,7 +76,7 @@ double get_LorentzFactor(double t_obs);
 double get_NumberDensity(double t_obs);
 double get_MagneticField(double t_obs);
 
-double* get_externalE(double t_obs,int e_inj_max); 
+double* get_externalE(double t_obs, int e_inj_max); // user should provide the maximum energy for injection, minimum energy will be calculated automatically
 double* get_externalPro(double t_obs, int pro_inj_max);
 
 ```
@@ -101,6 +103,26 @@ do{
     }while(SP.t_obs < SP.t_stop);
 ```
 
+### output.h
+
+At first, provide the directory to store output data and EBL model for gamma-gamma attenuation, e.g., 
+```
+OutPut outp; 
+outp.path = "./results/data/"; //set the data directory path, defaule = "./results/data/"
+outp.EBLmodel = "Franceschini08"; // select the EBL model for cosmic gamma-gamma attenuation, 
+                                  // EBL models: "Finke10" (default, arXiv: 0905.1115),
+                                   //"Franceschini08", "Gilmore12"
+```
+
+Define the timelist (observer's frame [s]) and energylist (observer's frame [GeV]) vectors for output, e.g.,
+```
+vector <double> spec_timelist {1e4, 1e5, 1e6, 1e7}; // to output spectra at 10^4s, 10^5s, 10^6s, 10^7s
+vector <double> ph_lightcurve_energies {0.01, 1, 10, 100}; // to output 0.01 GeV, 1 GeV, 10 GeV, 100 GeV gamma-ray ligitcurves 
+vector <double> neu_lightcurve_energies {100,1000,1e4}; // observed energies of light curves [GeV]
+vector <double> ph_fluence_timelist {1e4,1e5,1e6}; // 
+vector <double> neu_fluence_timelist {1e4,1e5,1e6,1e7}; //
+```
+Then put the output function in the loop
 ## Events
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
