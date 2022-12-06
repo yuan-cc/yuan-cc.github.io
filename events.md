@@ -24,6 +24,14 @@ append it at the beginning of your program: `../AM3/libpython`
 ### Summary
 1. [AM3 modules] Added a new command `process_expandingblob` to `class SimulationManager` in `core.h, core.cc` to make the particles densities consistent with an expanding shell. If `Rbolb` depends on time, `sim.process_expandingblob = 1` should be implemented (default value is `0`).
 2. [AM3 modules] Added a new function `int Binary_Search(std::vector <double> input_list, double x, int start,int end);` to `math.h, math.cc` for locating the position `int index` of a value `double x` in a 1D vector `vector <double> input_list`, given the start `int start = 0` and end `int end = input_list.size() - 1` indices.
+3. [AM3 modules] Added a new header file `AM3modules.h` to `/include/AM3`. All AM3 related header files are included in `AM3modules.h`. In `main.cc`, one only need to include `AM3/AM3modules.h`.
+4. [Astro Source modules] The time evolution of source parameters, e.g., comoving blob radius, bulk Lorentz factor, magnetic field strength, etc, and proton/electron injection spectra, can be simulated in `class SourceParams` in `/AstroSources/include/sourceparams.h`. (A detailed description can be found below)
+5. [Astro Source modules] Added a format output class `class OutPut` to write the photon/neutrino fluxes, fluences, and light curves to a specified directory, e.g., `./results/data/`.
+6. [Astro Source modules] Cosmic gamma-gamma attentuation optical depth with EBL can be obtained via the function `double OutPut::get_EBL_opticaldepth(double redshift, double E_obs)`.
+
+### Schematic description of AM3 modules, Astro SourceParams modules and Astro Source Output modules
+
+
 
 
 
