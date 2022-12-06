@@ -19,7 +19,11 @@ Simply use `make` in the directory of the make file to compile and link AM3 for 
 It is important to add the path of `pybind_core` to your `PYTHONPATH` or
 append it at the beginning of your program: `../AM3/libpython`
 
-## Changes for expanding blobs
+## Changes made to AM3 for expanding blobs (CY, December 06, 2022)
+
+### Summary
+1. [AM3 modules] Added a new command `process_expandingblob` to `class SimulationManager` in `core.h, core.cc` to make the particles densities consistent with an expanding shell. If `Rbolb` depends on time, `sim.process_expandingblob = 1` should be implemented (default value is `0`).
+2. [AM3 modules] Added a new function `int Binary_Search(std::vector <double> input_list, double x, int start,int end);` to `math.h, math.cc` for locating the position `int index` of a value `double x` in a 1D vector `vector <double> input_list`, given the start `int start = 0` and end `int end = input_list.size() - 1` indices.
 
 
 
