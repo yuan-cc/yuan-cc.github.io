@@ -27,7 +27,7 @@ My research focuses on the theoretical aspects of multi-messenger astrophysics, 
 Happy Holidays!
 
 **December 16**<br />
-DESY Astroparticle (AP) Morning Show & Christmas Dinner!
+DESY Astroparticle (AP) Morning Show & Christmas Dinner
 
 **December 14**<br />
 THAT group meeting - leading TDE AT2022cmc discussion
