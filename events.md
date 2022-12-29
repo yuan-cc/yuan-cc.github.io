@@ -30,46 +30,46 @@
 <details><summary>2022</summary>
  <ul>
    
-<li> **December 23 - January 1, 2023** <br /> - Happy Holidays!
+<li> **December 23 - January 1, 2023** <br /> - Happy Holidays!</li>
 
 <li> **December 16**<br />
-DESY Astroparticle (AP) Morning Show & Christmas Lunch
+DESY Astroparticle (AP) Morning Show & Christmas Lunch</li>
 
 <li> **December 14**<br />
-THAT group meeting - leading TDE AT2022cmc discussion
+THAT group meeting - leading TDE AT2022cmc discussion</li>
 
 <li> **November 11**<br />
-The paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).
+The paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).</li>
 
 <li> **November 09**<br />
-THAT meeting: talk by CY
+THAT meeting: talk by CY</li>
 
 <li> **October 09**<br />
-Fermi GBM and Swift XRT/BAT detected the brightest GRB 221009A.
+Fermi GBM and Swift XRT/BAT detected the brightest GRB 221009A.</li>
 
 <li> **October 01**<br />
-Move to Zeuthen, Germany and start my postdoctoral position at DESY.
+Move to Zeuthen, Germany and start my postdoctoral position at DESY.</li>
 
 <li> **August 13**<br />
-Penn State Summer 2022 Commencement ceremonies. 
+Penn State Summer 2022 Commencement ceremonies. </li>
 
 <li> **July 13-16**<br />
-AstroFest!
+AstroFest!</li>
 
 <li> **June 28**<br />
-My PhD dissertation is approved by the Committee and the Graduate School.
+My PhD dissertation is approved by the Committee and the Graduate School.</li>
 
 <li> **June 17** 
 * The type 003 Aircraft Carrier 'Fujian' featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
-* Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
+* Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.</li>
 
 <li> **April 19, 10 am (EDT) <br />
-PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
+PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**</li>
 
-<li> ~~April 10 - APS April meeting, New York City (cancelled)~~
+<li> ~~April 10 - APS April meeting, New York City (cancelled)~~</li>
 
 <li> **March 16** <br />
-CTC talk series, University of Maryland
+CTC talk series, University of Maryland</li>
    
 </ul>
 </details>
