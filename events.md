@@ -27,28 +27,52 @@
    
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
+<details><summary>2022</summary>
+ <ul>
+   
+<li> **December 23 - January 1, 2023** <br /> - Happy Holidays!
 
-### 2022
-**October 01**<br />
+<li> **December 16**<br />
+DESY Astroparticle (AP) Morning Show & Christmas Lunch
+
+<li> **December 14**<br />
+THAT group meeting - leading TDE AT2022cmc discussion
+
+<li> **November 11**<br />
+The paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).
+
+<li> **November 09**<br />
+THAT meeting: talk by CY
+
+<li> **October 09**<br />
+Fermi GBM and Swift XRT/BAT detected the brightest GRB 221009A.
+
+<li> **October 01**<br />
 Move to Zeuthen, Germany and start my postdoctoral position at DESY.
 
-**August 13**<br />
+<li> **August 13**<br />
 Penn State Summer 2022 Commencement ceremonies. 
 
-**June 28**<br />
+<li> **July 13-16**<br />
+AstroFest!
+
+<li> **June 28**<br />
 My PhD dissertation is approved by the Committee and the Graduate School.
 
-**June 17**
-* The type 003 Aircraft Carrier 'Fujian' (福建舰) featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
+<li> **June 17** 
+* The type 003 Aircraft Carrier 'Fujian' featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
 * Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
 
-**April 19, 10 am (EDT) <br />
+<li> **April 19, 10 am (EDT) <br />
 PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 
-~~April 10 - APS April meeting, New York City (cancelled)~~
+<li> ~~April 10 - APS April meeting, New York City (cancelled)~~
 
-**March 16** <br />
+<li> **March 16** <br />
 CTC talk series, University of Maryland
+   
+ </ul>
+</details>
 
 <details><summary>2021</summary>
  <ul>
