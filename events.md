@@ -71,7 +71,7 @@ PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
 <li> **March 16** <br />
 CTC talk series, University of Maryland
    
- </ul>
+</ul>
 </details>
 
 <details><summary>2021</summary>
