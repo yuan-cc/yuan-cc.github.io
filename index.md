@@ -7,7 +7,6 @@ I'm a postdoc in the theoretical astroparticle physics group (THAT) at the Deuts
 My research focuses on the theoretical aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from compact binary pairs (supermassive/stellar mass black holes), supernovae, gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
-<hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 ### Links
 * DESY: \[[DESY AP](https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html)\] \[[Confluence](https://confluence.desy.de)\] \[[GO DESY](https://go.desy.de)\]
 * Penn State: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
