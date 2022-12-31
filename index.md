@@ -23,8 +23,6 @@ My research focuses on the theoretical aspects of multi-messenger astrophysics, 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 <a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2023</a> &#124; [All events](https://yuan-cc.github.io/events.html)
 
-**
-
 **April 25 - 27**<br />
 Visit UCLouvain (Belgium) and give a seminar on April 26.
 
@@ -38,8 +36,6 @@ DESY Astroparticle Division meeting
 Happy Holidays!
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
-
-<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23B39DDB&ctz=Europe%2FBerlin&showPrint=0&showNav=0&showTabs=0&showCalendars=0&src=NjdjN2Y3MDRjYzRkMzA2M2RmN2E3MGU4ZTM1YmI2ZGUzMDM4M2Q1MGZkYWE5NmFiNjA4ZWI3YWNiZmEwOWU1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F4511E" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 <br>
 <div style="width: 100px; height: 50px; background-color: #F7F0FA; float: right;" 
