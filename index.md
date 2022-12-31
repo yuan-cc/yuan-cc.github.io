@@ -21,48 +21,21 @@ My research focuses on the theoretical aspects of multi-messenger astrophysics, 
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
-<a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2022 Events</a> &#124; [All events](https://yuan-cc.github.io/events.html)
+<a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2023</a> &#124; [All events](https://yuan-cc.github.io/events.html)
+
+**
+
+**April 25 - 27**<br />
+Visit UCLouvain (Belgium) and give a seminar on April 26.
+
+**Feuruary 27 - March 03**<br />
+Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)
+
+**Februry 21/22**<br />
+DESY Astroparticle Division meeting
 
 **December 23 - January 1, 2023** <br />
 Happy Holidays!
-
-**December 16**<br />
-DESY Astroparticle (AP) Morning Show & Christmas Dinner!
-
-**December 14**<br />
-THAT group meeting - leading TDE AT2022cmc discussion
-
-**November 11**<br />
-The GRB 221009A paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).
-
-**November 09**<br />
-THAT meeting: talk by CY
-
-**October 09**<br />
-Fermi GBM and Swift XRT/BAT detected the brightest GRB 221009A.
-
-**October 01**<br />
-Move to Zeuthen, Germany and start my postdoctoral position at DESY.
-
-**August 13**<br />
-Penn State Summer 2022 Commencement ceremonies. 
-
-**July 13-16**<br />
-AstroFest!
-
-**June 28**<br />
-My PhD dissertation is approved by the Committee and the Graduate School.
-
-**June 17** 
-* Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
-
-**April 19, 10 am (EDT) <br />
-PhD defense (hybrid: Davey Lab 339 and zoom link TBD)**
-
-~~April 10 - APS April meeting, New York City (cancelled)~~
-
-**March 16** <br />
-CTC talk series, University of Maryland
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
