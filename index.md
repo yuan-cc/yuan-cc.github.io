@@ -33,7 +33,7 @@ DESY Astroparticle (AP) Morning Show & Christmas Dinner!
 THAT group meeting - leading TDE AT2022cmc discussion
 
 **November 11**<br />
-The paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).
+The GRB 221009A paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).
 
 **November 09**<br />
 THAT meeting: talk by CY
