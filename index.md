@@ -28,10 +28,10 @@ My research focuses on the theoretical aspects of multi-messenger astrophysics, 
 **April 25 - 27**<br />
 Visit UCLouvain (Belgium) and give a seminar on April 26.
 
-**Feuruary 27 - March 03**<br />
+**February 27 - March 03**<br />
 Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)
 
-**Februry 21/22**<br />
+**February 21/22**<br />
 Postdoc representative, DESY Astroparticle Division meeting
 
 **December 23, 2022 - January 2, 2023** <br />
