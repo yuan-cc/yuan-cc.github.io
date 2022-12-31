@@ -14,7 +14,7 @@
 
  <details><summary> Seminars & Colloquia</summary>
   <ul> 
-   <li> 03/2021 - CTC talk series, University of Maryland </li>
+   <li> 03/2022 - CTC talk series, University of Maryland </li>
    <li> 12/2021 - HEP seminar, Columbia University [<a href="https://yuan-cc.github.io/files/columbia_slides.pdf">Slides</a>]</li>
    <li> 11/2021 - talk, THAT seminar, DESY (virtual)</li>
    <li> 10/2021 - talk, astronomy colloquium, UNLV (virtual)</li>
