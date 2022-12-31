@@ -54,7 +54,6 @@ AstroFest!
 My PhD dissertation is approved by the Committee and the Graduate School.
 
 **June 17** 
-* The type 003 Aircraft Carrier 'Fujian' featuring an electromagnetic catapult is now finally announced and launched. Congratulations to Chinese Navy! 
 * Our SGRB paper with Kohta, Peter, Imre, Dafne, and Asaf has now been published in ApJ, and is available at https://doi.org/10.3847/1538-4357/ac6ddf.
 
 **April 19, 10 am (EDT) <br />
