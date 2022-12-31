@@ -32,9 +32,9 @@ Visit UCLouvain (Belgium) and give a seminar on April 26.
 Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)
 
 **Februry 21/22**<br />
-DESY Astroparticle Division meeting
+Postdoc representive, DESY Astroparticle Division meeting
 
-**December 23 - January 1, 2023** <br />
+**December 23, 2022 - January 2, 2023** <br />
 Happy Holidays!
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
