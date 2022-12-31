@@ -36,13 +36,13 @@
 DESY Astroparticle (AP) Morning Show & Christmas Lunch</li>
 
 <li> December 14<br />
-THAT group meeting - leading TDE AT2022cmc discussion</li>
+THAT group meeting - lead TDE AT2022cmc discussion</li>
 
 <li> November 11<br />
 The paper with B. Theodore Zhang et al is submitted to [arXiv](https://arxiv.org/abs/2211.05754).</li>
 
 <li> November 09<br />
-THAT meeting: talk by CY</li>
+Seminar talk at THAT meeting</li>
 
 <li> October 09<br />
 Fermi GBM and Swift XRT/BAT detected the brightest GRB 221009A.</li>
