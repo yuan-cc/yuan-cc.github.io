@@ -158,12 +158,23 @@ header {
 header:before{
     z-index:-1;
     position: absolute;
-    top:298px;
+    top:310px;
     width:240px;
     height:1500px;
     float:left;
     content:"";
     background:#E0D5E7;
+}
+
+header:before{
+    z-index:-1;
+    position: absolute;
+    top:0px;
+    width:240px;
+    height:310px;
+    float:left;
+    content:"";
+    background:#000000;
 }
 
 header:after {
