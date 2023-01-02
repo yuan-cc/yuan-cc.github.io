@@ -158,7 +158,7 @@ header {
 header:before{
     z-index:-1;
     position: absolute;
-    top:310px;
+    top:305px;
     width:240px;
     height:1500px;
     float:left;
@@ -171,10 +171,10 @@ header:before{
     position: absolute;
     top:0px;
     width:240px;
-    height:310px;
+    height:305px;
     float:left;
     content:"";
-    background:#8E8E8E;
+    background:#9e96a3;
 }
 
 header:after {
