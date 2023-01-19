@@ -22,7 +22,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 <a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2023</a> &#124; [Previous years](https://yuan-cc.github.io/events.html)
 
-...
+(tbc)
 
 **April 25 - 27**<br />
 Visit UCLouvain (Belgium) and give a seminar on April 26.
