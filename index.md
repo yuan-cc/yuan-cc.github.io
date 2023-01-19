@@ -1,10 +1,10 @@
 ## Welcome!
 
-I'm an astrophysicist working on theoretical high-energy astrophysics and astroparticle physics. 
+I'm a postdoctoral scholar at Deutsches Elektronen-Synchrotron DESY. My research focuses on theoretical high-energy astrophysics and astroparticle physics. 
 
-I'm a postdoc in the theoretical astroparticle physics group (THAT) at the Deutsches Elektronen-Synchrotron DESY working with Prof. Walter Winter. In 2022, I obtained my PhD in Physics at Penn State, where I was mentored by Prof. [Péter Mészáros](http://personal.psu.edu/nnp/) and Prof. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I earned my B.Sc. degree in Astronomy from Nanjing University in China. 
+I joined Dr. Walter Winter's group at DESY in October 2022. In August 2022, I obtained my PhD in Physics at Penn State University, where I was mentored by Dr. [Péter Mészáros](http://personal.psu.edu/nnp/) and Dr. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I received my B.Sc. degree in Astronomy from Nanjing University in China. 
 
-My research focuses on the theoretical aspects of multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from compact binary pairs (supermassive/stellar mass black holes), supernovae, gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
+My research focuses on the theoretical and numerical multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from tidal disruption events (TDEs), compact binary pairs (supermassive/stellar mass black holes), supernovae, gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 ### Links
