@@ -24,6 +24,12 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
+**September 11 - September 15**<br />
+TeVPA23, Napoli, Italy.
+
+**July 18 - September 7**<br />
+DESY summer undergraduate student program.
+
 **April 25 - 27**<br />
 Visit UCLouvain (Belgium) and give a seminar on April 26.
 
