@@ -30,6 +30,9 @@ TeVPA23, Napoli, Italy.
 **July 18 - September 7**<br />
 DESY summer undergraduate student program.
 
+**June 25 - July 17**<br />
+Summer vacation to U.S.
+
 **April 25 - 27**<br />
 Visit UCLouvain (Belgium) and give a seminar on April 26.
 
