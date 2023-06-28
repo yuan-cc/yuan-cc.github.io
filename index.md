@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm a postdoctoral scholar at the Deutsches Elektronen-Synchrotron DESY. I'm interested in multi-messenger astrophysics and astroparticle physics. 
+I'm a postdoctoral fellow at the Deutsches Elektronen-Synchrotron DESY. I'm interested in multi-messenger astrophysics and astroparticle physics. 
 
 I joined Dr. Walter Winter's group at DESY in October 2022. In August 2022, I obtained my PhD in Physics at Penn State University, where I was mentored by Dr. [Péter Mészáros](http://personal.psu.edu/nnp/) and Dr. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I received my B.Sc. degree in Astronomy from Nanjing University in China. 
 
