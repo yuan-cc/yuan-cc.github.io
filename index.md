@@ -1,4 +1,3 @@
-<img align="center" src="files/TDEs.jpg" alt="drawing" height="200" width="840"/>
 ## Welcome!
 
 I'm a postdoctoral fellow at the Deutsches Elektronen-Synchrotron DESY. I'm interested in multi-messenger astrophysics and astroparticle physics. 
@@ -6,7 +5,7 @@ I'm a postdoctoral fellow at the Deutsches Elektronen-Synchrotron DESY. I'm inte
 I joined Dr. Walter Winter's group at DESY in October 2022. In August 2022, I obtained my PhD in Physics at Penn State University, where I was mentored by Dr. [Péter Mészáros](http://personal.psu.edu/nnp/) and Dr. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I received my B.Sc. degree in Astronomy from Nanjing University in China. 
 
 My research focuses on the theoretical and numerical multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from tidal disruption events (TDEs), compact binary pairs (supermassive/stellar mass black holes), supernovae, gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
-
+<img align="center" src="files/TDEs.jpg" alt="drawing" height="200" width="840"/>
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 ### Links
 * DESY: \[[DESY AP](https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html)\] \[[Confluence](https://confluence.desy.de)\] \[[GO DESY](https://go.desy.de)\]
