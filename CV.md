@@ -1,10 +1,11 @@
 ## Curriculum Vitae
 <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
 One page condensed [PDF](https://yuan-cc.github.io/files/OnePageCV.pdf)<br />
-Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: July 2022]
+Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: July 2023]
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-### Employment History
+### Employment
+- **Postdoctoral Fellow**, 10/2022 - , Deutsches Elektronen-Synchrotron DESY (German National Accelerator), Germany<br />
 - **Research Assistant**, 05/2018 - 08/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
 - **Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
 - **REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, University Park, PA, USA<br />
