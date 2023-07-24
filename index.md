@@ -28,6 +28,9 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 **September 11 - September 15**<br />
 Contribution talk, TeVPA23, Napoli, Italy.
 
+**August 21 - August 23**<br />
+Panelist, New Evolution of MultiMessenger Astrophysics Workshop, Penn State Univerisity 
+
 **July 18 - September 7**<br />
 DESY summer undergraduate student program.
 
