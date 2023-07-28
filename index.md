@@ -25,6 +25,9 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
+**December 18 - December 20**<br />
+Seminar talk (tbc), 中国科学技术大学（USTC）, Anhui, China 
+
 **September 11 - September 15**<br />
 Contribution talk, TeVPA23, Napoli, Italy.
 
@@ -38,10 +41,10 @@ DESY summer undergraduate student program.
 Summer vacation to U.S.
 
 **April 25 - 27**<br />
-Visit UCLouvain (Belgium) and give a seminar on April 26.
+Invited seminar, UCLouvain, Belgium
 
 **February 27 - March 03**<br />
-Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)
+Invited talk, Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)
 
 **February 21/22**<br />
 Postdoc representative, DESY Astroparticle Division meeting
