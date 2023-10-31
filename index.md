@@ -28,6 +28,9 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 **December 18 - December 20**<br />
 Seminar talk (tbc), 中国科学技术大学（USTC）, Anhui, China 
 
+**November 17**<br />
+DESY AP seminar, Zeuthen, Germany
+
 **September 11 - September 15**<br />
 Contribution talk, TeVPA23, Napoli, Italy.
 
