@@ -66,7 +66,7 @@ Happy Holidays!
 <div id="div1" style="display: none;">
 <!-- hitwebcounter Code START -->
 <a target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7652711&style=0024&nbdigits=4&type=ip&initCount=122" border="0" ></a>       
+<img src="https://hitwebcounter.com/counter/counter.php?page=9777369&style=0024&nbdigits=6&type=ip&initCount=02345" border="0" /></a>                                    
 <br>
 <a target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7652712&style=0024&nbdigits=6&type=page&initCount=122" border="0" ></a>   
