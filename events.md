@@ -1,8 +1,10 @@
 ## Talks & Events
 
 | Dates    | Talk | Place | Title | Notes |
-| -------- | ------- | ------- | ------- | ------- |
+| -------- | -------------- | -------------- | ------- | ------- |
 | 08/2023  | New Evolution of MultiMessenger Astrophysics Workshop | Penn State University, State College, USA  | Multi-Messenger Modeling of Neutrino-Coincident TDEs | HE Transients Panelist |
+| -------- | ------- | ------- | ------- | ------- |
+
 
    
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
