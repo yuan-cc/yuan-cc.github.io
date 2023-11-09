@@ -1,12 +1,9 @@
-## Talks & Events
 
 | Dates    | Talk | Place | Title | Notes |
 | -------- | -------------- | -------------- | ------- | ------- |
 | 08/2023  | New Evolution of MultiMessenger Astrophysics Workshop | Penn State University, State College, USA  | Multi-Messenger Modeling of Neutrino-Coincident TDEs | HE Transients Panelist |
 | -------- | ------- | ------- | ------- | ------- |
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -29,43 +26,22 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Talks & Events</h2>
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Dates</th>
+    <th>Talk</th>
+    <th>Place</th>
+    <th>Title</th>
+    <th>Notes</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>08/2023</td>
+    <td>New Evolution of MultiMessenger Astrophysics Workshop</td>
+    <td>Penn State University, State College, USA</td>
+    <td>Multi-Messenger Modeling of Neutrino-Coincident TDEs</td>
+    <td>HE Transients Panelist</td>
   </tr>
 </table>
 
