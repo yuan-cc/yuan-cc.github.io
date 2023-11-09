@@ -12,9 +12,6 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
 </style>
 </head>
 <body>
@@ -43,6 +40,13 @@ disruption events</td>
     <td>Penn State University, State College, USA</td>
     <td>Multi-Messenger Modeling of Neutrino-Coincident TDEs</td>
     <td>HE Transients Panelist</td>
+  </tr>
+    <tr>
+    <td>04/2023</td>
+    <td>CP3 seminar</td>
+    <td>UCLouvain, Belgium</td>
+    <td>Multi-Messenger Signals of Tidal Disruption Events and Supermassive Black Hole Mergers</td>
+    <td>Invited seminar</td>
   </tr>
 </table>
 
