@@ -48,6 +48,50 @@ disruption events</td>
     <td>Multi-Messenger Signals of Tidal Disruption Events and Supermassive Black Hole Mergers</td>
     <td>Invited seminar</td>
   </tr>
+  <tr>
+    <td>02/2023</td>
+    <td>Lepto-Hadronic Workshop</td>
+    <td>Bochum, Germany</td>
+    <td>Modeling the Hadronic Cascade Emission from Neutrino-Emitting TDEs</td>
+    <td>Invited talk</td>
+  </tr>
+    <td>11/2022</td>
+    <td>DESY THAT seminar</td>
+    <td>Zeuthen, Germany</td>
+    <td>Neutrino and Electromagnetic Counterparts of Galaxy and Compact Binary Mergers</td>
+    <td> </td>
+  </tr>
+    <td>03/2022</td>
+    <td>CTC talk series</td>
+    <td>University of Maryland, College Park, USA</td>
+    <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
+    <td> </td>
+  </tr>
+    <td>12/2021</td>
+    <td>HEP Seminar</td>
+    <td>Columbia University, New York, USA</td>
+    <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
+    <td> </td>
+  </tr>
+    <td>11/2021</td>
+    <td>DESY THAT Seminar</td>
+    <td>Zeuthen, Germany</td>
+    <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
+    <td> </td>
+  </tr>
+    <td>10/2021</td>
+    <td>Astronomy Colloquium</td>
+    <td>UNLV, USA</td>
+    <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
+    <td> </td>
+  </tr>
+    <td>07/2021</td>
+    <td>EPS Conference on High Energy Physics</td>
+    <td> </td>
+    <td>Jet-induced high-energy neutrino and
+electromagnetic counterparts of supermassive black hole mergers</td>
+    <td> </td>
+  </tr>
 </table>
 
 </body>
