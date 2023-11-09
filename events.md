@@ -30,6 +30,14 @@ tr:nth-child(even) {
     <th>Notes</th>
   </tr>
   <tr>
+    <td>09/2023</td>
+    <td>TeVPA 2023</td>
+    <td>Napoli, Italy</td>
+    <td>Neutrino and electromagnetic cascade models for tidal
+disruption events</td>
+    <td>Contributed talk</td>
+  </tr>
+  <tr>
     <td>08/2023</td>
     <td>New Evolution of MultiMessenger Astrophysics Workshop</td>
     <td>Penn State University, State College, USA</td>
