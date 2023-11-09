@@ -55,50 +55,58 @@ disruption events</td>
     <td>Modeling the Hadronic Cascade Emission from Neutrino-Emitting TDEs</td>
     <td>Invited talk</td>
   </tr>
+  <tr>
     <td>11/2022</td>
     <td>DESY THAT seminar</td>
     <td>Zeuthen, Germany</td>
     <td>Neutrino and Electromagnetic Counterparts of Galaxy and Compact Binary Mergers</td>
-    <td> </td>
+    <td> . </td>
   </tr>
+  <tr>
     <td>03/2022</td>
     <td>CTC talk series</td>
     <td>University of Maryland, College Park, USA</td>
     <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
-    <td> </td>
+    <td> . </td>
   </tr>
+  <tr>
     <td>12/2021</td>
     <td>HEP Seminar</td>
     <td>Columbia University, New York, USA</td>
     <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
-    <td> </td>
+    <td> . </td>
   </tr>
+  <tr>
     <td>11/2021</td>
     <td>DESY THAT Seminar</td>
     <td>Zeuthen, Germany</td>
     <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
-    <td> </td>
+    <td> . </td>
   </tr>
+  <tr>
     <td>10/2021</td>
     <td>Astronomy Colloquium</td>
     <td>UNLV, USA</td>
     <td>The Multimessenger View of Galaxy and Compact Binary Mergers</td>
-    <td> </td>
+    <td> . </td>
   </tr>
+  <tr>
     <td>07/2021</td>
     <td>EPS Conference on High Energy Physics</td>
-    <td> </td>
+    <td> . </td>
     <td>Jet-induced high-energy neutrino and
 electromagnetic counterparts of supermassive black hole mergers</td>
     <td> virtual </td>
   </tr>
+  <tr>
     <td>04/2021</td>
     <td>APS April meeting</td>
-    <td> </td>
+    <td> . </td>
     <td>Jet-induced high-energy neutrino and electromagnetic
 counterparts of supermassive black hole mergers</td>
     <td> virtual </td>
   </tr>
+  <tr>
     <td>02/2021</td>
     <td>Institute for Gravitation and the Cosmos (IGC)</td>
     <td> Penn State University, State College USA </td>
@@ -106,42 +114,49 @@ counterparts of supermassive black hole mergers</td>
 neutrino emission subsequent to gravitational wave radiation from SMBH mergers</td>
     <td> virtual </td>
   </tr>
+  <tr>
     <td>10/2020</td>
     <td>Astroparticle Seminar</td>
     <td>Tohoku University, Japan </td>
     <td>Galaxy and Supermassive Black Hole Mergers in the Era of Multi-Messenger Astrophysics</td>
     <td> virtual </td>
   </tr>
+  <tr>
     <td>10/2020</td>
     <td>CCAPP AstroParticle Lunch</td>
     <td> Ohio State University, Columbus, USA</td>
     <td>High-energy neutrino emission from super-massive black hole (SMBH) mergers</td>
     <td> virtual, invited seminar </td>
   </tr>
+  <tr>
     <td>09/2020</td>
     <td>Astronomy Lunch Talk </td>
     <td> Penn State University, State College, USA</td>
     <td>High-energy neutrino emission subsequent to gravitational wave radiation from SMBH mergers</td>
     <td> virtual, invited seminar </td>
   </tr>
+  <tr>
     <td>08/2020</td>
     <td>Time-Domain High-Energy Messenger Astrophysics Workshop</td>
     <td>University of Kyoto, Japan</td>
     <td>High-energy neutrino emission subsequent to gravitational wave radiation from SMBH mergers</td>
     <td> virtual, invited talk </td>
   </tr>
+  <tr>
     <td>07/2019</td>
     <td> 36th International Cosmic Ray Conference (ICRC)</td>
     <td>Madison, USA</td>
     <td>A Multimessenger Picture of Galaxy Mergers: Neutrinos and Electromagnetic Emissions</td>
     <td> Poster </td>
   </tr>
+  <tr>
     <td>06/2019</td>
     <td> IGC@25: Multimessenger Universe Workshop</td>
     <td>Penn State University, State College, USA</td>
     <td>Neutrino and Secondary Electromagnetic Emissions from Galaxy Mergers</td>
     <td> Invited talk</td>
   </tr>
+  <tr>
     <td>04/2018</td>
     <td>APS April meeting</td>
     <td>Columbus, USA</td>
@@ -149,6 +164,7 @@ neutrino emission subsequent to gravitational wave radiation from SMBH mergers</
 Backgrounds from Halo and Galaxy Mergers</td>
     <td> Contributed talk</td>
   </tr>
+  <tr>
     <td>08/2015</td>
     <td>Astronomy Lunch Talk</td>
     <td>Penn State University, State College, USA</td>
