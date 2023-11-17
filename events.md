@@ -27,6 +27,14 @@ td, th {
     <th>Notes</th>
   </tr>
   <tr>
+    <td>11/2023</td>
+    <td>DESY AP seminar</td>
+    <td>Zeuthen, Germany</td>
+    <td>Multi-Messenger Modeling of Neutrino-Coincident
+Tidal Disruption Events</td>
+    <td>Invited seminar</td>
+  </tr>
+  <tr>
     <td>09/2023</td>
     <td>TeVPA 2023</td>
     <td>Napoli, Italy</td>
