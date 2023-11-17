@@ -31,7 +31,7 @@ td, th {
     <td>DESY AP seminar</td>
     <td>Zeuthen, Germany</td>
     <td>Multi-Messenger Modeling of Neutrino-Coincident
-Tidal Disruption Events</td>
+Tidal Disruption Events <a href="https://yuan-cc.github.io/files/11:23-DESY_AP_Seminar.pdf">pdf</a></td>
     <td>Invited seminar</td>
   </tr>
   <tr>
