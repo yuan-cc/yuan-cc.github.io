@@ -14,9 +14,6 @@ Full CV in [PDF](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: Nove
 August 2022 <br />
 Advisor: Prof. Peter Meszaros and Prof. Kohta Murase
 
-**M.S. Physics, Pennsylvania State University**, University Park, PA, USA <br />
-April 2018 <br />
-
 **B.Sc. Astronomy, Nanjing University**, Nanjing, Jiangsu, China<br />
 June 2016  <br />
 Advisor: Prof. Xiangyu Wang and Prof. Fayin Wang
