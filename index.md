@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm a postdoctoral fellow at the Deutsches Elektronen-Synchrotron DESY Zeuthen. I'm interested in theoretical multi-messenger astrophysics and astroparticle physics. 
+I'm a postdoctoral fellow at the Deutsches Elektronen-Synchrotron DESY (Zeuthen campus, near Berlin). I'm interested in theoretical multi-messenger astrophysics and astroparticle physics. 
 
 I joined Dr. [Walter Winter's group](https://www-zeuthen.desy.de/~wwinter/) at [DESY](https://astroparticle-physics.desy.de) in October 2022. In August 2022, I obtained my PhD in Physics at [Penn State University](https://www.psu.edu), where I was mentored by Prof. [Péter Mészáros](http://personal.psu.edu/nnp/) and Prof. [Kohta Murase](https://science.psu.edu/physics/people/kohta-murase). Before that, I received my B.Sc. degree in Astronomy from [Nanjing University](https://astronomy.nju.edu.cn/EN/index.html) in China. 
 
@@ -25,8 +25,11 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
+**December 21 - December 22**<br />
+Astronomy Seminar (tbc), 南京大学(Nanjing University), Nanjing, Jiangsu, China 
+
 **December 18 - December 20**<br />
-Seminar talk (tbc), 中国科学技术大学（USTC）, Anhui, China 
+Astrophysical Seminar (tbc), 中国科学技术大学(USTC)，Hefei, Anhui, China 
 
 **December 13**<br />
 THAT group Christmas Dinner
