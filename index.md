@@ -25,8 +25,11 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
+**December 25 - January 01, 2024**<br />
+Happy Holidays!
+
 **December 21 - December 22**<br />
-Astronomy Seminar (tbc), 南京大学(Nanjing University), Nanjing, Jiangsu, China 
+Astronomy Seminar, 南京大学(Nanjing University), Nanjing, Jiangsu, China 
 
 **December 18 - December 20**<br />
 Astrophysical Seminar (tbc), 中国科学技术大学(USTC)，Hefei, Anhui, China 
