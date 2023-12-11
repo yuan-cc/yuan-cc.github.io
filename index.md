@@ -29,10 +29,10 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 Happy Holidays!
 
 **December 21 - December 22**<br />
-Astronomy Seminar, 南京大学(Nanjing University), Nanjing, Jiangsu, China 
+Astronomy Seminar, 南京大学 (Nanjing University), Nanjing, Jiangsu, China 
 
 **December 18 - December 20**<br />
-Astrophysical Seminar (tbc), 中国科学技术大学(USTC)，Hefei, Anhui, China 
+Astrophysical Seminar, 中国科学技术大学 (University of Science and Technology of China)，Hefei, Anhui, China 
 
 **December 13**<br />
 THAT group Christmas Dinner
