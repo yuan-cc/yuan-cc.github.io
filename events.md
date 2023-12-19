@@ -18,7 +18,7 @@ td, th {
 
 <h2>Talks & Events</h2>
 
-<table WIDTH="150%">
+<table WIDTH="100%">
   <tr>
     <th>Dates</th>
     <th>Talk</th>
