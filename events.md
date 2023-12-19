@@ -3,7 +3,7 @@
 <style>
 table {
   font-family: arial, sans-serif;
-  width: 150%;
+  width: 100%;
 }
 
 td, th {
