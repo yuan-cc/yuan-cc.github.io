@@ -27,6 +27,14 @@ td, th {
     <th>Notes</th>
   </tr>
   <tr>
+    <td>12/2023</td>
+    <td>Astrophysical Colloquium</td>
+    <td>USTC (Hefei, Anhui, China)</td>
+    <td>Multi-Messenger Modeling of Neutrino-Coincident
+Tidal Disruption Events </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>11/2023</td>
     <td>DESY AP seminar</td>
     <td>Zeuthen, Germany</td>
