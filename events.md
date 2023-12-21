@@ -19,12 +19,21 @@ td, th {
 <h2>Talks & Events</h2>
 
 <table WIDTH="100%">
+  
   <tr>
     <th>Dates</th>
     <th>Talk</th>
     <th>Place</th>
     <th>Title</th>
     <th>Notes</th>
+  </tr>
+  <tr>
+    <td>12/2023</td>
+    <td>Astrophysical Seminar</td>
+    <td>Nanjing University (Nanjing, Jiangsu, China)</td>
+    <td>Multi-Messenger Modeling of Neutrino-Coincident
+Tidal Disruption Events </td>
+    <td></td>
   </tr>
   <tr>
     <td>12/2023</td>
