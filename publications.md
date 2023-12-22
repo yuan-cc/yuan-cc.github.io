@@ -5,7 +5,8 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 ### Journal Articles
-1. **Yuan, C.** and Winter, W., (2023) [Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events](https://arxiv.org/abs/2306.15659), submitted to ApJ
+1. Marc Klinger, Annika Rudolph, Xavier Rodrigues, **Chengchao Yuan**, Gaëtan Fichet de Clairfontaine, Anatoli Fedynitch, Walter Winter, Martin Pohl, Shan Gao (2023) [AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources](https://arxiv.org/abs/2312.13371), submited to ApJS
+1. **Yuan, C.** and Winter, W., (2023) [Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events](https://arxiv.org/abs/2306.15659),ApJ 956 30
 1. B. Theodore Zhang, Kohta Murase, Kunihito Ioka, Deheng Song, **Chengchao Yuan**, Péter Mészáros (2022) [External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A](https://arxiv.org/abs/2211.05754), ApJL 947 (2023) L14
 1. **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2022) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), Astrophys.J. 932 (2022) 80<br />
 1. **Yuan, C.**, Murase, K., Zhang, B. T., Kimura, S. S., Mészáros, P., (2021) ["Post-Merger Jets from Supermassive Black Hole Coalescences as Electromagnetic Counterparts of Gravitational Wave Emission"](https://arxiv.org/abs/2101.05788), ApJL 911 L15<br />
