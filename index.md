@@ -21,47 +21,26 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
-<a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2023</a> &#124; [All talks & events](https://yuan-cc.github.io/events.html)
+<a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2024</a> &#124; [All talks & events](https://yuan-cc.github.io/events.html)
 
 (tbc)
 
+**August 26 - August 30, 2024** <br />
+TeVPA2024, Chicago, US
+
+**April 20 - May 5**
+State College
+
+**April 8/9/11** <br \>
+Lecture talk at Oxford-Berlin joint neutrino lecture series, Berlin, Germany
+
+**March26 - March 27** <br />
+Multimessenger Workshop, Görlitz, Germany
+
+**February 21 - February 23, 2024** <br />
+Workshop on Numerical Multi-Messenger Modeling, Paris, France
+
 **December 25 - January 01, 2024**<br />
-Happy Holidays!
-
-**December 21 - December 22**<br />
-Astronomy Seminar, 南京大学 (Nanjing University), Nanjing, Jiangsu, China 
-
-**December 18 - December 20**<br />
-Astrophysical Seminar, 中国科学技术大学 (University of Science and Technology of China)，Hefei, Anhui, China 
-
-**December 13**<br />
-THAT group Christmas Dinner
-
-**November 17**<br />
-DESY AP seminar, Zeuthen, Germany
-
-**September 11 - September 15**<br />
-Contribution talk, TeVPA23, Napoli, Italy.
-
-**August 21 - August 23**<br />
-Panelist, New Evolution of MultiMessenger Astrophysics Workshop, Penn State Univerisity 
-
-**July 18 - September 7**<br />
-DESY summer undergraduate student program.
-
-**June 25 - July 17**<br />
-Summer vacation to U.S.
-
-**April 25 - 27**<br />
-Invited seminar, UCLouvain, Belgium
-
-**February 27 - March 03**<br />
-Invited talk, Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)
-
-**February 21/22**<br />
-Postdoc representative, DESY Astroparticle Division meeting
-
-**December 23, 2022 - January 2, 2023** <br />
 Happy Holidays!
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
