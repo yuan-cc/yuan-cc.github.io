@@ -210,43 +210,43 @@ Backgrounds from Halo and Galaxy Mergers</td>
 <details><summary>2023</summary>
  <ul>
 
-<li> **December 25 - January 01, 2024**<br />
+<li> December 25 - January 01, 2024<br />
 Happy Holidays!</li>
 
-<li> **December 21 - December 22**<br />
+<li> December 21 - December 22<br />
 Astronomy Seminar, 南京大学 (Nanjing University), Nanjing, Jiangsu, China </li>
 
-<li> **December 18 - December 20**<br />
+<li> December 18 - December 20<br />
 Astrophysical Seminar, 中国科学技术大学 (University of Science and Technology of China)，Hefei, Anhui, China </li>
 
-<li> **December 13**<br />
+<li> December 13<br />
 THAT group Christmas Dinner</li>
 
-<li> **November 17**<br />
+<li> November 17<br />
 DESY AP seminar, Zeuthen, Germany</li>
 
-<li> **September 11 - September 15**<br />
+<li> September 11 - September 15<br />
 Contribution talk, TeVPA23, Napoli, Italy.</li>
 
-<li> **August 21 - August 23**<br />
+<li> August 21 - August 23<br />
 Panelist, New Evolution of MultiMessenger Astrophysics Workshop, Penn State Univerisity </li>
 
-<li> **July 18 - September 7**<br />
+<li> July 18 - September 7<br />
 DESY summer undergraduate student program.</li>
 
-<li> **June 25 - July 17**<br />
+<li> June 25 - July 17<br />
 Summer vacation to U.S.</li>
 
-<li> **April 25 - 27**<br />
+<li> April 25 - 27<br />
 Invited seminar, UCLouvain, Belgium</li>
 
-<li> **February 27 - March 03**<br />
+<li> February 27 - March 03<br />
 Invited talk, Astroparticle Workshop on Numerical Multimessenger Modeling, Ruhr-Universität Bochum (Germany)</li>
 
-<li> **February 21/22**<br />
+<li> February 21/22<br />
 Postdoc representative, DESY Astroparticle Division meeting</li>
 
-<li> **December 23, 2022 - January 2, 2023** <br />
+<li> December 23, 2022 - January 2, 2023 <br />
 Happy Holidays!</li>
 
 </ul>
