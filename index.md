@@ -34,7 +34,7 @@ State College
 **April 8/9/11** <br />
 Lecture talk at Oxford-Berlin joint neutrino lecture series, Berlin, Germany
 
-**March26 - March 27** <br />
+**March 26 - March 27** <br />
 Multimessenger Workshop, Görlitz, Germany
 
 **February 21 - February 23, 2024** <br />
