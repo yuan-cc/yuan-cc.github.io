@@ -28,10 +28,10 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 **August 26 - August 30, 2024** <br />
 TeVPA2024, Chicago, US
 
-**April 20 - May 5**
+**April 20 - May 5** <br />
 State College
 
-**April 8/9/11** <br \>
+**April 8/9/11** <br />
 Lecture talk at Oxford-Berlin joint neutrino lecture series, Berlin, Germany
 
 **March26 - March 27** <br />
