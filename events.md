@@ -49,7 +49,8 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 
-
+<h2>Chronology<h2>
+   
 <details><summary>2023</summary>
  <ul>
 
