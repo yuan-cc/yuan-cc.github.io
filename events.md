@@ -3,6 +3,10 @@
 <style>
 table {
   font-family: arial, sans-serif;
+  font: 15px/1.5 "Helvetica Neue", Helvetica, sans-serif, 'PingFang SC', 'Hiragino Kaku Gothic Pro', STXihei, 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif;
+  color:#545454;
+  font-family: Palatino, 'PingFang SC', Helvetica, sans-serif, 'Hiragino Kaku Gothic Pro', STXihei, 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif;
+  font-weight:400;  
   width: 150%;
 }
 
