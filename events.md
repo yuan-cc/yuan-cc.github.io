@@ -3,7 +3,7 @@
 <style>
 table {
   font-family: arial, sans-serif;
-  width: 100%;
+  width: 150%;
 }
 
 td, th {
@@ -18,7 +18,7 @@ td, th {
 
 <h2>Talks & Events</h2>
 
-<table WIDTH="100%">
+<table WIDTH="150%">
   
   <tr>
     <th>Dates</th>
