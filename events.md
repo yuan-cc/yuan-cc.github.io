@@ -1,6 +1,6 @@
-**12/2023, Astrophysical Seminar** <br />  Nanjing University (Nanjing, Jiangsu, China) <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> (.)
+**12/2023, Astrophysical Seminar** <br />  Nanjing University (Nanjing, Jiangsu, China) <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
 
-**12/2023, Astrophysical Colloquium** <br />  USTC (Hefei, Anhui, China) <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> (.)
+**12/2023, Astrophysical Colloquium** <br />  USTC (Hefei, Anhui, China) <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
 
 **11/2023, DESY AP seminar** <br />  Zeuthen, Germany <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events pdf* <br /> (Invited seminar)
 
@@ -12,15 +12,15 @@
 
 **02/2023, Lepto-Hadronic Workshop** <br />  Bochum, Germany <br />  *Modeling the Hadronic Cascade Emission from Neutrino-Emitting TDEs* <br /> (Invited talk)
 
-**11/2022, DESY THAT seminar** <br />  Zeuthen, Germany <br />  *Neutrino and Electromagnetic Counterparts of Galaxy and Compact Binary Mergers* <br /> (.)
+**11/2022, DESY THAT seminar** <br />  Zeuthen, Germany <br />  *Neutrino and Electromagnetic Counterparts of Galaxy and Compact Binary Mergers* <br /> 
 
-**03/2022, CTC talk series** <br />  University of Maryland, College Park, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> (.)
+**03/2022, CTC talk series** <br />  University of Maryland, College Park, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> 
 
-**12/2021, HEP Seminar** <br />  Columbia University, New York, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> (.)
+**12/2021, HEP Seminar** <br />  Columbia University, New York, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> 
 
-**11/2021, DESY THAT Seminar** <br />  Zeuthen, Germany <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> (.)
+**11/2021, DESY THAT Seminar** <br />  Zeuthen, Germany <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> 
 
-**10/2021, Astronomy Colloquium** <br />  UNLV, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> (.)
+**10/2021, Astronomy Colloquium** <br />  UNLV, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> 
 
 **07/2021, EPS Conference on High Energy Physics** <br />  . <br />  *Jet-induced high-energy neutrino and electromagnetic counterparts of supermassive black hole mergers* <br /> (virtual)
 
@@ -42,7 +42,8 @@
 
 **04/2018, APS April meeting** <br />  Columbus, USA <br />  *Cumulative Neutrino and Gamma-ray Backgrounds from Halo and Galaxy Mergers* <br /> (Contributed talk)
 
-**08/2015, Astronomy Lunch Talk** <br />  Penn State University, State College, USA <br />  *High-Redshift Star-Forming Galaxies as Hidden Neutrino Sources* <br /> (.)
+**08/2015, Astronomy Lunch Talk** <br />  Penn State University, State College, USA <br />  *High-Redshift Star-Forming Galaxies as Hidden Neutrino Sources* <br /> 
+
 
 
 
