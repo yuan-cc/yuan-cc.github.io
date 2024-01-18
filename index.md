@@ -29,7 +29,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 TeVPA2024, Chicago, US
 
 **April 20 - May 5** <br />
-State College
+State College, PA, USA
 
 **April 8/9/11** <br />
 Lecture talk at Oxford-Berlin joint neutrino lecture series, Berlin, Germany
@@ -39,6 +39,9 @@ Multimessenger Workshop, Görlitz, Germany
 
 **February 21 - February 23, 2024** <br />
 Workshop on Numerical Multi-Messenger Modeling, Paris, France
+
+**January 17** <br />
+[AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?](https://arxiv.org/abs/2401.09320)
 
 **December 25 - January 01, 2024**<br />
 Happy Holidays!
