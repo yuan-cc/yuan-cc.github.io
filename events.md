@@ -1,8 +1,8 @@
-<h2>Talks & Events</h2>
+<h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 
-**12/2023, Astrophysical Seminar** <br />  Nanjing University (Nanjing, Jiangsu, China) <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
+**12/2023, Astrophysical Seminar** <br />  Nanjing University (南京大学), Nanjing, Jiangsu, China <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
 
-**12/2023, Astrophysical Colloquium** <br />  USTC (Hefei, Anhui, China) <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
+**12/2023, Astrophysical Colloquium** <br />  USTC (中国科学技术大学), Hefei, Anhui, China <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
 
 **11/2023, DESY AP seminar** <br />  Zeuthen, Germany <br />  *[Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events](https://yuan-cc.github.io/files/11:23-DESY_AP_Seminar.pdf)* <br /> (Invited seminar)
 
