@@ -24,9 +24,9 @@
 
 **10/2021, Astronomy Colloquium** <br />  UNLV, USA <br />  *The Multimessenger View of Galaxy and Compact Binary Mergers* <br /> 
 
-**07/2021, EPS Conference on High Energy Physics** <br />  . <br />  *Jet-induced high-energy neutrino and electromagnetic counterparts of supermassive black hole mergers* <br /> (virtual)
+**07/2021, EPS Conference on High Energy Physics** <br /> Online, Germany <br />  *Jet-induced high-energy neutrino and electromagnetic counterparts of supermassive black hole mergers* <br /> (virtual)
 
-**04/2021, APS April meeting** <br />  . <br />  *Jet-induced high-energy neutrino and electromagnetic counterparts of supermassive black hole mergers* <br /> (virtual)
+**04/2021, APS April meeting** <br />  Online <br />  *Jet-induced high-energy neutrino and electromagnetic counterparts of supermassive black hole mergers* <br /> (virtual)
 
 **02/2021, Institute for Gravitation and the Cosmos (IGC)** <br />  Penn State University, State College USA <br />  *High-energy neutrino emission subsequent to gravitational wave radiation from SMBH mergers* <br /> (virtual)
 
