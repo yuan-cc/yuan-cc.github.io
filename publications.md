@@ -4,7 +4,7 @@
 [[Google scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ADS]](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw)  | [[ORCiD: 0000-0003-0327-6136]](https://orcid.org/0000-0003-0327-6136) | [[iNSPIRE]](https://inspirehep.net/authors/1671091)<br />
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-### Journal Articles
+### Journal Articles and preprints
 1. **Yuan, C.**, Winter, W., Lunardini, L. (2024) [AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?](https://arxiv.org/abs/2401.09320), arXiv: 2401.09320
 1. Marc Klinger, Annika Rudolph, Xavier Rodrigues, **Chengchao Yuan**, Gaëtan Fichet de Clairfontaine, Anatoli Fedynitch, Walter Winter, Martin Pohl, Shan Gao (2023) [AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources](https://arxiv.org/abs/2312.13371), submited to ApJS
 1. **Yuan, C.** and Winter, W., (2023) [Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events](https://arxiv.org/abs/2306.15659),ApJ 956 30
