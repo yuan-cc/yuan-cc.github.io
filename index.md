@@ -6,8 +6,8 @@ I joined Dr. [Walter Winter's group](https://www-zeuthen.desy.de/~wwinter/) at [
 
 My research focuses on the theoretical and numerical multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from tidal disruption events (TDEs), compact binary pairs (supermassive/stellar mass black holes), supernovae, gamma-ray bursts (GRBs), active galactic nuclei (AGNs), and galaxy/cluster mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
-<span style="color:purple">**The AM3 software is finally public! Checkout the [AM3 website](https://am3.readthedocs.io/) and our recent paper on arXiv: <br />
-[   *AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources*](https://arxiv.org/abs/2312.13371)**</span>
+<span style="color:purple">The AM3 software is finally public! Checkout the [AM3 website](https://am3.readthedocs.io/) and our recent paper on arXiv: <br />
+[   *AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources*](https://arxiv.org/abs/2312.13371)</span>
 
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 <img align="center" src="files/TDEs.jpg" alt="drawing" height="200" width="840"/>
