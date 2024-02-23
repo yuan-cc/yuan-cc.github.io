@@ -5,27 +5,8 @@
 **Mailing Address:** Platanenallee 6, D-15738 Zeuthen, Germany<br /> 
 **Social Media:** [Facebook](https://www.facebook.com/profile.php?id=100009428177031) | [Linkedin](https://www.linkedin.com/in/chengchao-yuan-39619b123/) | [Twitter](https://twitter.com/YuanChengchao)
 
-<hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
- 
-<div class="container">
-  <div class="row">
 
-    <div class="column">
-        <h3>Leave a message</h3>
 
-      <form action="https://getform.io/f/72774fbb-6528-475b-b8b9-23989a6463be"
-method="POST">
-    <label for="fname">Your Name</label>
-        <input type="text" id="fname" name="name" placeholder="Name..">
-        <label for="fname">Email Address</label>
-        <input type="text" id="fname" name="email" placeholder="Email..">
-        <label for="subject">Message</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:120px"></textarea>
-        <input type="submit" value="Send">
-  </form>
-    </div>
-  </div>
-</div>
 
 
 
