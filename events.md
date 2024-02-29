@@ -1,5 +1,7 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 
+**02/2024, Workshop on Numerical Multimessenger Modeling** <br /> APC, Paris, France <br /> *Multi-Messenger Modeling of Tidal Disruption Events with AM3* <br /> (Invited talk)
+
 **12/2023, Astrophysical Seminar** <br />  Nanjing University (南京大学), Nanjing, Jiangsu, China <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
 
 **12/2023, Astrophysical Colloquium** <br />  USTC (中国科学技术大学), Hefei, Anhui, China <br />  *Multi-Messenger Modeling of Neutrino-Coincident Tidal Disruption Events* <br /> 
