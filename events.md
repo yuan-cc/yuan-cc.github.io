@@ -1,7 +1,9 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
+
 **04/2024, Oxford-Berlin Neutrino Lectures** <br />
 Humboldt-Universität zu Berlin <br />
 *Neutrinos from Tidal Disruptions of Massive Stars*
+
 
 **02/2024, Workshop on Numerical Multimessenger Modeling** <br /> APC, Paris, France <br /> *Multi-Messenger Modeling of Tidal Disruption Events with AM3* <br /> (Invited talk)
 
