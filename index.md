@@ -27,6 +27,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 <a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2024</a> &#124; [All talks & events](https://yuan-cc.github.io/events.html)
 
 (tbc)
+
 **September 23 - 27, 2024**<br />
 9th Roma International Conference on Astro-Particle Physics (RICAP-2024)
 Invited talk
