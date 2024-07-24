@@ -34,6 +34,9 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 9th Roma International Conference on Astro-Particle Physics (RICAP-2024)
 Invited talk
 
+**September 02 - 06, 2024**<br />
+Collaboration visit to UNLV
+
 **August 26 - August 30, 2024** <br />
 TeVPA2024, Chicago, US
 
