@@ -1,4 +1,5 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
+(As up to June 2024)
 
 **04/2024, Oxford-Berlin Neutrino Lectures** <br />
 Humboldt-Universität zu Berlin <br />
