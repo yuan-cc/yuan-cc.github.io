@@ -2,7 +2,6 @@
 
 <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
 [[Google scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ADS]](https://ui.adsabs.harvard.edu/public-libraries/NCRLXpiDTnGg2zwnvpAzRw)  | [[ORCiD: 0000-0003-0327-6136]](https://orcid.org/0000-0003-0327-6136) | [[iNSPIRE]](https://inspirehep.net/authors/1671091)<br />
-<hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
 ### Journal Articles and Preprints
 
