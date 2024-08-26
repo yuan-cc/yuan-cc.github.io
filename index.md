@@ -63,7 +63,6 @@ Happy Holidays!
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1PZwZhxlIfUCRGxCp-c9U1ibrYHq9884&ehbc=2E312F" width="640" height="480"></iframe>
 
 <br>
 <div style="width: 100px; height: 50px; background-color: #F7F0FA; float: right;" 
