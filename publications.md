@@ -8,10 +8,10 @@
 
 **First-author: 10**
 
-1. **Yuan, C.,**, Zhang, B. T., Winter, W., Murase, K., (2024) [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513), arXiv: 2406.11513
-1. Klinger, M., **Yuan, C.,**, Taylor, A., Winter, W., (2024) [Lepto-Hadronic Scenarios for TeV Extensions of Gamma-Ray Burst Afterglow Spectra](https://arxiv.org/abs/2403.13902), arXiv: 2403.13902, accepted for publication in ApJ
-1. **Yuan, C.**, Winter, W., Lunardini, L. (2024) [AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?](https://arxiv.org/abs/2401.09320), arXiv: 2401.09320, submitted to ApJ
-1. Marc Klinger, Annika Rudolph, Xavier Rodrigues, **Chengchao Yuan**, Gaëtan Fichet de Clairfontaine, Anatoli Fedynitch, Walter Winter, Martin Pohl, Shan Gao (2023) [AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources](https://arxiv.org/abs/2312.13371), submited to ApJS
+1. **Yuan, C.,**, Zhang, B. T., Winter, W., Murase, K., (2024) [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513), arXiv: 2406.11513 (ApJ in press)
+1. Klinger, M., **Yuan, C.,**, Taylor, A., Winter, W., (2024) [Lepto-Hadronic Scenarios for TeV Extensions of Gamma-Ray Burst Afterglow Spectra](https://arxiv.org/abs/2403.13902), arXiv: 2403.13902
+1. **Yuan, C.**, Winter, W., Lunardini, L. (2024) [AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?](https://arxiv.org/abs/2401.09320), arXiv: 2401.09320,ApJ 969 136 (2024)
+1. Marc Klinger, Annika Rudolph, Xavier Rodrigues, **Chengchao Yuan**, Gaëtan Fichet de Clairfontaine, Anatoli Fedynitch, Walter Winter, Martin Pohl, Shan Gao (2023) [AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources](https://arxiv.org/abs/2312.13371) (ApJS in press)
 1. **Yuan, C.** and Winter, W., (2023) [Electromagnetic Cascade Emission from Neutrino-Coincident Tidal Disruption Events](https://arxiv.org/abs/2306.15659),ApJ 956 30
 1. B. Theodore Zhang, Kohta Murase, Kunihito Ioka, Deheng Song, **Chengchao Yuan**, Péter Mészáros (2022) [External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A](https://arxiv.org/abs/2211.05754), ApJL 947 (2023) L14
 1. **Yuan, C.**, Murase, K., Guetta, D., Pe’er, A., Bartos, I., & Mészáros, P., (2022) [“GeV Signature of Short Gamma-Ray Bursts in Active Galactic Nuclei"](https://arxiv.org/abs/2112.07653), Astrophys.J. 932 (2022) 80<br />
