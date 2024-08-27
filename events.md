@@ -3,7 +3,7 @@
 
 
 **08/2024， TeVPA2024, Chicago, USA** <br />
-Contributed talk
+Contributed talk <br />
 *[Neutrino and Electromagnetic Signals from TDE Isotropic Winds and Relativistic Jets](https://yuan-cc.github.io/files/TeVPA2024-Chengchao Yuan.pdf)*
 
 **04/2024, Oxford-Berlin Neutrino Lectures** <br />
