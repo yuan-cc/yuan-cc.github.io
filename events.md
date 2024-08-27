@@ -1,5 +1,5 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
-(As up to June 2024)
+(As up to August 2024)
 
 
 **08/2024， TeVPA2024, Chicago, USA** <br />
