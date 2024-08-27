@@ -6,7 +6,9 @@ I joined Dr. [Walter Winter's group](https://www-zeuthen.desy.de/~wwinter/) at [
 
 My research focuses on the theoretical and numerical multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from tidal disruption events (TDEs), binary/single compact objects (e.g., GRBs and FRBs), active galactic nuclei (AGNs), and supermassive black hole mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
-**Slides for the contributed talk at TeVPA2024, Chicago**: [Neutrino and Electromagnetic Signals from TDE Isotropic Winds and Relativistic Jets](https://yuan-cc.github.io/files/TeVPA2024-Chengchao Yuan.pdf)
+### News
+
+**Slides for the contributed talk at TeVPA2024, Chicago: [Neutrino and Electromagnetic Signals from TDE Isotropic Winds and Relativistic Jets](https://yuan-cc.github.io/files/TeVPA2024-Chengchao Yuan.pdf)**
 
 **Lasest paper on Jetted TDE AT 2022cmc: [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513)**
 
