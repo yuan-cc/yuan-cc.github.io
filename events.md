@@ -1,6 +1,11 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to June 2024)
 
+
+**08/2024， TeVPA2024, Chicago, USA** <br />
+Contributed talk
+*[Neutrino and Electromagnetic Signals from TDE Isotropic Winds and Relativistic Jets](https://yuan-cc.github.io/files/TeVPA2024-Chengchao Yuan.pdf)*
+
 **04/2024, Oxford-Berlin Neutrino Lectures** <br />
 Humboldt-Universität zu Berlin <br />
 *Neutrinos from Tidal Disruptions of Massive Stars*
