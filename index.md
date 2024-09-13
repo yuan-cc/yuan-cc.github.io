@@ -35,14 +35,14 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 (tbc)
 
 **November 18-30**<br />
-Collaboration visit, University of Athens, Greece
+Collaboration visit and seminar talk, University of Athens, Greece
 
 **September 23 - 27, 2024**<br />
 9th Roma International Conference on Astro-Particle Physics (RICAP-2024)
 Invited talk
 
 **September 02 - 06, 2024**<br />
-Collaboration visit to UNLV
+Collaboration visit and seminar talk, UNLV, Las Vegas
 
 **August 26 - August 30, 2024** <br />
 TeVPA2024, Chicago, US
