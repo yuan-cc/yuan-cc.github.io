@@ -1,11 +1,11 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to September 2024)
 
-**09/2024, Roma International Conference on AstroParticle Physics (RICAP) 24 <br />
+**09/2024, Roma International Conference on AstroParticle Physics (RICAP) 24** <br />
 Frascati, Rome, Italy <br />
 *Neutrinos from TDEs (Invited talk)*
 
-**09/2024, Astrophysics Forum <br />
+**09/2024, Astronomy colloquium** <br />
 University of Nedava, Las Vegas (UNLV) <br />
 *Electromagnetic and Neutrino Signals from TDEs*
 
