@@ -3,7 +3,7 @@
 
 **09/2024, Roma International Conference on AstroParticle Physics (RICAP) 24** <br />
 Frascati, Rome, Italy <br />
-*Neutrinos from TDEs (Invited talk)*
+*[Neutrinos from TDEs (Invited talk)](https://agenda.infn.it/event/35353/contributions/236438/attachments/125679/185411/RICAP24_TDE_CYuan.pdf)*
 
 **09/2024, Astronomy colloquium** <br />
 University of Nedava, Las Vegas (UNLV) <br />
