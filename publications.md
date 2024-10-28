@@ -7,6 +7,7 @@
 
 **First-author: 10**
 
+1. Pavlo Plotko, Walter Winter, Cecilia Lunardini, **Chengchao Yuan** (2024) [Ultra-High-Energy Cosmic Rays from Neutrino-Emitting Tidal Disruption Events](https://arxiv.org/abs/2410.19047)	arXiv:2410.19047 (submitted to ApJ)
 1. **Yuan, C.,**, Zhang, B. T., Winter, W., Murase, K., (2024) [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513), arXiv: 2406.11513 (ApJ in press)
 1. Klinger, M., **Yuan, C.,**, Taylor, A., Winter, W., (2024) [Lepto-Hadronic Scenarios for TeV Extensions of Gamma-Ray Burst Afterglow Spectra](https://arxiv.org/abs/2403.13902), arXiv: 2403.13902
 1. **Yuan, C.**, Winter, W., Lunardini, L. (2024) [AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?](https://arxiv.org/abs/2401.09320), arXiv: 2401.09320,ApJ 969 136 (2024)
