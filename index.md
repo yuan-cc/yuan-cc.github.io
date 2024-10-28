@@ -34,6 +34,9 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
+**December 12-13**<br />
+Hamburg "Matter and the Universe" Days
+
 **November 18-30**<br />
 Collaboration visit and seminar talk, University of Athens, Greece
 
