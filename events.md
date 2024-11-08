@@ -1,5 +1,13 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
-(As up to September 2024)
+(As up to November 2024)
+
+**11/2024, Invited seminar, University of Athens** <br />
+Athens, Greece <br />
+*Neutrino and EM signals from TDEs*
+
+**10/2024, DESY THAT Group Seminar** <br />
+Zeuthen, Germany <br />
+*AM3 and its applications*
 
 **09/2024, Roma International Conference on AstroParticle Physics (RICAP) 24** <br />
 Frascati, Rome, Italy <br />
