@@ -5,8 +5,10 @@
 
 ### Journal Articles and Preprints
 
-**First-author: 10**
+**Total: 17; first-author: 11**
 
+1. **Chengchao Yuan**, Walter Winter, B. THeodore Zhang, Kohta Murase, Bing Zhang (2024) [Revisiting X-ray Afterglows of Jetted Tidal Disruption Events with the External Reverse Shock](https://arxiv.org/abs/2411.07925) arXiv: 2411.07925, submitted to ApJL
+1. Rong-Lan Li, **Chengchao Yuan**, Hao-Ning He et al. (2024) [A neutrino flare associated with X-ray emission from TDE ATLAS17jrp](https://arxiv.org/abs/2411.06440), arXiv:2411.06440, submitted to ApJL
 1. Pavlo Plotko, Walter Winter, Cecilia Lunardini, **Chengchao Yuan** (2024) [Ultra-High-Energy Cosmic Rays from Neutrino-Emitting Tidal Disruption Events](https://arxiv.org/abs/2410.19047)	arXiv:2410.19047 (submitted to ApJ)
 1. **Yuan, C.,**, Zhang, B. T., Winter, W., Murase, K., (2024) [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513), arXiv: 2406.11513 (ApJ in press)
 1. Klinger, M., **Yuan, C.,**, Taylor, A., Winter, W., (2024) [Lepto-Hadronic Scenarios for TeV Extensions of Gamma-Ray Burst Afterglow Spectra](https://arxiv.org/abs/2403.13902), arXiv: 2403.13902
