@@ -6,7 +6,7 @@
 
 <img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9109.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9550.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9550.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9647 2.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9780.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
