@@ -7,10 +7,11 @@ I joined Dr. [Walter Winter's group](https://www-zeuthen.desy.de/~wwinter/) at [
 My research focuses on the theoretical and numerical multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from tidal disruption events (TDEs), binary/single compact objects (e.g., GRBs and FRBs), active galactic nuclei (AGNs), and supermassive black hole mergers. I am interested in how the multi-messenger analyses enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
 ### News
+**Recent publications on Jetted TDEs:**
+* [Revisiting X-ray Afterglows of Jetted Tidal Disruption Events with the External Reverse Shock](https://arxiv.org/abs/2411.07925)
+* [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513)
 
 **Slides for the contributed talk at TeVPA2024, Chicago: [Neutrino and Electromagnetic Signals from TDE Isotropic Winds and Relativistic Jets](https://yuan-cc.github.io/files/TeVPA2024-Chengchao Yuan.pdf)**
-
-**Lasest paper on Jetted TDE AT 2022cmc: [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513)**
 
 <span style="color:#1E90FF"><b>The AM3 software is finally public! Checkout the [AM3 website](https://am3.readthedocs.io/) and our recent paper on arXiv:</b> <br />
 [   *AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources*](https://arxiv.org/abs/2312.13371)</span>
