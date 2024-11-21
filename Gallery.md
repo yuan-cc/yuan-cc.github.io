@@ -17,6 +17,7 @@
 <img align="left" src="files/Gallery/IMG_9780.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9788.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_7843.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
 
 <img align="left" src="files/Gallery/IMG_9787.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 
