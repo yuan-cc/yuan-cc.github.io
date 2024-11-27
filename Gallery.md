@@ -54,7 +54,6 @@
 <img align="left" src="files/Gallery/20190728_123201.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/20190728_144056.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="lest" src="files/Gallery/20190728_164434.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 
 
