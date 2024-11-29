@@ -20,6 +20,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 
 ### Links
+* [Inspire](https://inspirehep.net/authors/1671091) &#124; [Google scholar](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) &#124; [Orcid](https://orcid.org/0000-0003-0327-6136)
 * DESY: \[[AM3](https://gitlab.desy.de/am3/am3)\] \[[AM3 Docs](https://am3.readthedocs.io/)\] \[[DESY AP](https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html)\] \[[Confluence](https://confluence.desy.de)\] \[[GO DESY](https://go.desy.de)\] \[[DESY Hostel]([https://go.desy.de](https://welcome-services.desy.de/hostel_in_zeuthen/index_eng.html))\]
 * Penn State: \[[Physics](https://science.psu.edu/physics)\] \[[A&A](https://science.psu.edu/astro)\] \[[CMA](http://cpa.igc.psu.edu)\] \[[IGC](http://www.gravity.psu.edu)\]
 * [ADS](https://ui.adsabs.harvard.edu) &#124; [arXiv-astro-ph.HE](https://arxiv.org/list/astro-ph.HE/recent) 
