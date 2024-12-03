@@ -1,6 +1,10 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to November 2024)
 
+**12/2024, Hamburg "Matter and the Universe" Day** <br />
+Hamburg, Germany <br />
+*(Poster) Neutrino and EM signals from TDEs*
+
 **11/2024, Invited seminar, University of Athens** <br />
 Athens, Greece <br />
 *Neutrino and EM signals from TDEs*
