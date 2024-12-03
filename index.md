@@ -37,7 +37,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
-**December 23, 2024 - January 1, 2025**
+**December 23, 2024 - January 1, 2025**<br />
 Happy Holidays!
 
 **December 12-13**<br />
