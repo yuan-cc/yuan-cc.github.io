@@ -1,7 +1,11 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to November 2024)
 
-**12/2024, Hamburg "Matter and the Universe" Day** <br />
+**12/2024, Hamburg "Matter and the Universe" Days** <br />
+Hamburg, Germany <br />
+*(Contributed talk) Modeling the radio and X-ray afterglows from TDEw*
+
+**12/2024, Hamburg "Matter and the Universe" Days** <br />
 Hamburg, Germany <br />
 *(Poster) Neutrino and EM signals from TDEs*
 
