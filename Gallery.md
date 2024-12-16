@@ -4,16 +4,16 @@
 
 “The necessity of knowledge, the necessity of exploration, the necessity of gazing, the necessity of moments of tranquility, the necessity of settling the body and mind”
 
-<img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/DSC02667.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_0248.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9776.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9778.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9779.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/4.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/2.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9799.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/20190728_154735.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/DSC02667.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_0248.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9776.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9778.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9779.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/4.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/2.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9799.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/20190728_154735.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 
 <img align="left" src="files/Gallery/IMG_9109.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9550.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
