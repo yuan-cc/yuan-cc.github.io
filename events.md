@@ -1,5 +1,5 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
-(As up to November 2024)
+(As up to December 2024)
 
 **12/2024, Hamburg "Matter and the Universe" Days** <br />
 Hamburg, Germany <br />
