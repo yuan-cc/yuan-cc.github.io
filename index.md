@@ -41,13 +41,13 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 Happy Holidays!
 
 **December 12-13**<br />
-Hamburg "Matter and the Universe" Days
+Hamburg "Matter and the Universe" Days, invited talk and poster
 
 **November 18-30**<br />
 Collaboration visit and seminar talk, University of Athens, Greece
 
 **September 23 - 27, 2024**<br />
-9th Roma International Conference on Astro-Particle Physics (RICAP-2024)
+9th Roma International Conference on Astro-Particle Physics (RICAP-2024)<br />
 Invited talk
 
 **September 02 - 06, 2024**<br />
@@ -59,17 +59,14 @@ TeVPA2024, Chicago, US
 **April 20 - May 5** <br />
 State College, PA, USA
 
-**April 8/9/11** <br />
-Lecture talk at Oxford-Berlin joint neutrino lecture series, Berlin, Germany
+**April 8 - 11** <br />
+Lectures, Oxford-Berlin joint neutrino lecture series, Berlin, Germany
 
 **March 26 - March 27** <br />
 Multimessenger Workshop, Görlitz, Germany
 
 **February 21 - February 23, 2024** <br />
 Workshop on Numerical Multi-Messenger Modeling, Paris, France
-
-**January 17** <br />
-[AT2021lwx: Another Neutrino-Coincident Tidal Disruption Event with a Strong Dust Echo?](https://arxiv.org/abs/2401.09320)
 
 **December 25 - January 01, 2024**<br />
 Happy Holidays!
