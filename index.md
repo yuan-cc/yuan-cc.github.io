@@ -33,42 +33,20 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
-<a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2024</a> &#124; [All talks & events](https://yuan-cc.github.io/events.html)
+<a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2025</a> &#124; [All talks & events](https://yuan-cc.github.io/events.html)
 
 (tbc)
 
-**December 23, 2024 - January 1, 2025**<br />
-Happy Holidays!
+**November 3 - 7, 2025** <br />
+TeVPA 2025, Valencia, Spain
 
-**December 12-13**<br />
-Hamburg "Matter and the Universe" Days, invited talk and poster
+**July 15 - July 24, 2025** <br />
+ICRC 2025
 
-**November 18-30**<br />
-Collaboration visit and seminar talk, University of Athens, Greece
+**February 26 - February 28, 2025** <br />
+Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 
-**September 23 - 27, 2024**<br />
-9th Roma International Conference on Astro-Particle Physics (RICAP-2024)<br />
-Invited talk
-
-**September 02 - 06, 2024**<br />
-Collaboration visit and seminar talk, UNLV, Las Vegas
-
-**August 26 - August 30, 2024** <br />
-TeVPA2024, Chicago, US
-
-**April 20 - May 5** <br />
-State College, PA, USA
-
-**April 8 - 11** <br />
-Lectures, Oxford-Berlin joint neutrino lecture series, Berlin, Germany
-
-**March 26 - March 27** <br />
-Multimessenger Workshop, Görlitz, Germany
-
-**February 21 - February 23, 2024** <br />
-Workshop on Numerical Multi-Messenger Modeling, Paris, France
-
-**December 25 - January 01, 2024**<br />
+**December 25 - January 01, 2025**<br />
 Happy Holidays!
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
