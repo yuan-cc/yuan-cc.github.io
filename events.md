@@ -86,6 +86,49 @@ Humboldt-Universität zu Berlin <br />
 
 
 <h2>Chronology</h2>
+
+
+
+<details><summary>2023</summary>
+ <ul>
+
+<li> December 23, 2024 - January 1, 2025<br />
+Happy Holidays!
+
+<li> December 12-13<br />
+Hamburg "Matter and the Universe" Days, invited talk and poster
+
+<li> November 18-30<br />
+Collaboration visit and seminar talk, University of Athens, Greece
+
+<li> September 23 - 27, 2024<br />
+9th Roma International Conference on Astro-Particle Physics (RICAP-2024)<br />
+Invited talk
+
+<li> September 02 - 06, 2024<br />
+Collaboration visit and seminar talk, UNLV, Las Vegas
+
+<li> August 26 - August 30, 2024 <br />
+TeVPA2024, Chicago, US
+
+<li> April 20 - May 5 <br />
+State College, PA, USA
+
+<li> April 8 - 11 <br />
+Lectures, Oxford-Berlin joint neutrino lecture series, Berlin, Germany
+
+<li> March 26 - March 27 <br />
+Multimessenger Workshop, Görlitz, Germany
+
+<li> February 21 - February 23, 2024 <br />
+Workshop on Numerical Multi-Messenger Modeling, Paris, France
+
+<li> December 25 - January 01, 2024<br />
+Happy Holidays!
+
+</ul>
+</details>
+
    
 <details><summary>2023</summary>
  <ul>
