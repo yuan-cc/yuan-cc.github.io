@@ -90,7 +90,7 @@ Humboldt-Universität zu Berlin <br />
 
 
 <details><summary>2024</summary>
- <ul>
+<ul>
 
 <li> December 23, 2024 - January 1, 2025<br />
 Happy Holidays!
@@ -125,7 +125,6 @@ Workshop on Numerical Multi-Messenger Modeling, Paris, France
 
 <li> December 25 - January 01, 2024<br />
 Happy Holidays!
-
 </ul>
 </details>
 
