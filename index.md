@@ -43,6 +43,12 @@ TeVPA 2025, Valencia, Spain
 **July 15 - July 24, 2025** <br />
 ICRC 2025
 
+**March 21 - 24, 2025** <br />
+LHAASO Symposium, Hong Kong
+
+**April 02 - April 14, 2025** <br />
+Colloboration visit to University of Athens, Greece
+
 **February 26 - February 28, 2025** <br />
 Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 
