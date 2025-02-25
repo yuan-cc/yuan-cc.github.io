@@ -1,9 +1,13 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to December 2024)
 
+**02/2025, Workshop on Numerical Multi-Messenger Modeling** <br />
+Zeuthen, Germany <br />
+*(Invited talk) Radio and X-ray afterglows from TDEs*
+
 **12/2024, Hamburg "Matter and the Universe" Days** <br />
 Hamburg, Germany <br />
-*(Contributed talk) Modeling the radio and X-ray afterglows from TDEw*
+*(Contributed talk) Modeling the radio and X-ray afterglows from TDEs*
 
 **12/2024, Hamburg "Matter and the Universe" Days** <br />
 Hamburg, Germany <br />
