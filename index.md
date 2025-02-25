@@ -37,20 +37,20 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 
 (tbc)
 
-**November 3 - 7, 2025** <br />
-TeVPA 2025, Valencia, Spain
-
-**July 15 - July 24, 2025** <br />
-ICRC 2025
+**February 26 - February 28, 2025** <br />
+Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 
 **March 21 - 24, 2025** <br />
-LHAASO Symposium, Hong Kong
+LHAASO Symposium, Hong Kong, China
 
 **April 02 - April 14, 2025** <br />
 Colloboration visit to University of Athens, Greece
 
-**February 26 - February 28, 2025** <br />
-Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
+**July 15 - July 24, 2025** <br />
+ICRC 2025, Geneva, Switzerland
+
+**November 3 - 7, 2025** <br />
+TeVPA 2025, Valencia, Spain
 
 **December 25 - January 01, 2025**<br />
 Happy Holidays!
