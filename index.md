@@ -46,6 +46,9 @@ LHAASO Symposium, Hong Kong, China
 **April 02 - April 14, 2025** <br />
 Colloboration visit to University of Athens, Greece
 
+**April 28 - 29, 2025** <br />
+ULTRASAT Workshop, DESY, Zeuthen
+
 **July 15 - July 24, 2025** <br />
 ICRC 2025, Geneva, Switzerland
 
