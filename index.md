@@ -40,6 +40,10 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 **February 26 - February 28, 2025** <br />
 Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 
+**March 13-14, 2025** <br />
+Invited seminar
+TIANFU Cosmic Ray Research Center
+
 **March 21 - 24, 2025** <br />
 LHAASO Symposium, Hong Kong, China
 
