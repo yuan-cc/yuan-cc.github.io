@@ -55,6 +55,9 @@ ULTRASAT Workshop, DESY, Zeuthen
 **July 15 - July 24, 2025** <br />
 ICRC 2025, Geneva, Switzerland
 
+**October 01, 2025** <br />
+Move to ULB, Brussels, Belgium 
+
 **November 3 - 7, 2025** <br />
 TeVPA 2025, Valencia, Spain
 
