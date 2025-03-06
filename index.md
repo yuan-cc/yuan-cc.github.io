@@ -35,14 +35,13 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
 <a href="https://yuan-cc.github.io/events.html" style="color:#B200B2;text-decoration: underline; font-weight: bold;">2025</a> &#124; [All talks & events](https://yuan-cc.github.io/events.html)
 
-(tbc)
-
 **February 26 - February 28, 2025** <br />
 Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 
 **March 13-14, 2025** <br />
-Invited seminar
-TIANFU Cosmic Ray Research Center
+Invited seminar <br />
+TIANFU Cosmic Ray Research Center, Chengdu, China <br />
+天府宇宙线研究中心，成都，中国
 
 **March 21 - 24, 2025** <br />
 LHAASO Symposium, Hong Kong, China
@@ -59,7 +58,7 @@ ICRC 2025, Geneva, Switzerland
 **November 3 - 7, 2025** <br />
 TeVPA 2025, Valencia, Spain
 
-**December 25 - January 01, 2025**<br />
+**December 25 - January 01, 2026**<br />
 Happy Holidays!
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#B3A1BF">
