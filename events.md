@@ -1,5 +1,9 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
-(As up to December 2024)
+(As up to March 2025)
+
+**03/2025, Astroparticle Physics Seminar**<br />
+Institute of High Energy Physics, Beijing, China <br />
+*(Invited talk) Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability*
 
 **02/2025, Workshop on Numerical Multi-Messenger Modeling** <br />
 Zeuthen, Germany <br />
