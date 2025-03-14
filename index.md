@@ -40,8 +40,8 @@ Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 
 **March 13-14, 2025** <br />
 Invited seminar <br />
-TIANFU Cosmic Ray Research Center, Chengdu, China <br />
-天府宇宙线研究中心，成都，中国
+Institute of High Energy Physics (IHEP), Beijing, China <br />
+高能物理研究所，背景，中国
 
 **March 21 - 24, 2025** <br />
 LHAASO Symposium, Hong Kong, China
