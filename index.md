@@ -41,7 +41,7 @@ Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany
 **March 13-14, 2025** <br />
 Invited seminar <br />
 Institute of High Energy Physics (IHEP), Beijing, China <br />
-高能物理研究所，背景，中国
+高能物理研究所，北京，中国
 
 **March 21 - 24, 2025** <br />
 LHAASO Symposium, Hong Kong, China
