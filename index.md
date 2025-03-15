@@ -43,6 +43,12 @@ Invited seminar <br />
 Institute of High Energy Physics (IHEP), Beijing, China <br />
 高能物理研究所，北京，中国
 
+**March 18, 2025** <br />
+Group seminar <br />
+Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China <br />
+北京大学科维理天文与天体物理研究所
+
+
 **March 21 - 24, 2025** <br />
 LHAASO Symposium, Hong Kong, China
 
