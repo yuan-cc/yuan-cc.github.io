@@ -1,6 +1,15 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to March 2025)
 
+**03/2025, 2nd LHAASO Symposium** <br />
+Hong Kong, China <br />
+*(Poster) Multimessenger emissions from TDEs*
+
+**03/2025, High-Energy Astrophysics Seminar** <br />
+Kavli Institute for Astronomy and Astrophysics, Peking University, China
+*(Invited talk) Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability*
+
+
 **03/2025, Astroparticle Physics Seminar**<br />
 Institute of High Energy Physics, Beijing, China <br />
 *(Invited talk) Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability*
