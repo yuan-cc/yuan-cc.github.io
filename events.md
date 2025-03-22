@@ -7,7 +7,7 @@ Hong Kong, China <br />
 
 **03/2025, High-Energy Astrophysics Seminar** <br />
 Kavli Institute for Astronomy and Astrophysics, Peking University, China
-*(Invited talk) Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability*
+*(Invited talk) [Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability](https://www.dropbox.com/scl/fi/ddrdiv4nnd5prs324john/Yuan_IHEP_2025.pdf?rlkey=ltjl5tvcfn73p4zxut0zm5f73&st=bagi4knt&dl=0)*
 
 
 **03/2025, Astroparticle Physics Seminar**<br />
