@@ -6,13 +6,13 @@ Hong Kong, China <br />
 *(Poster) Multimessenger emissions from TDEs*
 
 **03/2025, High-Energy Astrophysics Seminar** <br />
-Kavli Institute for Astronomy and Astrophysics, Peking University, China
-*(Invited talk) [Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability](https://www.dropbox.com/scl/fi/ddrdiv4nnd5prs324john/Yuan_IHEP_2025.pdf?rlkey=ltjl5tvcfn73p4zxut0zm5f73&st=bagi4knt&dl=0)*
+Kavli Institute for Astronomy and Astrophysics, Peking University, China <br />
+*(Invited talk) Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability*
 
 
 **03/2025, Astroparticle Physics Seminar**<br />
 Institute of High Energy Physics, Beijing, China <br />
-*(Invited talk) Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability*
+*(Invited talk) [Multi-Messenger Emissions from Cosmic Transients: Theoretical Modeling and Future Detectability](https://www.dropbox.com/scl/fi/ddrdiv4nnd5prs324john/Yuan_IHEP_2025.pdf?rlkey=ltjl5tvcfn73p4zxut0zm5f73&st=bagi4knt&dl=0)*
 
 **02/2025, Workshop on Numerical Multi-Messenger Modeling** <br />
 Zeuthen, Germany <br />
