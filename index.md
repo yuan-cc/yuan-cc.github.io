@@ -11,7 +11,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 * [Revisiting X-ray Afterglows of Jetted Tidal Disruption Events with the External Reverse Shock](https://arxiv.org/abs/2411.07925)
 * [Structured Jet Model for Multiwavelength Observations of the Jetted Tidal Disruption Event AT 2022cmc](https://arxiv.org/abs/2406.11513)
 
-**Slides for the contributed talk at TeVPA2024, Chicago: [Neutrino and Electromagnetic Signals from TDE Isotropic Winds and Relativistic Jets](https://yuan-cc.github.io/files/TeVPA2024-Chengchao Yuan.pdf)**
+**Slides for the invited seminar at IHEP: [Multimessenger Emissions from Cosmic Transients - Theoretical Modeling and Detectability](https://www.dropbox.com/scl/fi/ddrdiv4nnd5prs324john/Yuan_IHEP_2025.pdf?rlkey=ltjl5tvcfn73p4zxut0zm5f73&st=bagi4knt&dl=0)**
 
 <span style="color:#1E90FF"><b>The AM3 software is finally public! Checkout the [AM3 website](https://am3.readthedocs.io/) and our recent paper on arXiv:</b> <br />
 [   *AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources*](https://arxiv.org/abs/2312.13371)</span>
