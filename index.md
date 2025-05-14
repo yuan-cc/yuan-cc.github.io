@@ -67,6 +67,8 @@ Move to ULB, Brussels, Belgium
 **November 3 - 7, 2025** <br />
 TeVPA 2025, Valencia, Spain
 
+(tbc)
+
 **December 25 - January 01, 2026**<br />
 Happy Holidays!
 
