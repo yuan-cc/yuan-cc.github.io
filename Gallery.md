@@ -7,7 +7,7 @@
 <style>
 .columns {
   display: flex;
-  gap: 10px;
+  gap: 0px;
 }
 .column {
   display: flex;
@@ -15,7 +15,7 @@
   gap: 0px;
 }
 .column img {
-  width: 100%;
+  width: 350px;
   display: block;
 }
 </style>
@@ -42,6 +42,8 @@
 <img align="left" src="files/Gallery/IMG_9647 2.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9780.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+    <img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+<img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
   </div>
   
   <div class="column">
@@ -60,8 +62,7 @@
 <img align="left" src="files/Gallery/20190908_102220.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/20191222_091919.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/20190728_164434.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+
 
   </div>
 </div>
