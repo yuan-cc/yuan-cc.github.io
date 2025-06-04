@@ -4,29 +4,10 @@
 
 “The necessity of knowledge, the necessity of exploration, the necessity of gazing, the necessity of moments of tranquility, the necessity of settling the body and mind”
 
-<style>
-.columns {
-  display: flex;
-  gap: 0px;
-}
-.column {
-  display: flex;
-  flex-direction: column;
-  gap: 0px;
-}
-.column img {
-  width: 350px;
-  display: block;
-}
-</style>
-
-<img align="lest" src="files/Gallery/DSC03005.jpeg" alt="drawing" width="710" style="border: 5px solid white;" />
-
-
-<div class="columns">
-  <div class="column">
-    <img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
-    <img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+<div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; flex-direction: column; gap: 0px;">
+<img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/Santolini1.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/Santolini2.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
@@ -44,10 +25,9 @@
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
     <img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-  </div>
-  
-  <div class="column">
-    <img align="left" src="files/Gallery/IMG_7843.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
+ </div>
+
+<div style="display: flex; flex-direction: column; gap: 0px; margin-left: 10px;">
 <img align="left" src="files/Gallery/IMG_9787.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_4622.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_6562 3.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
@@ -62,10 +42,8 @@
 <img align="left" src="files/Gallery/20190908_102220.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/20191222_091919.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/20190728_164434.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-
-
+ </div>
   </div>
-</div>
 
 
 
