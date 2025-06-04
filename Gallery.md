@@ -4,7 +4,6 @@
 
 “The necessity of knowledge, the necessity of exploration, the necessity of gazing, the necessity of moments of tranquility, the necessity of settling the body and mind”
 
-<img align="left" src="files/Gallery/DSC03005.jpeg" alt="drawing" width="710" style="display: inline-block; border: 5px solid white;" />
 
 <div style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
   <div style="display: flex; flex-direction: column; margin: 0; padding: 0;">
