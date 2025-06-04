@@ -3,14 +3,15 @@
 "知识之必要，探索之必要，凝视之必要, 片刻宁静之必要，身心安顿之必要"
 
 “The necessity of knowledge, the necessity of exploration, the necessity of gazing, the necessity of moments of tranquility, the necessity of settling the body and mind”
-
-<img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/Santolini1.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/Santolini2.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/DSC02667.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/DSC03020.jpeg" alt="drawing" width="350" style="margin-bottom: 10px; display: inline-block; border: 5px solid white;" />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px;">
+  
+<img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/Santolini1.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/Santolini2.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/DSC02667.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/DSC03020.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
 
 <img align="left" src="files/Gallery/IMG_0248.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9776.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
@@ -24,7 +25,7 @@
 <img align="left" src="files/Gallery/IMG_9780.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_7843.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="lest" src="files/Gallery/DSC03005.jpeg" alt="drawing" width="720" style="border: 5px solid white;" />
+<img align="lest" src="files/Gallery/DSC03005.jpeg" alt="drawing" width="710" style="border: 5px solid white;" />
 
 
 <img align="left" src="files/Gallery/IMG_9787.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
@@ -49,7 +50,7 @@
 <img align="lest" src="files/Gallery/20190728_164434.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-
+</div>
 
 
 
