@@ -6,6 +6,7 @@
 
 <img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+<img align="left" src="files/Gallery/DSC03020.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/Santolini1.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/Santolini2.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9508.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
@@ -16,11 +17,8 @@
 <img align="left" src="files/Gallery/4.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/2.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9799.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
-<img align="left" src="files/Gallery/20190728_154735.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02270.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 
-<img align="left" src="files/Gallery/IMG_9109.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9550.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9647 2.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9780.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
@@ -44,13 +42,12 @@
 <img align="left" src="files/Gallery/IMG_4552.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 
 <img align="left" src="files/Gallery/20190908_102220.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="left" src="files/Gallery/IMG_9800.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
 
 <img align="left" src="files/Gallery/20191222_091919.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/20190728_164434.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-
+<img align="lest" src="files/Gallery/DSC03005.jpeg" alt="drawing" width="700" style="border: 5px solid white;" />
 
 
 
