@@ -34,6 +34,7 @@
   <img align="left" src="files/Gallery/IMG_4622.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_6562 3.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_7047.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+  <img align="left" src="files/Gallery/DSC03005.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02107.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
   <img align="left" src="files/Gallery/IMG_0455.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_3328.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
