@@ -1,6 +1,10 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 (As up to March 2025)
 
+**07/2026, ICRC2025**<br />
+Geneva, Switzerland <br />
+*Neutrino and Electromagnetic Signals from Tidal Disruption Events: Bridging the Theory with observations*
+
 **03/2025, 2nd LHAASO Symposium** <br />
 Hong Kong, China <br />
 *(Poster) Multimessenger emissions from TDEs*
