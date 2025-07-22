@@ -6,7 +6,7 @@ I joined Dr. [Walter Winter's group](https://www-zeuthen.desy.de/~wwinter/) at [
 
 My research focuses on the theoretical and numerical multi-messenger astrophysics, including the origins and implications of high-energy photons, cosmic rays, and neutrinos from individual cosmic sources and source populations. In particular, I model the acceleration, transport, and radiation processes of high-energy particles originating from tidal disruption events (TDEs), binary/single compact objects (e.g., GRBs and FRBs), active galactic nuclei (AGNs), and supermassive black hole mergers. I am interested in how the multi-messenger analyses in the time domain enlighten our understanding of the physical nature of high-energy astrophysical phenomena.
 
-### News
+### News and Highlights
 **Recent publication on the UHE KM3NeT neutrino event KM3-230213A:** [An Accretion Flare Interpretation for the UHE Neutrino Event KM3-230213A](https://arxiv.org/abs/2506.21111)
 
 <span style="color:#1E90FF"><b>The AM3 software is finally public! Checkout the [AM3 website](https://am3.readthedocs.io/) and our recent paper on arXiv:</b> <br />
