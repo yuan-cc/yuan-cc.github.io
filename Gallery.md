@@ -7,6 +7,8 @@
 
 <div style="display:flex; gap:0; margin:0; padding:0;">
   <div style="display: flex; flex-direction: column; flex: 0 0 360px; margin: 0; padding: 0;">
+        <img align="left" src="files/Gallery/IMG_3846.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
+            <img align="left" src="files/Gallery/IMG_3391.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
         <img align="left" src="files/Gallery/DSC02913.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
@@ -30,6 +32,7 @@
  </div>
 
 <div style="display: flex; flex-direction: column; flex: 0 0 360px; margin: 0; padding: 0;">
+      <img align="left" src="files/Gallery/DSC04133.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9938.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
   <img align="left" src="files/Gallery/IMG_4622.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_6562 3.jpg" alt="drawing" width="350" style="border: 5px solid white;" />
