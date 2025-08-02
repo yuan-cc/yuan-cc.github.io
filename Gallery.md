@@ -11,6 +11,7 @@
             <img align="left" src="files/Gallery/IMG_3391.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02718.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
+            <img align="left" src="files/Gallery/DSC04106.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
         <img align="left" src="files/Gallery/DSC02913.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/Santolini1.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/Santolini2.jpeg" alt="drawing" width="350" style=" display: inline-block; border: 5px solid white;" />
