@@ -5,8 +5,9 @@
 
 ### Journal Articles and Preprints
 
-**Total: 18; first-author: 12**
+**Total: 19; first-author: 13**
 
+1. **Yuan, C.,** Fiorillo, D F. G., Petropoulou, M., Liu, Q. (2025) [Coupled Time-Dependent Proton Acceleration and Leptonic-Hadronic Radiation in Turbulent Supermassive Black Hole Coronae](https://arxiv.org/abs/2508.08233)
 1. **Yuan, C.,** Pfeiffer, L., Winter, W., Buson, S., Testagrossa, F., Sanchez Zaballa, J., Azzollini, A. (2025) [An Accretion Flare Interpretation for the UHE Neutrino Event KM3-230213A](https://arxiv.org/abs/2506.21111) arXiv: 2506.21111, submitted
 1. **Chengchao Yuan**, Walter Winter, B. THeodore Zhang, Kohta Murase, Bing Zhang (2024) [Revisiting X-ray Afterglows of Jetted Tidal Disruption Events with the External Reverse Shock](https://arxiv.org/abs/2411.07925) arXiv: 2411.07925, 2025 ApJ 982 196
 1. Rong-Lan Li, **Chengchao Yuan**, Hao-Ning He et al. (2024) [A neutrino flare associated with X-ray emission from TDE ATLAS17jrp](https://arxiv.org/abs/2411.06440), arXiv:2411.06440, submitted
