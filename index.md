@@ -14,6 +14,7 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 <span style="color:#1E90FF"><b>The AM3 software is finally public! Checkout the [AM3 website](https://am3.readthedocs.io/) and our recent paper on arXiv:</b> <br />
 [   *AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources*](https://arxiv.org/abs/2312.13371)</span>
 
+<img align="center" src="files/NGC1068_FP.png" alt="drawing" width="840"/>
 <img align="center" src="files/TDEs.jpg" alt="drawing" height="200" width="840"/>
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
 
