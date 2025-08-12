@@ -15,8 +15,9 @@ My research focuses on the theoretical and numerical multi-messenger astrophysic
 [   *AM3: An Open-Source Tool for Time-Dependent Lepto-Hadronic Modeling of Astrophysical Sources*](https://arxiv.org/abs/2312.13371)</span>
 
 <img align="center" src="files/NGC1068_FP.png" alt="drawing" width="840"/>
-<img align="center" src="files/TDEs.jpg" alt="drawing" height="200" width="840"/>
 <img align="center" src="files/cover.png" alt="drawing" width="840" />
+<img align="center" src="files/TDEs.jpg" alt="drawing" height="200" width="840"/>
+
 
 ### Links
 * [Inspire](https://inspirehep.net/authors/1671091) &#124; [Google scholar](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) &#124; [Orcid](https://orcid.org/0000-0003-0327-6136)
