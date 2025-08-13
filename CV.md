@@ -1,6 +1,6 @@
 ## Curriculum Vitae
 <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
-Full [CV](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: March 2025]
+Full [CV](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: August 2025]
 
 ### Employment
 - **Postdoctoral Fellow**, 10/2022 - , Deutsches Elektronen-Synchrotron DESY (German National Accelerator), Germany<br />
