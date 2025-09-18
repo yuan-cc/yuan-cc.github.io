@@ -60,6 +60,9 @@ ULTRASAT Workshop, DESY, Zeuthen
 **July 15 - July 24, 2025** <br />
 ICRC 2025, Geneva, Switzerland
 
+**September 19 - 26** <br />
+Visit ULB, Brussels, Belgium
+
 **October 01, 2025** <br />
 Move to ULB, Brussels, Belgium 
 
