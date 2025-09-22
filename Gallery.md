@@ -1,8 +1,8 @@
 <h2>Gallery</h2>
 
-"知识之必要，探索之必要，凝视之必要, 片刻宁静之必要，身心安顿之必要"
+"知识之必要，探索之必要，凝视之必要，片刻宁静之必要，身心安顿之必要。"
 
-“The necessity of knowledge, the necessity of exploration, the necessity of gazing, the necessity of moments of tranquility, the necessity of settling the body and mind”
+“The necessity of knowledge, the necessity of exploration, the necessity of gazing, the necessity of moments of tranquility, the necessity of settling the body and mind.”
 
 
 <div style="display:flex; gap:0; margin:0; padding:0;">
@@ -31,7 +31,6 @@
 <img align="left" src="files/Gallery/IMG_9780.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9781.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
     <img align="left" src="files/Gallery/IMG_9782.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
-<img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
  </div>
 
 <div style="display: flex; flex-direction: column; flex: 0 0 360px; margin: 0; padding: 0;">
@@ -54,6 +53,7 @@
 <img align="left" src="files/Gallery/20190908_102220.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="left" src="files/Gallery/20191222_091919.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
 <img align="lest" src="files/Gallery/20190728_164434.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
+  <img align="lest" src="files/Gallery/IMG_9783.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
  </div>
   </div>
 
