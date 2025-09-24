@@ -2,7 +2,7 @@
 
 **09/2025, Theoretical Physics Seminar** <br />
 ULB, Brussels, Belgium <br />
-*(Invited talk) Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae.*
+*(Invited talk) [Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae](https://yuan-cc.github.io/files/ULB_Chengchao.pdf)*
 
 **07/2025, ICRC2025**<br />
 Geneva, Switzerland <br />
