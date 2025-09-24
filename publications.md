@@ -30,6 +30,7 @@
 {: reversed="reversed"}
 
 ### Conference Proceedings
+* **Yuan, C.**, Winter, W., Lunardini, C., Zhang, B. T.,Murase, K., Zhang, B. (2025) ["Neutrino and Electromagnetic Signals from Tidal Disruption Events: Bridging the Theory with Observations"](https://arxiv.org/abs/2508.07940) ICRC2025
 * **Yuan, C.**, Murase K. & Mészáros, P. (2019) [“A Multi-Messenger Picture of Galaxy Mergers: Neutrinos and Electromagnetic Emissions”](https://pos.sissa.it/358/1041/pdf), ICRC2019 1041.
 
 
