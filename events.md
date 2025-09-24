@@ -1,8 +1,8 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 
-**09/2025, Physics Seminar** <br />
+**09/2025, Theoretical Physics Seminar** <br />
 ULB, Brussels, Belgium <br />
-*Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae.*
+*(Invited talk) Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae.*
 
 **07/2025, ICRC2025**<br />
 Geneva, Switzerland <br />
