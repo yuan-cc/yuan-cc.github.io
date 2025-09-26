@@ -3,19 +3,17 @@
 Full [CV](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: August 2025]
 
 ### Employment
-- **Postdoctoral Fellow**, 10/2022 - , Deutsches Elektronen-Synchrotron DESY (German National Accelerator), Germany<br />
-- **Research Assistant**, 05/2018 - 08/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
-- **Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, University Park, PA, USA<br />
-- **REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, University Park, PA, USA<br />
+- **Postdoctoral Fellow**, 10/2022 - , Deutsches Elektronen-Synchrotron DESY, Germany<br />
+- **Research Assistant**, 05/2018 - 08/2022, Dept. of Physics, Pennsylvania State University, USA<br />
+- **Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, USA<br />
+- **REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, USA<br />
 
 ### Education
 **Ph.D. Physics, Pennsylvania State University**, University Park, PA, USA<br />
 August 2022 <br />
-Advisor: Prof. Peter Meszaros and Prof. Kohta Murase
 
 **B.Sc. Astronomy, Nanjing University**, Nanjing, Jiangsu, China<br />
 June 2016  <br />
-Advisor: Prof. Xiangyu Wang and Prof. Fayin Wang
 
 ### Honors and Awards
 * 2022 TDLI Prize Postdoctoral Fellowship (declined)
