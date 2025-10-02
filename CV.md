@@ -3,7 +3,8 @@
 Full [CV](https://yuan-cc.github.io/files/CV_CCY.pdf) [Last updated: August 2025]
 
 ### Employment
-- **Postdoctoral Fellow**, 10/2022 - , Deutsches Elektronen-Synchrotron DESY, Germany<br />
+- **ULB Postdoctoral Fellow**, 10/2025 - current, Université libre de Bruxelles, Belgium<br />
+- **Postdoctoral Fellow**, 10/2022 - 09/2025, Deutsches Elektronen-Synchrotron DESY, Germany<br />
 - **Research Assistant**, 05/2018 - 08/2022, Dept. of Physics, Pennsylvania State University, USA<br />
 - **Teaching Assistant**, 08/2016 - 05/2022, Dept. of Physics, Pennsylvania State University, USA<br />
 - **REU Intern**, 07/2015 - 08/2015, Dept. of Astronomy and Astrophysics, Pennsylvania State University, USA<br />
@@ -16,7 +17,7 @@ August 2022 <br />
 June 2016  <br />
 
 ### Honors and Awards
-* 2022 TDLI Prize Postdoctoral Fellowship (declined)
+* ULB Postdoctoral fellowship (2025)
 * W. Donald Miller Graduate Fellowship, Penn State (2022,2021)
 * David C. Duncan Graduate Fellowship, Penn State (2022,2021, 2020, 2019)
 * Homer F. Braddock Scholarship, Penn State (2017)
