@@ -1,5 +1,20 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 
+**10/2025,  Astronomy Seminar** <br />
+Fudan University, Shanghai, China <br />
+复旦大学
+*Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae*
+
+**10/2025, TDLI Astronomy and Astrophysics Seminar** <br />
+TDLI, Shanghai, China <br />
+李政道研究所
+*Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae*
+
+**10/2025, USTC Astronomy Colloquium** <br />
+USTC, Anhui, Hefei, China <br />
+中国科学技术大学
+*Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae*
+
 **09/2025, Theoretical Physics Seminar** <br />
 ULB, Brussels, Belgium <br />
 *(Invited talk) [Coupling time-dependent proton acceleration with leptonic-hadronic radiation in NGC 1068 and TDE coronae](https://yuan-cc.github.io/files/ULB_Chengchao.pdf)*
