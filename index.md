@@ -69,6 +69,11 @@ Move to ULB, Brussels, Belgium
 **November 3 - 7, 2025** <br />
 TeVPA 2025, Valencia, Spain
 
+**October 13 - 24, 2025** <br />
+13th - 14th: University of Sciences and Technology of China (USTC，中国科学技术大学), Hefei, Anhui, China <br />
+16th - 17th: Tsung-Dao Lee Institute （李政道研究所）, Shanghai, China <br />
+24th: Fudan University (复旦大学), Shanghai, China <br />
+
 (tbc)
 
 **December 25 - January 01, 2026**<br />
