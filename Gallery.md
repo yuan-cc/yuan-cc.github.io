@@ -7,6 +7,7 @@
 
 <div style="display:flex; gap:0; margin:0; padding:0;">
   <div style="display: flex; flex-direction: column; flex: 0 0 360px; margin: 0; padding: 0;">
+            <img align="left" src="files/Gallery/DSC04321.jp2" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
         <img align="left" src="files/Gallery/IMG_3846.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
             <img align="left" src="files/Gallery/IMG_3391.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/DSC02455.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
