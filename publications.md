@@ -2,7 +2,7 @@
 
 <hr style="height:4px;border-width:0;color:gray;background-color:#B3A1BF">
 
-[[iNSPIRE]](https://inspirehep.net/authors/1671091) | [[Google scholar]](https://scholar.google.com/citations?user=esUZFoMAAAAJ&hl=en) | [[ORCiD: 0000-0003-0327-6136]](https://orcid.org/0000-0003-0327-6136) | 
+[[iNSPIRE]](https://inspirehep.net/authors/1671091) | [[ORCiD: 0000-0003-0327-6136]](https://orcid.org/0000-0003-0327-6136) | 
 
 ### Journal Articles and Preprints
 
