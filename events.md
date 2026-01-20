@@ -126,7 +126,53 @@ Humboldt-Universität zu Berlin <br />
 
 <h2>Chronology</h2>
 
+<details><summary>2025</summary>
+<ul>
 
+<li>**February 26 - February 28, 2025** <br />
+Workshop on Numerical Multi-Messenger Modeling, Zeuthen, Germany</li>
+
+<li>**March 13-14, 2025** <br />
+Invited seminar <br />
+Institute of High Energy Physics (IHEP), Beijing, China <br />
+高能物理研究所，北京，中国
+</li>
+
+<li>**March 18, 2025** <br />
+Group seminar <br />
+Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China <br />
+北京大学科维理天文与天体物理研究所
+</li>
+
+<li>**March 21 - 24, 2025** <br />
+LHAASO Symposium, Hong Kong, China</li>
+
+<li>**April 02 - April 14, 2025** <br />
+Colloboration visit to University of Athens, Greece</li>
+
+<li>**April 28 - 29, 2025** <br />
+ULTRASAT Workshop, DESY, Zeuthen</li>
+
+<li>**July 15 - July 24, 2025** <br />
+ICRC 2025, Geneva, Switzerland</li>
+
+<li>**September 19 - 26** <br />
+Visit ULB, Brussels, Belgium</li>
+
+<li>**October 01, 2025** <br />
+Move to ULB, Brussels, Belgium </li>
+
+<li>**October 13 - 24, 2025：back to China** <br />
+13th - 14th: University of Sciences and Technology of China (USTC，中国科学技术大学), Hefei, Anhui, China <br />
+16th - 17th: Tsung-Dao Lee Institute （李政道研究所）, Shanghai, China <br />
+24th: Fudan University (复旦大学), Shanghai, China <br />
+</li>
+
+<li>**November 3 - 7, 2025** <br />
+TeVPA 2025, Valencia, Spain</li>
+
+</ul>
+</details>
 
 <details><summary>2024</summary>
 <ul>
