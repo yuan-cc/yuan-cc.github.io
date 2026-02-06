@@ -7,10 +7,10 @@
 ### Journal Articles and Preprints
 
 **Total: 21; first-author: 14**
-1. **Yuan, C.,** Liu, R.-Y. (2026) [TeV Gamma-Rays from the Low-Luminosity Active Galactic Nucleus NGC 4278: Implications for the Diffuse Neutrino Background](https://arxiv.org/abs/2601.21411) arXiv:2601.21411
-1. **Yuan, C.,** Fiorillo, D F. G., Petropoulou, M., Liu, Q. (2025) [Coupled Time-Dependent Proton Acceleration and Leptonic-Hadronic Radiation in Turbulent Supermassive Black Hole Coronae](https://arxiv.org/abs/2508.08233) arXiv:2508.08233, PRD in press
+1. **Yuan, C.,** Liu, R.-Y. (2026) [TeV Gamma-Rays from the Low-Luminosity Active Galactic Nucleus NGC 4278: Implications for the Diffuse Neutrino Background](https://arxiv.org/abs/2601.21411) arXiv:2601.21411, submitted to ApJ
+1. **Yuan, C.,** Fiorillo, D F. G., Petropoulou, M., Liu, Q. (2025) [Coupled Time-Dependent Proton Acceleration and Leptonic-Hadronic Radiation in Turbulent Supermassive Black Hole Coronae](https://arxiv.org/abs/2508.08233) arXiv:2508.08233, PRD 113 (2026) 4, 043016
 1. Fiorillo, D F. G., Testagrossa, F., **Yuan, C.,**, Petropoulou, M., Winter, W. (2025) [A generalized study of linear electromagnetic cascades in astrophysical sources](https://arxiv.org/abs/2509.00152) arXiv: 2509.00152, JCAP12(2025)044
-1. **Yuan, C.,** Pfeiffer, L., Winter, W., Buson, S., Testagrossa, F., Sanchez Zaballa, J., Azzollini, A. (2025) [An Accretion Flare Interpretation for the UHE Neutrino Event KM3-230213A](https://arxiv.org/abs/2506.21111) arXiv: 2506.21111 (ApJL in press)
+1. **Yuan, C.,** Pfeiffer, L., Winter, W., Buson, S., Testagrossa, F., Sanchez Zaballa, J., Azzollini, A. (2025) [An Accretion Flare Interpretation for the UHE Neutrino Event KM3-230213A](https://arxiv.org/abs/2506.21111) arXiv: 2506.21111, ApJL 998 (2026) 1, L1
 1. **Yuan, C.,**, Winter W., Zhang, B. T., Murase K., Zhang B. (2024) [Revisiting X-ray Afterglows of Jetted Tidal Disruption Events with the External Reverse Shock](https://arxiv.org/abs/2411.07925) arXiv: 2411.07925, 2025 ApJ 982 196
 1. Li R.-L., **Yuan, C.,**, He H.-N. et al. (2024) [A neutrino flare associated with X-ray emission from TDE ATLAS17jrp](https://arxiv.org/abs/2411.06440), arXiv:2411.06440, MNRAS in press
 1. Pavlo Plotko, Walter Winter, Cecilia Lunardini, **Chengchao Yuan** (2024) [Ultra-High-Energy Cosmic Rays from Neutrino-Emitting Tidal Disruption Events](https://arxiv.org/abs/2410.19047)	arXiv:2410.19047 (submitted to ApJ)
