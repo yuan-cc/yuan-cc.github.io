@@ -7,6 +7,7 @@
 ### Journal Articles and Preprints
 
 **Total: 21; first-author: 14**
+1. **Yuan, C.,** Jiang, N., Dai, Z.-G. [A White Dwarf Tidal Disruption by an Intermediate-Mass Black Hole as the Progenitor of Ultra-long GRB 250702B](https://arxiv.org/abs/2602.23299) arXiv: 2602.23299
 1. **Yuan, C.,** Liu, R.-Y. (2026) [TeV Gamma-Rays from the Low-Luminosity Active Galactic Nucleus NGC 4278: Implications for the Diffuse Neutrino Background](https://arxiv.org/abs/2601.21411) arXiv:2601.21411, submitted to ApJ
 1. **Yuan, C.,** Fiorillo, D F. G., Petropoulou, M., Liu, Q. (2025) [Coupled Time-Dependent Proton Acceleration and Leptonic-Hadronic Radiation in Turbulent Supermassive Black Hole Coronae](https://arxiv.org/abs/2508.08233) arXiv:2508.08233, PRD 113 (2026) 4, 043016
 1. Fiorillo, D F. G., Testagrossa, F., **Yuan, C.,**, Petropoulou, M., Winter, W. (2025) [A generalized study of linear electromagnetic cascades in astrophysical sources](https://arxiv.org/abs/2509.00152) arXiv: 2509.00152, JCAP12(2025)044
