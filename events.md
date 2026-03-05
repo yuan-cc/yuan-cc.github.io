@@ -1,5 +1,9 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 
+**03/2025, MuMeNTA: Multi-Messenger and Numerical Techniques in Astrophysics** <br />
+Athens, Greece <br />
+(Invited talk) *Turbulent proton acceleration and lepto-hadronic radiaiton in SMBH coronae* <br />
+
 **10/2025,  Astronomy Seminar** <br />
 Fudan University, Shanghai, China <br />
 复旦大学 <br />
