@@ -35,6 +35,7 @@
  </div>
 
 <div style="display: flex; flex-direction: column; flex: 0 0 360px; margin: 0; padding: 0;">
+        <img align="left" src="files/Gallery/4B7F499C-B61F-4386-AB72-796A0272D4AE.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
       <img align="left" src="files/Gallery/DSC04133.jpeg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
 <img align="left" src="files/Gallery/IMG_9938.jpg" alt="drawing" width="350" style="display: inline-block; border: 5px solid white;" />
   <img align="left" src="files/Gallery/IMG_4622.jpeg" alt="drawing" width="350" style="border: 5px solid white;" />
