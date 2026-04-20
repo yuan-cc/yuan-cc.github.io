@@ -6,10 +6,10 @@
 
 ### Journal Articles and Preprints
 
-**Total: 23; first-author: 15**
-1. Stathopoulos, S. I.,  **Yuan, C.,**, Vasilopoulos, G., Testagrossa, F., Karavola, D., Petropoulou, M., Winter, W. (2026) [Delayed Radio Flares in Neutrino-associated Blazars: The Case of TXS 0506+056](https://arxiv.org/abs/2604.01196), arXiv: 2604.01196
+**First-author: 15**
+1. Stathopoulos, S. I.,  **Yuan, C.,**, Vasilopoulos, G., Testagrossa, F., Karavola, D., Petropoulou, M., Winter, W. (2026) [Delayed Radio Flares in Neutrino-associated Blazars: The Case of TXS 0506+056](https://arxiv.org/abs/2604.01196), arXiv: 2604.01196, submitted to ApJL
 1. **Yuan, C.,** Jiang, N., Dai, Z.-G. (2026) [A White Dwarf Tidal Disruption by an Intermediate-Mass Black Hole as the Progenitor of Ultra-long GRB 250702B](https://arxiv.org/abs/2602.23299) arXiv: 2602.23299
-1. **Yuan, C.,** Liu, R.-Y. (2026) [TeV Gamma-Rays from the Low-Luminosity Active Galactic Nucleus NGC 4278: Implications for the Diffuse Neutrino Background](https://arxiv.org/abs/2601.21411) arXiv:2601.21411, submitted to ApJ
+1. **Yuan, C.,** Liu, R.-Y. (2026) [TeV Gamma-Rays from the Low-Luminosity Active Galactic Nucleus NGC 4278: Implications for the Diffuse Neutrino Background](https://arxiv.org/abs/2601.21411) arXiv:2601.21411, ApJ in press
 1. **Yuan, C.,** Fiorillo, D F. G., Petropoulou, M., Liu, Q. (2025) [Coupled Time-Dependent Proton Acceleration and Leptonic-Hadronic Radiation in Turbulent Supermassive Black Hole Coronae](https://arxiv.org/abs/2508.08233) arXiv:2508.08233, PRD 113 (2026) 4, 043016
 1. Fiorillo, D F. G., Testagrossa, F., **Yuan, C.,**, Petropoulou, M., Winter, W. (2025) [A generalized study of linear electromagnetic cascades in astrophysical sources](https://arxiv.org/abs/2509.00152) arXiv: 2509.00152, JCAP12(2025)044
 1. **Yuan, C.,** Pfeiffer, L., Winter, W., Buson, S., Testagrossa, F., Sanchez Zaballa, J., Azzollini, A. (2025) [An Accretion Flare Interpretation for the UHE Neutrino Event KM3-230213A](https://arxiv.org/abs/2506.21111) arXiv: 2506.21111, ApJL 998 (2026) 1, L1
@@ -33,7 +33,10 @@
 {: reversed="reversed"}
 
 ### Conference Proceedings
-* **Yuan, C.**, Winter, W., Lunardini, C., Zhang, B. T.,Murase, K., Zhang, B. (2025) ["Neutrino and Electromagnetic Signals from Tidal Disruption Events: Bridging the Theory with Observations"](https://arxiv.org/abs/2508.07940) ICRC2025
-* **Yuan, C.**, Murase K. & Mészáros, P. (2019) [“A Multi-Messenger Picture of Galaxy Mergers: Neutrinos and Electromagnetic Emissions”](https://pos.sissa.it/358/1041/pdf), ICRC2019 1041.
+1. **Yuan, C.**, Winter, W., Lunardini, C., Zhang, B. T.,Murase, K., Zhang, B. (2025) ["Neutrino and Electromagnetic Signals from Tidal Disruption Events: Bridging the Theory with Observations"](https://arxiv.org/abs/2508.07940) ICRC2025
+1. Li, R., **Yuan, C.,**, He, H.-N., et al. (2025) ["A neutrino flare potentially associated with X-ray emission from tidal disruption event ATLAS17jrp"](https://pos.sissa.it/501/1096) ICRC2025
+1. Federico Testagrossa, Georgios Vasilopoulos, Despina Karavola, Stamatios Ilias Stathopoulos, Maria Petropoulou, **Chengchao Yuan**, Walter Winter ["Accelerating SED Modeling of Astrophysical Objects Using Neural Networks"](https://arxiv.org/abs/2510.00126) IAUS 397
+1. B. T. Zhang, incl. Chengchao Yuan ["VHE gamma-rays from the hyper-bright GRB 221009A: implications for external inverse-Compton and proton synchrotron emission"](https://pos.sissa.it/444/1460) ICRC 2023
+1. **Yuan, C.**, Murase K. & Mészáros, P. (2019) [“A Multi-Messenger Picture of Galaxy Mergers: Neutrinos and Electromagnetic Emissions”](https://pos.sissa.it/358/1041/pdf), ICRC2019 1041.
 
 
