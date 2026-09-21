@@ -1,0 +1,19 @@
+## Time-dependent nuclear cascades with ANK
+
+**AstroNucleoKinetics (ANK)** provides the interaction and particle-transport calculations used by **NuCascade** to evolve coupled nuclear populations in time. The calculation follows injected nuclei and their secondary fragments through successive interactions and decays, including photodisintegration, photomeson production, energy losses, and escape. Time-dependent injection and radiation fields allow the composition and particle spectra to evolve with a transient source, alongside the existing steady-state capability.
+
+The example below models the tidal disruption event **AT2019dsg**, with pure iron-56 injection and evolving optical/UV, infrared, and X-ray photon fields.
+
+<figure>
+  <img src="https://yuan-cc.github.io/files/cascade_evolution.gif" alt="Time evolution of the AT2019dsg nuclear cascade on the neutron-number versus proton-number plane" style="width:100%;max-width:850px;height:auto;" loading="lazy">
+  <figcaption><strong>Nuclear cascade evolution.</strong> Each cell represents a nuclear species, colored by its energy density relative to the saved reference energy density. The animation follows the buildup and evolution of the nuclear population, including lighter fragments generated from iron. Observer time is measured relative to the optical peak; white cells lie below the displayed threshold.</figcaption>
+</figure>
+
+<figure>
+  <object data="https://yuan-cc.github.io/files/figure2_dsg.pdf#view=FitH" type="application/pdf" width="100%" height="480" aria-label="AT2019dsg cosmic-ray energy spectra grouped by nuclear mass">
+    <p><a href="https://yuan-cc.github.io/files/figure2_dsg.pdf">View the particle spectra (PDF)</a>.</p>
+  </object>
+  <figcaption><strong>Energy spectra and composition.</strong> Mass-grouped cosmic-ray spectra show time-integrated diffusive/neutron escape (left), advective escape (middle), and release of the population remaining at the end of the calculation (right). The ordinate is energy-weighted fluence, rather than instantaneous luminosity. Black curves show the total; dashed curves give the hypothetical free iron-56 reference.</figcaption>
+</figure>
+
+[Open the animation](https://yuan-cc.github.io/files/cascade_evolution.gif) · [Open the spectra PDF](https://yuan-cc.github.io/files/figure2_dsg.pdf)
