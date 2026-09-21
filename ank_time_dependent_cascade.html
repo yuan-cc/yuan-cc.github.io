@@ -1,10 +1,54 @@
 <!-- Homepage section: paste into the existing page body. -->
 <section id="ank-time-dependent-cascade" aria-labelledby="ank-cascade-title" lang="en">
   <h2 id="ank-cascade-title">Time-dependent nuclear cascades with ANK</h2>
-  <p>Chengchao Yuan, 2026/09/20 </p>
-  <p><strong>AstroNucleoKinetics (ANK)</strong> provides the interaction and particle-transport calculations used by <strong>NuCascade</strong> to evolve coupled nuclear populations in time. The calculation follows injected nuclei and their secondary fragments through successive interactions and decays, including photodisintegration, photomeson production, energy losses, and escape. Time-dependent injection and radiation fields allow the composition and particle spectra to evolve with a transient source, alongside the existing steady-state capability.</p>
 
-  <p>The example below models the tidal disruption event <strong>AT2019dsg</strong>, with pure iron-56 injection and evolving optical/UV, infrared, and X-ray photon fields.</p>
+  <p><strong>AstroNucleoKinetics (ANK)</strong> supplies nuclear interaction rates, secondary-production kernels, and single-species energy transport. <strong>NuCascade</strong> couples these calculations across a nuclear reaction network and evolves the differential number densities <em>N</em><sub>Z,A</sub>(<em>E</em>, <em>t</em>). Injected nuclei and their daughter nuclei can interact repeatedly, decay, lose energy, and escape. The same framework supports steady-state calculations and evolution with time-dependent injection and source conditions.</p>
+
+  <h3>AT2019dsg: a transient radiation environment</h3>
+
+  <p>In a tidal disruption event (TDE), stellar debris feeds an accreting black hole and can supply a luminous radiation field and an outflow. In the scenario illustrated here, energetic nuclei propagate through a magnetized interaction region associated with a TDE wind. Optical/UV radiation, infrared emission associated with the dust echo, and X-rays provide targets for nuclear interactions. The connection between these radiation fields, neutrinos, and escaping ultra-high-energy cosmic rays motivates the source models discussed by <a href="https://arxiv.org/abs/2410.19047v3">Plotko et al., <cite>Ultra-High-Energy Cosmic Rays from Neutrino-Emitting Tidal Disruption Events</cite></a>.</p>
+
+  <p>The figures show a local ANK/NuCascade calculation for <strong>AT2019dsg</strong>. The parameters below describe this example and its adopted source model, rather than quantities all independently determined by observations.</p>
+
+  <div style="overflow-x:auto;">
+    <table style="width:100%;border-collapse:collapse;text-align:left;">
+      <caption style="text-align:left;margin-bottom:0.6em;">Physical conditions adopted in the illustrated calculation</caption>
+      <thead>
+        <tr>
+          <th scope="col" style="padding:0.6em;border-bottom:2px solid #aaa;">Quantity</th>
+          <th scope="col" style="padding:0.6em;border-bottom:2px solid #aaa;">Model prescription</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><th scope="row" style="padding:0.6em;">Geometry and magnetic field</th><td style="padding:0.6em;">Homogeneous spherical region with fixed radius <em>R</em> = 5 × 10<sup>16</sup> cm, volume <em>V</em> = 4π<em>R</em><sup>3</sup>/3, and magnetic field <em>B</em> = 0.1 G. This is the particle-interaction radius, not a fitted blackbody photospheric radius.</td></tr>
+        <tr><th scope="row" style="padding:0.6em;">Time and redshift</th><td style="padding:0.6em;">Redshift <em>z</em> = 0.051. Evolution spans observer days −50 to +617 relative to the optical peak. Source-frame intervals obey Δ<em>t</em><sub>src</sub> = Δ<em>t</em><sub>obs</sub>/(1 + <em>z</em>).</td></tr>
+        <tr><th scope="row" style="padding:0.6em;">Optical/UV target</th><td style="padding:0.6em;">Planck spectrum with fixed <em>kT</em> = 3.37 eV and a prescribed bolometric light curve, normalized to 2.8 × 10<sup>44</sup> erg s<sup>−1</sup> at the optical peak.</td></tr>
+        <tr><th scope="row" style="padding:0.6em;">Infrared target</th><td style="padding:0.6em;">Planck spectrum with fixed <em>kT</em> = 0.1594 eV. Its luminosity follows the supplied infrared light curve, representing the delayed dust-echo component.</td></tr>
+        <tr><th scope="row" style="padding:0.6em;">X-ray target</th><td style="padding:0.6em;">Planck spectrum with fixed <em>kT</em> = 72 eV and constant luminosity 6.2 × 10<sup>43</sup> erg s<sup>−1</sup> in this example.</td></tr>
+        <tr><th scope="row" style="padding:0.6em;">Nuclear injection</th><td style="padding:0.6em;">Pure <sup>56</sup>Fe with <em>Q</em><sub>Fe</sub>(<em>E</em>, <em>t</em>) ∝ <em>f</em>(<em>t</em>)<em>E</em><sup>−2</sup> exp(−<em>E</em>/<em>E</em><sub>cut</sub>). The cutoff rigidity is 3.5 × 10<sup>10</sup> GV, giving <em>E</em><sub>cut</sub> ≈ 9.1 × 10<sup>20</sup> eV for iron. The peak injected power is 1.26 × 10<sup>46</sup> erg s<sup>−1</sup>. The time-dependent injection normalization follows the supplied optical/UV accretion proxy.</td></tr>
+        <tr><th scope="row" style="padding:0.6em;">Gas and wind</th><td style="padding:0.6em;">The target proton density varies with the same accretion proxy. The adopted prescription uses a 5 × 10<sup>6</sup> solar-mass black hole, Ṁ<em>c</em><sup>2</sup> = 100<em>L</em><sub>Edd</sub><em>f</em>(<em>t</em>), a wind mass fraction of 0.2, and wind speed 0.5<em>c</em>: <em>n</em><sub>p</sub> = 0.2Ṁ[<em>R</em>/(0.5<em>c</em>)]/(<em>V m</em><sub>p</sub>).</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>Each photon component is normalized through its <strong>bolometric energy density</strong>, <em>u</em><sub>γ</sub>(<em>t</em>) = <em>L</em>(<em>t</em>)/(4π<em>R</em><sup>2</sup><em>c</em>), so that ∫ ε<em>n</em><sub>γ</sub>(ε, <em>t</em>) dε = <em>u</em><sub>γ</sub>(<em>t</em>). A luminosity at one photon energy is not used as the bolometric normalization. The three fixed spectral shapes are evaluated separately and combined with their time-dependent amplitudes. Optical/UV and IR luminosities are interpolated in log luminosity, while the injection proxy is interpolated in linear luminosity.</p>
+
+  <h3>Physical processes in the cascade</h3>
+
+  <ul>
+    <li><strong>Photodisintegration:</strong> interactions with the target photons remove nucleons or nuclear fragments from a parent nucleus. The resulting daughter nuclei enter the transport network and can undergo further reactions. This example uses the A90 photodisintegration and isotope/decay data and follows a reachable network of 343 nuclear species, rather than only the first generation of iron fragments.</li>
+    <li><strong>Radioactive decay:</strong> unstable species feed their daughters through the selected decay network. Relativistic time dilation affects decay rates, allowing competition between decay, further interactions, and escape.</li>
+    <li><strong>Photomeson production:</strong> sufficiently energetic particles interact with photons to produce pions and secondary nucleons. Nuclear photomeson production is treated with a <strong>SOPHIA proton/neutron superposition approximation</strong>, using nucleon interactions at the corresponding energy per nucleon. This replaces a dedicated nuclear photomeson table in this calculation.</li>
+    <li><strong>Interactions with gas:</strong> collisions of energetic nuclei with target protons provide an additional pion source through the ANK proton–nucleus interaction model. Here the Sibyll-based treatment removes the incident nucleus catastrophically and supplies pion production, without following baryon regeneration from those collisions.</li>
+    <li><strong>Continuous energy losses:</strong> Bethe–Heitler pair production and synchrotron radiation reduce particle energy and reshape the nuclear spectra. The example keeps the source radius fixed and includes no source adiabatic cooling. Bethe–Heitler energy losses do not by themselves constitute a calculation of the emitted pair radiation.</li>
+    <li><strong>Escape:</strong> charged particles have an energy-dependent diffusive escape rate Γ<sub>diff</sub> = min(<em>c</em>/<em>R</em>, <em>c r</em><sub>L</sub>/<em>R</em><sup>2</sup>) and an advective rate Γ<sub>adv</sub> = 0.5<em>c</em>/<em>R</em>. Neutrons escape at <em>c</em>/<em>R</em>. Both charged-particle escape terms act in the same evolution, while the corresponding escaping spectra are recorded separately.</li>
+  </ul>
+
+  <h3>What the time evolution resolves</h3>
+
+  <p>The calculation begins with zero nuclear density and continuously injects iron as the source brightens and fades. NuCascade balances injection and secondary production against fragmentation, decay, cooling, and escape. Consequently, the nuclear population retains the history of earlier injection and interactions: its composition at a given time need not coincide with a steady-state solution for that instant. The evolving radiation field changes which interaction channels compete effectively with escape, while repeated reactions populate lighter nuclear species.</p>
+
+  <p>ANK supplies the microscopic rates and energy-transport solutions; NuCascade assembles the coupled network and advances it in physical time. Outputs include nuclear spectra, energy densities, composition maps, escaping-particle light curves, and integrated fluences. The animation below shows the species energy densities relative to a fixed reference normalization, preserving changes in the overall stored population as well as its composition.</p>
 
   <figure>
     <img src="https://yuan-cc.github.io/files/cascade_evolution.gif" alt="Time evolution of the AT2019dsg nuclear cascade on the neutron-number versus proton-number plane" style="width:100%;max-width:850px;height:auto;" loading="lazy">
@@ -17,6 +61,12 @@
     </object>
     <figcaption><strong>Energy spectra and composition.</strong> Mass-grouped cosmic-ray spectra show time-integrated diffusive/neutron escape (left), advective escape (middle), and release of the population remaining at the end of the calculation (right). The ordinate is energy-weighted fluence, rather than instantaneous luminosity. Black curves show the total; dashed curves give the hypothetical free iron-56 reference.</figcaption>
   </figure>
+
+  <h3>Pion source terms and downstream radiation</h3>
+
+  <p>The calculation also exports the differential production rates <em>Q</em><sub>π⁺</sub>(<em>E</em>, <em>t</em>), <em>Q</em><sub>π⁻</sub>(<em>E</em>, <em>t</em>), and <em>Q</em><sub>π⁰</sub>(<em>E</em>, <em>t</em>) in cm<sup>−3</sup> s<sup>−1</sup> GeV<sup>−1</sup>, with separate photomeson and gas-collision contributions. These are injection source terms for a downstream radiation calculation, not cooled pion densities. An AM3 coupling can map the charged-pion sources onto its energy and time grids and convert neutral-pion decay into a photon source, then calculate pion/muon cooling and decay, electromagnetic cascades, and photon and neutrino emission. That coupling is not connected in the current DSG reproduction script, and the figures above show the nuclear-cascade calculation.</p>
+
+  <p><strong>Scope of this example.</strong> The photon fields are prescribed, without radiation feedback from the cascade. Missing nuclear residuals use the configured nucleon-emission approximation. The displayed cosmic-ray fluences include source escape and cosmological redshift, but no intergalactic nuclear propagation. The final-release panel represents the population left at the end of the same evolution; it is distinct from the particles accumulated through continuous escape.</p>
 
   <p><a href="https://yuan-cc.github.io/files/cascade_evolution.gif">Open the animation</a> · <a href="https://yuan-cc.github.io/files/figure2_dsg.pdf">Open the spectra PDF</a></p>
 </section>
