@@ -1,13 +1,12 @@
 <!-- Homepage section: paste into the existing page body. -->
 <section id="ank-time-dependent-cascade" aria-labelledby="ank-cascade-title" lang="en">
   <h2 id="ank-cascade-title">Time-dependent nuclear cascades with ANK</h2>
-  <p>Chengchao Yuan, 2026/09/20 </p>
 
   <p><strong>AstroNucleoKinetics (ANK)</strong> supplies nuclear interaction rates, secondary-production kernels, and single-species energy transport. <strong>NuCascade</strong> couples these calculations across a nuclear reaction network and evolves the differential number densities <em>N</em><sub>Z,A</sub>(<em>E</em>, <em>t</em>). Injected nuclei and their daughter nuclei can interact repeatedly, decay, lose energy, and escape. The same framework supports steady-state calculations and evolution with time-dependent injection and source conditions.</p>
 
   <h3>AT2019dsg: a transient radiation environment</h3>
 
-  <p>In a tidal disruption event (TDE), stellar debris feeds an accreting black hole and can supply a luminous radiation field and an outflow. In the scenario illustrated here, energetic nuclei propagate through a magnetized interaction region associated with a TDE wind. Optical/UV radiation, infrared emission associated with the dust echo, and X-rays provide targets for nuclear interactions. The connection between these radiation fields, neutrinos, and escaping ultra-high-energy cosmic rays motivates the source models discussed by <a href="https://arxiv.org/abs/2410.19047v3">Plotko, Winter, Lunardini & Yuan, <cite>Ultra-High-Energy Cosmic Rays from Neutrino-Emitting Tidal Disruption Events</cite></a>.</p>
+  <p>In a tidal disruption event (TDE), stellar debris feeds an accreting black hole and can supply a luminous radiation field and an outflow. In the scenario illustrated here, energetic nuclei propagate through a magnetized interaction region associated with a TDE wind. Optical/UV radiation, infrared emission associated with the dust echo, and X-rays provide targets for nuclear interactions. The connection between these radiation fields, neutrinos, and escaping ultra-high-energy cosmic rays motivates the source models discussed by <a href="https://arxiv.org/abs/2410.19047v3">Plotko et al., <cite>Ultra-High-Energy Cosmic Rays from Neutrino-Emitting Tidal Disruption Events</cite></a>.</p>
 
   <p>The figures show a local ANK/NuCascade calculation for <strong>AT2019dsg</strong>. The parameters below describe this example and its adopted source model, rather than quantities all independently determined by observations.</p>
 
@@ -56,6 +55,11 @@
     <figcaption><strong>Nuclear cascade evolution.</strong> Each cell represents a nuclear species, colored by its energy density relative to the saved reference energy density. The animation follows the buildup and evolution of the nuclear population, including lighter fragments generated from iron. Observer time is measured relative to the optical peak; white cells lie below the displayed threshold.</figcaption>
   </figure>
 
+  <figure id="cascade-lightcurves-evolution">
+    <img src="https://yuan-cc.github.io/files/cascade_lightcurves_evolution.gif" alt="Synchronized nuclear cascade and luminosity light curves for AT2019dsg, with a vertical line marking the current observer time" style="width:100%;max-width:1400px;height:auto;" loading="lazy">
+    <figcaption><strong>Cascade evolution and source light curves.</strong> The left panel shows the nuclear population at each saved snapshot. The right panel shows the prescribed OUV, IR, and X-ray luminosities together with the mass-grouped luminosity of escaping cosmic rays above 10<sup>9</sup> GeV in observed total energy. The orange vertical line marks the same observer day as the nuclear snapshot and moves from left to right. The cosmic-ray curves include diffusive and neutron escape. Each saved snapshot has equal playback duration; no intermediate nuclear states are interpolated.</figcaption>
+  </figure>
+
   <figure>
     <object data="https://yuan-cc.github.io/files/figure2_dsg.pdf#view=FitH" type="application/pdf" width="100%" height="480" aria-label="AT2019dsg cosmic-ray energy spectra grouped by nuclear mass">
       <p><a href="https://yuan-cc.github.io/files/figure2_dsg.pdf">View the particle spectra (PDF)</a>.</p>
@@ -66,6 +70,11 @@
   <h3>Pion source terms and downstream radiation</h3>
 
   <p>The calculation also exports the differential production rates <em>Q</em><sub>π⁺</sub>(<em>E</em>, <em>t</em>), <em>Q</em><sub>π⁻</sub>(<em>E</em>, <em>t</em>), and <em>Q</em><sub>π⁰</sub>(<em>E</em>, <em>t</em>) in cm<sup>−3</sup> s<sup>−1</sup> GeV<sup>−1</sup>, with separate photomeson and gas-collision contributions. These are injection source terms for a downstream radiation calculation, not cooled pion densities. An AM3 coupling can map the charged-pion sources onto its energy and time grids and convert neutral-pion decay into a photon source, then calculate pion/muon cooling and decay, electromagnetic cascades, and photon and neutrino emission. That coupling is not connected in the current DSG reproduction script, and the figures above show the nuclear-cascade calculation.</p>
+
+  <figure id="pion-sources-day617">
+    <img src="https://yuan-cc.github.io/files/pion_sources_day617.png" alt="Pion production spectra at observer day +617 for positive, negative, and neutral pions, showing photomeson, proton-nucleus collision, and total contributions" style="width:100%;max-width:1500px;height:auto;" loading="lazy">
+    <figcaption><strong>Pion source spectra at observer day +617.</strong> The panels show π<sup>+</sup>, π<sup>−</sup>, and π<sup>0</sup> production from left to right. The horizontal axis is comoving pion energy; the vertical axis is the instantaneous energy-weighted production rate <em>E</em><sup>2</sup><em>Q</em><sub>π</sub>, in GeV cm<sup>−3</sup> s<sup>−1</sup>. Blue dashed curves show photomeson production, orange dotted curves show collisions with target gas (pA), and gray curves show their sum. At this epoch, photomeson production dominates the high-energy pion source, while gas collisions supply the low-energy contribution. These source spectra provide the intermediate injection terms for downstream pion decay and radiation calculations with AM3.</figcaption>
+  </figure>
 
   <p><strong>Scope of this example.</strong> The photon fields are prescribed, without radiation feedback from the cascade. Missing nuclear residuals use the configured nucleon-emission approximation. The displayed cosmic-ray fluences include source escape and cosmological redshift, but no intergalactic nuclear propagation. The final-release panel represents the population left at the end of the same evolution; it is distinct from the particles accumulated through continuous escape.</p>
 
