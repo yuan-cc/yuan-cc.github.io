@@ -6,7 +6,7 @@
 
 ### Journal Articles and Preprints
 
-**First-author: 15**
+**First-author: 16**
 1. **Yuan, C.** (2026) [Multimessenger Constraints on Nuclear Acceleration in Neutrino-Emitting Seyfert Coronae](https://arxiv.org/abs/2610.18671), arXiv: 2610.18671
 1. Stathopoulos, S. I.,  **Yuan, C.,**, Vasilopoulos, G., Testagrossa, F., Karavola, D., Petropoulou, M., Winter, W. (2026) [Delayed Radio Flares in Neutrino-associated Blazars: The Case of TXS 0506+056](https://arxiv.org/abs/2604.01196), ApJL 1006 L4
 1. **Yuan, C.,** Jiang, N., Dai, Z.-G. (2026) [A White Dwarf Tidal Disruption by an Intermediate-Mass Black Hole as the Progenitor of Ultra-long GRB 250702B](https://arxiv.org/abs/2602.23299) arXiv: 2602.23299
