@@ -1,6 +1,14 @@
 <h2>Talks & Posters (seminars/colloquia, conferences, workshops)</h2>
 
 
+**11/2026, Astrophysics Seminar** <br />
+School of Astronomy and Space Science, Nanjing University, Nanjing, Jiangsu, China <br />
+(Invited seminar) *Cosmic-Ray acceleration and multi-messenger emission in AGNs*
+
+**11/2026, PMO High-Energy Astrophysics Seminar** <br />
+Purple Mountain Observatory, Nanjing, Jiangsu, China<br />
+(Invited seminar) *Cosmic-Ray acceleration and multi-messenger emission in AGNs*
+
 **03/2026, MuMeNTA: Multi-Messenger and Numerical Techniques in Astrophysics** <br />
 Athens, Greece <br />
 (Invited talk) *Turbulent proton acceleration and lepto-hadronic radiaiton in SMBH coronae* <br />
